@@ -53,6 +53,7 @@ consult their work when deciding how to resolve tricky annotation problems.
   * Initial release in Universal Dependencies.
 
 
+<pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.7
 License: GNU GPLv3+
@@ -67,3 +68,4 @@ Contributors: Scannell, Kevin
 Contributing: elsewhere
 Contact: kscanne@gmail.com
 ===============================================================================
+</pre>
