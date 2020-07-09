@@ -9,7 +9,7 @@
 6	oaieyn	oaie	NOUN	_	_	3	obl	_	_
 7	ny	ny	DET	_	_	8	det	_	_
 8	merriu	marroo	NOUN	_	_	6	nmod	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_001
 # text = Lhig da fys 've eu nagh nee er y ghraih euish ta mee jannoo shoh, ta'n Chiarn Jee dy ghra: gow-jee nearey, as bee-jee nyn-dhost son ny raaidyn eu hene, O hie Israel.
@@ -64,7 +64,7 @@
 41	O	o	INTJ	_	_	42	discourse	_	_
 42	hie	thie	NOUN	_	_	27	vocative	_	_
 43	Israel	Israel	PROPN	_	_	42	nmod	_	SpaceAfter=No
-44	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+44	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_002
 # text = Dy valley lhee dy moal.
@@ -76,7 +76,7 @@
 4	ee	ee	PRON	_	_	2	obl	_	_
 5	dy	dy	PART	_	_	6	mark	_	_
 6	moal	moal	ADJ	_	_	2	advmod	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_003
 # text = T'eh mooadaghey liorish fraueyn aerag ta çheet dy ve kirp choonee.
@@ -93,7 +93,7 @@
 10	ve	ve	NOUN	_	_	8	xcomp	_	_
 11	kirp	corp	NOUN	_	_	10	obj	_	_
 12	choonee	coonee	ADJ	_	_	11	amod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_004
 # text = Ta millioonyn dy cho-vreneenyn ushtey ayns y vine sloo d'ushtey.
@@ -110,7 +110,7 @@
 10-11	d'ushtey	_	_	_	_	_	_	_	SpaceAfter=No
 10	d'	dy	ADP	_	_	11	case	_	_
 11	ushtey	ushtey	NOUN	_	_	8	nmod	_	_
-12	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_005
 # text = She dooinney-ooasle va'n ayr echey.
@@ -124,7 +124,7 @@
 6-7	echey	_	_	_	_	_	_	_	SpaceAfter=No
 6	ec	ec	ADP	_	_	7	case	_	_
 7	eh	eh	PRON	_	_	5	nmod	_	_
-8	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_006
 # text = Ren mee drappal seose trooid uinnag ayns ny cleaghyn as va mee my hoie lurg tammylt er y towl jaagh.
@@ -148,7 +148,7 @@
 18	y	yn	DET	_	_	19	det	_	_
 19	towl	towl	NOUN	_	_	14	obl	_	_
 20	jaagh	jaagh	NOUN	_	_	19	nmod	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_007
 # text = Myr shoh, t'ou toiggal, cha nel eh agh jannoo ny strimmey as jannoo shickyr dy vel ny coloayrtyssyn jeant as dy vel dy chooilley red aarloo son ymmyd, cre erbee y scenario vees taghyrt.
@@ -191,7 +191,7 @@
 36	scenario	scenario	NOUN	_	_	33	nsubj	_	_
 37	vees	bee	VERB	_	_	36	acl:relcl	_	_
 38	taghyrt	taghyrt	NOUN	_	_	37	xcomp	_	SpaceAfter=No
-39	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = aa_008
 # text = Ta'n lioar ass clou.
@@ -202,7 +202,7 @@
 3	lioar	lioar	NOUN	_	_	1	nsubj	_	_
 4	ass	ass	ADP	_	_	5	case	_	_
 5	clou	clou	NOUN	_	_	1	xcomp:pred	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_009
 # text = Agh roish shen, haink drogh naight son Eleanor - va'n ayr eck caillit ayns mooirchoor er Langness.
@@ -228,7 +228,7 @@
 18	mooirchoor	mooirchoor	NOUN	_	_	16	obl	_	_
 19	er	er	ADP	_	_	20	case	_	_
 20	Langness	Langness	PROPN	_	_	18	nmod	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = aa_010
 # text = Nish, gow yn baagh braew shoh.
@@ -239,7 +239,7 @@
 5	baagh	baagh	NOUN	_	_	3	obj	_	_
 6	braew	braew	ADJ	_	_	5	amod	_	_
 7	shoh	shoh	DET	_	_	5	det	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = aa_011
 # text = Ta trimmid çheusthie jeh corrilagh beg jeh'n towse share.
@@ -254,7 +254,7 @@
 8	yn	yn	DET	_	_	9	det	_	_
 9	towse	towse	NOUN	_	_	5	nmod	_	_
 10	share	mie	ADJ	_	_	9	amod	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_012
 # text = As haink eh gy-kione, myr v'eh ec padjer ayns ynnyd er-lheh, as e ostyllyn marish: dy denee eh jeu, gra, Cre ta'n pobble dy ghra my-mychione's, quoi mee?
@@ -309,7 +309,7 @@
 40	,	,	PUNCT	_	_	41	punct	_	_
 41	quoi	quoi	PRON	_	_	36	parataxis	_	_
 42	mee	mee	PRON	_	_	41	nsubj	_	SpaceAfter=No
-43	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
+43	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_013
 # text = Nagh vel oo maynrey?
@@ -318,7 +318,7 @@
 2	vel	bee	VERB	_	_	0	root	_	_
 3	oo	oo	PRON	_	_	2	nsubj	_	_
 4	maynrey	maynrey	ADJ	_	_	3	xcomp:pred	_	SpaceAfter=No
-5	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_014
 # text = “Ta, dy jarroo, agh cre'n fa v'ou gearree goll jiu ayns ynnyd jeh mairagh?”
@@ -345,7 +345,7 @@
 18	jeh	jeh	ADP	_	_	19	case	_	_
 19	mairagh	mairagh	NOUN	_	_	17	nmod	_	SpaceAfter=No
 20	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
-21	”	”	PUNCT	_	_	2	punct	_	SpaceAfter=No
+21	”	”	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_015
 # text = Ta fys mie aym er y freggyrt kiart da'n feysht shen, agh ta mee geearree geaishtagh rish veih'n dooinney hene.
@@ -378,7 +378,7 @@
 23	yn	yn	DET	_	_	24	det	_	_
 24	dooinney	dooinney	NOUN	_	_	19	obl	_	_
 25	hene	hene	PRON	_	_	24	nmod	_	SpaceAfter=No
-26	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_016
 # text = Nee yn lhieggey lowal da troggal boalley rish y phurt sthie.
@@ -393,7 +393,7 @@
 9	y	yn	DET	_	_	10	det	_	_
 10	phurt	purt	NOUN	_	_	7	nmod	_	_
 11	sthie	sthie	ADJ	_	_	10	amod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_017
 # text = Hurr Balley Chashtal kyndagh rish drogh thooillaghyn sy chied vee jeh'n vlein feed cheead as kiare-jeig.
@@ -417,7 +417,7 @@
 16	cheead	keead	NUM	_	_	14	appos	_	_
 17	as	as	CCONJ	_	_	18	cc	_	_
 18	kiare-jeig	kiare-jeig	NUM	_	_	16	conj	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_018
 # text = As ren ad toshiaght dy vriaght nyn mast' oc hene, quoi jeu yinnagh shoh.
@@ -440,7 +440,7 @@
 15	ad	ad	PRON	_	_	13	obl	_	_
 16	yinnagh	jean	VERB	_	_	13	acl:relcl	_	_
 17	shoh	shoh	PRON	_	_	16	obj	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_019
 # text = Ta mee er chlashtyn jeh cooyl-chassid sleih: as ta aggle er dy chooilley heu choud as t'ad cur nyn ghing cooidjagh, as goaill coyrle dy ghoaill ersooyl my vioys.
@@ -477,7 +477,7 @@
 30	ersooyl	ersooyl	ADV	_	_	29	advmod	_	_
 31	my	my	DET	_	_	32	det	_	_
 32	vioys	bioys	NOUN	_	_	29	obj	_	SpaceAfter=No
-33	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_020
 # text = Ta farraneyn bree elley goaill stiagh cabbil, caabil, yn ym-hayrn, aer broojit, battreeyn, as turbeenyn gas.
@@ -502,7 +502,7 @@
 19	as	as	CCONJ	_	_	20	cc	_	_
 20	turbeenyn	turbeen	NOUN	_	_	7	conj	_	_
 21	gas	gas	NOUN	_	_	20	nmod	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_021
 # text = Ren ee cummal rish dy hooyl as farg ayns e cree.
@@ -520,7 +520,7 @@
 10	ayns	ayns	ADP	_	_	12	case	_	_
 11	e	e	DET	_	_	12	det	_	_
 12	cree	cree	NOUN	_	_	9	nmod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_022
 # text = Myr shoh ta'n Chiarn dy ghra, Va coraa er ny chlashtyn ayns Ramah, dobberan, as keayney sharroo; Rachel keayney son e cloan, er-yn-oyr nagh row veg jeu faagit.
@@ -566,7 +566,7 @@
 35	jeh	jeh	ADP	_	_	36	case	_	_
 36	ad	ad	PRON	_	_	34	nmod	_	_
 37	faagit	faagit	ADJ	_	_	34	xcomp:pred	_	SpaceAfter=No
-38	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = aa_023
 # text = Va cabdil 'sy lioar shen enmysit "Aigh ny Yernee."
@@ -583,7 +583,7 @@
 10	ny	ny	DET	_	_	11	det	_	_
 11	Yernee	Yernagh	PROPN	_	_	9	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
-13	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
+13	"	"	PUNCT	_	_	9	punct	_	_
 
 # sent_id = aa_024
 # text = As haink eh gy-kione, tra va Abram er jeet gys Egypt, hug ny Egyptianee my-ner yn ven dy row ee feer aalin.
@@ -616,7 +616,7 @@
 24	ee	ee	PRON	_	_	23	nsubj	_	_
 25	feer	feer	ADV	_	_	26	advmod	_	_
 26	aalin	aalin	ADJ	_	_	23	xcomp:pred	_	SpaceAfter=No
-27	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_025
 # text = As nee ad gra, Cha vel ny laueyn ain er gheayrtey yn uill shoh, chamoo ta ny sooillyn ain er vakin eh.
@@ -650,7 +650,7 @@
 24	er	er	ADP	_	_	25	case	_	_
 25	vakin	fakin	NOUN	_	_	19	xcomp	_	_
 26	eh	eh	PRON	_	_	25	obj	_	SpaceAfter=No
-27	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_026
 # text = Bee yn guilley feer skee jeu.
@@ -662,7 +662,7 @@
 6-7	jeu	_	_	_	_	_	_	_	SpaceAfter=No
 6	jeh	jeh	ADP	_	_	7	case	_	_
 7	ad	ad	PRON	_	_	5	obl	_	_
-8	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_027
 # text = Va dooinney lieh-rooisht ny hassoo aynshen as vrie eh jeh'n thalhear c'red v'eh.
@@ -683,7 +683,7 @@
 14-15	v'eh	_	_	_	_	_	_	_	SpaceAfter=No
 14	v'	bee	VERB	_	_	13	acl:relcl	_	_
 15	eh	eh	PRON	_	_	14	nsubj	_	_
-16	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_028
 # text = "Ta Jee er ny vrasnaghey (liorish ny mee-chrauee) dy chooilley laa."
@@ -702,7 +702,7 @@
 13	chooilley	chooilley	DET	_	_	12	fixed	_	_
 14	laa	laa	NOUN	_	_	2	obl:tmod	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-16	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
+16	"	"	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_029
 # text = Ve orrym tughtey eh.
@@ -714,7 +714,7 @@
 4	mee	mee	PRON	_	_	1	xcomp:pred	_	_
 5	tughtey	tughtey	NOUN	_	_	1	xcomp	_	_
 6	eh	eh	PRON	_	_	5	obj	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_030
 # text = As lhie eh e laueyn er, as livrey eh da e churrym, myr hug y Chiarn sarey, liorish laue Voses.
@@ -746,7 +746,7 @@
 23	liorish	liorish	ADP	_	_	24	case	_	_
 24	laue	laue	NOUN	_	_	18	obl	_	_
 25	Voses	Moses	PROPN	_	_	24	nmod	_	SpaceAfter=No
-26	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_031
 # text = Cha noddym geddyn barriaght er!
@@ -757,7 +757,7 @@
 5-6	er	_	_	_	_	_	_	_	SpaceAfter=No
 5	er	er	ADP	_	_	6	case	_	_
 6	eh	eh	PRON	_	_	3	obl	_	_
-7	!	!	PUNCT	_	_	2	punct	_	SpaceAfter=No
+7	!	!	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_032
 # text = My t'ad credjal dy yinnagh saase ennagh ad y chooney, nee ad ymmyd jeh.
@@ -780,7 +780,7 @@
 16-17	jeh	_	_	_	_	_	_	_	SpaceAfter=No
 16	jeh	jeh	ADP	_	_	17	case	_	_
 17	eh	eh	PRON	_	_	13	obl	_	_
-18	.	.	PUNCT	_	_	13	punct	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	13	punct	_	_
 
 # sent_id = aa_033
 # text = V'eh aalin dy liooar.
@@ -790,7 +790,7 @@
 3	aalin	aalin	ADJ	_	_	1	xcomp:pred	_	_
 4	dy	dy	PART	_	_	5	mark	_	_
 5	liooar	liooar	ADJ	_	_	3	advmod	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_034
 # text = As ren ny ainleyn bannee shen Lesh bingys boggey niau, Shee yee as graih, as aigney mie, Y hoilshagh da sheelnaue.
@@ -818,7 +818,7 @@
 22	hoilshagh	soilshagh	NOUN	_	_	2	xcomp	_	_
 23	da	da	ADP	_	_	24	case	_	_
 24	sheelnaue	sheelnaue	NOUN	_	_	22	obl	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_035
 # text = Ta'n ard-chooish ghraih kiart er çheu kiart credjue, lane cowraghyn ard-voyrnagh jeigeyragh; ta cooish chadjin Takagi as Miyoshi foddey ny sassey credjue.
@@ -849,7 +849,7 @@
 23	ny	ny	PART	_	_	24	mark	_	_
 24	sassey	aashagh	ADJ	_	_	17	amod	_	_
 25	credjue	credjue	NOUN	_	_	24	xcomp	_	SpaceAfter=No
-26	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_036
 # text = Queshtanyn elley mychione Aisling.
@@ -857,7 +857,7 @@
 2	elley	elley	ADJ	_	_	1	amod	_	_
 3	mychione	mychione	ADP	_	_	4	case	_	_
 4	Aisling	Aisling	PROPN	_	_	1	nmod	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_037
 # text = As dooyrt eh rish e inneen, Cur uss arrym da dt'ayr as dty voir-'sy-leigh, ad ta nish dt'ayr as dty voir, dy voddym goo mie y chlashtyn jeed.
@@ -903,7 +903,7 @@
 36-37	jeed	_	_	_	_	_	_	_	SpaceAfter=No
 36	jeh	jeh	ADP	_	_	37	case	_	_
 37	oo	oo	PRON	_	_	35	obl	_	_
-38	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_038
 # text = As chroym eh sheese reesht, as scrieu eh er y laare.
@@ -919,7 +919,7 @@
 10	er	er	ADP	_	_	12	case	_	_
 11	y	yn	DET	_	_	12	det	_	_
 12	laare	laare	NOUN	_	_	8	obl	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_039
 # text = Agh nee Fer-ny-gherjagh, ta shen, yn Spyrryd Noo, eh nee yn Ayr y choyrt ayns yn ennym aym's, gynsaghey diu dy chooilley nhee, as tayrnee eh dy chooilley nhee gys nyn gooinaghtyn, cre-erbee ta mish er ghra riu.
@@ -976,7 +976,7 @@
 47-48	riu	_	_	_	_	_	_	_	SpaceAfter=No
 47	rish	rish	ADP	_	_	48	case	_	_
 48	shiu	shiu	PRON	_	_	46	obl	_	_
-49	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+49	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_040
 # text = Son skeayl ny cherubim magh nyn daa skian harrish ynnyd yn arg, as choodee ny cherubim yn arg, as ny looghyn mullee echey.
@@ -1008,7 +1008,7 @@
 25-26	echey	_	_	_	_	_	_	_	SpaceAfter=No
 25	ec	ec	ADP	_	_	26	case	_	_
 26	eh	eh	PRON	_	_	23	nmod	_	_
-27	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_041
 # text = As ren ooilley Israel, as nyn shanstyr as fir-oik, as nyn mriwnyn, shassoo er dagh cheu jeh'n arg, kiongoyrt rish ny saggyrtyn ny Leviteyn, va gymmyrkey arg conaant y Chiarn, chammah yn joarree as eshyn va ruggit ny mast'oc; yn derrey lieh jeu jeeragh er cronk Gerizim, as y lieh elley jeeragh er cronk Ebal; myr va Moses sharvaant y Chiarn roïe er chur sarey, dy vannaghey pobble Israel.
@@ -1099,7 +1099,7 @@
 81	vannaghey	bannaghey	NOUN	_	_	78	xcomp	_	_
 82	pobble	pobble	NOUN	_	_	81	obj	_	_
 83	Israel	Israel	PROPN	_	_	82	nmod	_	SpaceAfter=No
-84	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+84	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_042
 # text = T'eh ny phaarteeas jeh'n rheynnag theayagh as arryltagh.
@@ -1115,7 +1115,7 @@
 8	theayagh	theayagh	ADJ	_	_	7	amod	_	_
 9	as	as	CCONJ	_	_	10	cc	_	_
 10	arryltagh	arryltagh	ADJ	_	_	8	conj	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_043
 # text = Ta'n Paarteeas ny ard-stiureyder jeh Cummey Screeuit Bun-towshanagh ny Cornish, cair-screeu va skeaylt magh ayns 2008 as y chiarail echey dys ny cair-screeuyn elley y chur ry-cheilley, as er son ymmyd ny Cornish er cowraghyn raaidey, ayns docamadyn oikoil, as ayns scrutaghtyn scoill.
@@ -1172,7 +1172,7 @@
 48	ayns	ayns	ADP	_	_	49	case	_	_
 49	scrutaghtyn	scrutaght	NOUN	_	_	40	conj	_	_
 50	scoill	scoill	NOUN	_	_	49	nmod	_	SpaceAfter=No
-51	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+51	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_044
 # text = Ta shiu er jeet dy ve nearey foshlit da nyn noidyn: eer craid as faghid dauesyn ta mygeayrt-y-mooin.
@@ -1203,7 +1203,7 @@
 21	y	y	ADP	_	_	20	fixed	_	_
 22	mysh	mysh	ADP	_	_	20	fixed	_	_
 23	shin	shin	PRON	_	_	19	xcomp:pred	_	_
-24	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_045
 # text = Cha row my voddey coontey monney jeh.
@@ -1216,7 +1216,7 @@
 7-8	jeh	_	_	_	_	_	_	_	SpaceAfter=No
 7	jeh	jeh	ADP	_	_	8	case	_	_
 8	eh	eh	PRON	_	_	5	obj	_	_
-9	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_046
 # text = As jeh cassia queig cheead shekel, lurg shekel yn ynnyd casherick, as hin d'ooil olive.
@@ -1240,7 +1240,7 @@
 16	d'	dy	ADP	_	_	17	case	_	_
 17	ooil	ooil	NOUN	_	_	15	nmod	_	_
 18	olive	olive	NOUN	_	_	17	nmod	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = aa_047
 # text = “Dy jarroo, s'yindyssagh er fud yn ennym shen” as Cú Chulainn
@@ -1259,7 +1259,7 @@
 12	”	”	PUNCT	_	_	6	punct	_	_
 13	as	as	VERB	_	_	6	parataxis	_	_
 14	Cú	Cú	PROPN	_	_	13	nsubj	_	_
-15	Chulainn	Chulainn	PROPN	_	_	14	flat	_	SpaceAfter=No
+15	Chulainn	Chulainn	PROPN	_	_	14	flat	_	_
 
 # sent_id = aa_048
 # text = “She rhyt's eisht ta mee loayrt nish tra ta mee loayrt rish y fer.”
@@ -1281,7 +1281,7 @@
 15	y	yn	DET	_	_	16	det	_	_
 16	fer	fer	NOUN	_	_	13	obl	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
-18	”	”	PUNCT	_	_	4	punct	_	SpaceAfter=No
+18	”	”	PUNCT	_	_	4	punct	_	_
 
 # sent_id = aa_049
 # text = Ver Chris Robertshaw treealtys roish Tinvaal y vee shoh, shirrey er pointeil Bing Reiht dy aa-scrutaghey cur argid da bun-troggalys 'syn Ellan.
@@ -1312,7 +1312,7 @@
 23	ayns	ayns	ADP	_	_	25	case	_	_
 24	yn	yn	DET	_	_	25	det	_	_
 25	Ellan	ellan	NOUN	_	_	22	nmod	_	SpaceAfter=No
-26	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_050
 # text = Ren eh gearey choud as v'eh jeeaghyn cour y tholtan.
@@ -1328,7 +1328,7 @@
 9	cour	cour	ADP	_	_	11	case	_	_
 10	y	yn	DET	_	_	11	det	_	_
 11	tholtan	tholtan	NOUN	_	_	6	obl	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_051
 # text = ‘Ettyl-jee ersooyl, ushagyn!’ yinnagh ad yllagh magh, lheimmey mygeayrt 'sy chaaidje as craa ny roihaghyn oc.
@@ -1358,7 +1358,7 @@
 22-23	oc	_	_	_	_	_	_	_	SpaceAfter=No
 22	ec	ec	ADP	_	_	23	case	_	_
 23	ad	ad	PRON	_	_	21	nmod	_	_
-24	.	.	PUNCT	_	_	8	punct	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = aa_052
 # text = As feallagh elley saue-jee lesh aggle, myr dy beagh shiu dy hayrn ad ass yn aile; coyrt feoh eer da'n gharmad sollit liorish yn eill.
@@ -1392,7 +1392,7 @@
 26	liorish	liorish	ADP	_	_	28	case	_	_
 27	yn	yn	DET	_	_	28	det	_	_
 28	eill	feill	NOUN	_	_	25	obl	_	SpaceAfter=No
-29	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = aa_053
 # text = Share lhiam, foddee, yn aght so-chredjue ta saaseyn as ymmyrkey Tohru jannoo assee da beggan er veggan, gyn y skeeal çheet dy ve moralagh dree.
@@ -1429,7 +1429,7 @@
 28	ve	ve	NOUN	_	_	26	xcomp	_	_
 29	moralagh	moralagh	ADJ	_	_	28	xcomp:pred	_	_
 30	dree	dree	ADJ	_	_	28	xcomp:pred	_	SpaceAfter=No
-31	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_054
 # text = Cur-my-ner, ta mish, as my chloan ta'n Chiarn er chur dou, son cowraghyn as yindyssyn ayns Israel: veih Chiarn ny flaunyssee, ta cummal ayns cronk Sion.
@@ -1472,7 +1472,7 @@
 33	ayns	ayns	ADP	_	_	34	case	_	_
 34	cronk	cronk	NOUN	_	_	32	obl	_	_
 35	Sion	Sion	PROPN	_	_	32	nmod	_	SpaceAfter=No
-36	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_055
 # text = V'eh toiggal dy row Alan toilliu ny laghyn-seyrey as dy jinnagh y ghrian Valearagh foays da e charrrey lurg da ve kianglit laa lurg laa gys sevreain y valley mooar.
@@ -1510,7 +1510,7 @@
 30	y	yn	DET	_	_	31	det	_	_
 31	valley	balley	NOUN	_	_	29	nmod	_	_
 32	mooar	mooar	ADJ	_	_	31	amod	_	SpaceAfter=No
-33	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_056
 # text = Son s'fardalee ta smooinaghtyn deiney marvaanagh, as s'neu-shickyr ta nyn saaseyn!
@@ -1531,7 +1531,7 @@
 12	ta	bee	VERB	_	_	11	csubj:cleft	_	_
 13	nyn	nyn	DET	_	_	14	det	_	_
 14	saaseyn	saase	NOUN	_	_	12	nsubj	_	SpaceAfter=No
-15	!	!	PUNCT	_	_	3	punct	_	SpaceAfter=No
+15	!	!	PUNCT	_	_	3	punct	_	_
 
 # sent_id = aa_057
 # text = Shen va'n vea aym, rish bleeantyn.
@@ -1548,7 +1548,7 @@
 7	,	,	PUNCT	_	_	9	punct	_	_
 8	rish	rish	ADP	_	_	9	case	_	_
 9	bleeantyn	blein	NOUN	_	_	2	obl	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_058
 # text = Ren fer y faasaag gearaghtee mooar foddey booie.
@@ -1560,7 +1560,7 @@
 6	mooar	mooar	ADJ	_	_	5	amod	_	_
 7	foddey	foddey	ADJ	_	_	5	amod	_	_
 8	booie	booiagh	ADJ	_	_	5	amod	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_059
 # text = Ren Mwarree ginsh red beg da mychione e mac as e hinneenyn.
@@ -1578,7 +1578,7 @@
 11	as	as	CCONJ	_	_	13	cc	_	_
 12	e	e	DET	_	_	13	det	_	_
 13	hinneenyn	inneen	NOUN	_	_	10	conj	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_060
 # text = V'eh orrym faagail dy moghey er y fa dy row mee feer skee.
@@ -1600,7 +1600,7 @@
 13	mee	mee	PRON	_	_	12	nsubj	_	_
 14	feer	feer	ADV	_	_	15	advmod	_	_
 15	skee	skee	ADJ	_	_	12	xcomp:pred	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_061
 # text = Va aachummaghyn thallooin tannysagh cosnit ec y phartee as va eiyrtyssyn ennagh currit ec y phartee ayns Ard-whaiyl Hostyn ry hoi hene-reiltys Nerin.
@@ -1627,7 +1627,7 @@
 21	hoi	oaie	NOUN	_	_	20	fixed	_	_
 22	hene-reiltys	hene-reiltys	NOUN	_	_	13	obl	_	_
 23	Nerin	Nerin	PROPN	_	_	22	nmod	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_063
 # text = T'eh ny ghooinney lieh-hooillagh.
@@ -1637,7 +1637,7 @@
 3	ny	ny	DET	_	_	4	det	_	_
 4	ghooinney	dooinney	NOUN	_	_	1	xcomp:pred	_	_
 5	lieh-hooillagh	lieh-hooillagh	ADJ	_	_	4	amod	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_064
 # text = As haink David y ree, as hoie eh kiongoyrt rish y Chiarn, as dooyrt eh, Quoi mish, O Hiarn Yee, as cre ta my hie, dy vel oo er n'yannoo wheesh er my hon?
@@ -1684,7 +1684,7 @@
 39	er	er	ADP	_	_	41	case	_	_
 40	my	my	DET	_	_	41	det	_	_
 41	hon	son	NOUN	_	_	37	obl	_	SpaceAfter=No
-42	?	?	PUNCT	_	_	19	punct	_	SpaceAfter=No
+42	?	?	PUNCT	_	_	19	punct	_	_
 
 # sent_id = aa_065
 # text = Ta'n reiltys ain ny smoo boirrit er aghtyn as cliaghtaghyn reiltys yn R.U. dy chur scansh da nyn ashoon ain-hene er-lhiam.
@@ -1719,7 +1719,7 @@
 25	er	er	VERB	_	_	1	advcl	_	_
 26	lesh	lesh	ADP	_	_	27	case	_	_
 27	mee	mee	PRON	_	_	25	obl	_	_
-28	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_066
 # text = Ta bun y vlaa, marish ny braghtyn, yn-ee, agh ta dhossan dy vlaagyn neuappee ayns mean y vuinney nagh vel yn-ee ayns shenn vlaaghyn.
@@ -1750,7 +1750,7 @@
 25	ayns	ayns	ADP	_	_	27	case	_	_
 26	shenn	shenn	ADJ	_	_	27	amod	_	_
 27	vlaaghyn	blaa	NOUN	_	_	23	obl	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_067
 # text = T'eh grait dy vel y Paggad Bree cur ny shlee na jeih as feed millioon punt sy vlein da tarmaynys Vannin.
@@ -1779,7 +1779,7 @@
 21	da	da	ADP	_	_	22	case	_	_
 22	tarmaynys	tarmaynys	NOUN	_	_	9	obl	_	_
 23	Vannin	Mannin	PROPN	_	_	22	nmod	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_068
 # text = Lurg da roshtyn yn thie honnick eh carrey elley ass Kilpherick ta mysh shey meeilaghyn my yiass voish Sheadjag.
@@ -1804,7 +1804,7 @@
 18	yiass	jiass	NOUN	_	_	16	obl	_	_
 19	voish	voish	ADP	_	_	20	case	_	_
 20	Sheadjag	Sheadjag	PROPN	_	_	16	nmod	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = aa_069
 # text = Yeeagh Mnr Shynnagh er e ven as ren ee mongey.
@@ -1819,7 +1819,7 @@
 8	ren	jean	VERB	_	_	1	conj	_	_
 9	ee	ee	PRON	_	_	8	nsubj	_	_
 10	mongey	mongey	NOUN	_	_	8	obj	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_070
 # text = T'adsyn er nyn goyrt fo-chosh, as er duittym: agh ta shinyn er droggal, as shassoo dy shickyr.
@@ -1849,7 +1849,7 @@
 20	shassoo	shassoo	NOUN	_	_	17	conj	_	_
 21	dy	dy	PART	_	_	22	mark	_	_
 22	shickyr	shickyr	ADJ	_	_	20	advmod	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_071
 # text = Va Zedekiah bleïn as feed dy eash tra ghow eh toshiaght dy reill; as ren eh reill un vleïn jeig ayns Jerusalem.
@@ -1878,7 +1878,7 @@
 21	jeig	jeig	NUM	_	_	19	compound	_	_
 22	ayns	ayns	ADP	_	_	23	case	_	_
 23	Jerusalem	Jerusalem	PROPN	_	_	16	obl	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_072
 # text = Ta sorçh dy neeal glass çheet er dy chooilley red nish as eisht ta dy chooilley nhee dorraghey.
@@ -1900,7 +1900,7 @@
 16	chooilley	chooilley	DET	_	_	15	fixed	_	_
 17	nhee	nhee	NOUN	_	_	14	nsubj	_	_
 18	dorraghey	dorraghey	ADJ	_	_	14	xcomp	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_073
 # text = Agh my va Marika er e beealloo, c'raad va Dooinney ny Faasaag?
@@ -1917,7 +1917,7 @@
 11	Dooinney	dooinney	NOUN	_	_	10	nsubj	_	_
 12	ny	ny	DET	_	_	13	det	_	_
 13	Faasaag	faasaag	NOUN	_	_	11	nmod	_	SpaceAfter=No
-14	?	?	PUNCT	_	_	9	punct	_	SpaceAfter=No
+14	?	?	PUNCT	_	_	9	punct	_	_
 
 # sent_id = aa_074
 # text = As rish hene dooyrt eh, Cur-my-ner, ta mee er ghoaill ersooyl dty pheccaghyn, as nee'm oo y choodaghey lesh caghlaa-coamrey.
@@ -1951,7 +1951,7 @@
 24	choodaghey	coodaghey	NOUN	_	_	21	xcomp	_	_
 25	lesh	lesh	ADP	_	_	26	case	_	_
 26	caghlaa-coamrey	caghlaa-coamrey	NOUN	_	_	24	obl	_	SpaceAfter=No
-27	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = aa_075
 # text = As shoh va oyr y cheesh hrog ree Solomon, Ry-hoi troggal thie'n Chiarn, as e hie hene, as Millo, as voalley Yerusalem, as Hazor, as Megiddo, as Gezer.
@@ -1996,7 +1996,7 @@
 35	,	,	PUNCT	_	_	37	punct	_	_
 36	as	as	CCONJ	_	_	37	cc	_	_
 37	Gezer	Gezer	PROPN	_	_	14	conj	_	SpaceAfter=No
-38	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_076
 # text = Ren e phobble hene y leeideil trooid yn aasagh: son ta e vyghin farraghtyn son dy bragh.
@@ -2020,7 +2020,7 @@
 16	son	son	ADP	_	_	18	case	_	_
 17	dy	dy	ADP	_	_	18	case	_	_
 18	bragh	bragh	NOUN	_	_	15	obl:tmod	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_077
 # text = Rish shey laa nee shiu chaglym eh, agh er y chiaghtoo laa ta'n doonaght, cha bee veg jeh ry gheddyn.
@@ -2052,7 +2052,7 @@
 22	eh	eh	PRON	_	_	20	nmod	_	_
 23	ry	ry	ADP	_	_	24	case	_	_
 24	gheddyn	geddyn	NOUN	_	_	19	xcomp	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = aa_078
 # text = Te scruit er my hon.
@@ -2063,7 +2063,7 @@
 4	er	er	ADP	_	_	6	case	_	_
 5	my	my	DET	_	_	6	det	_	_
 6	hon	son	NOUN	_	_	1	obl	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_079
 # text = Tra v'eh ergerrey da croymmey ny greiney va Juan ny chadley foast.
@@ -2081,7 +2081,7 @@
 11	ny	ny	DET	_	_	12	det	_	_
 12	chadley	cadley	NOUN	_	_	9	xcomp:pred	_	_
 13	foast	foast	ADV	_	_	9	advmod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = aa_080
 # text = Ren eh troggal er as sheeyney e laue huic.
@@ -2099,7 +2099,7 @@
 10-11	huic	_	_	_	_	_	_	_	SpaceAfter=No
 10	hug	hug	ADP	_	_	11	case	_	_
 11	ee	ee	PRON	_	_	7	obl	_	_
-12	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_081
 # text = Adsyn ayns baljyn as baljyn beggey syn Ellan ren goaill ayrn sy cho-hirrey Ellanyn my Vlaa, t'ad fuirraght d'eddyn magh quoi vees ny cosneyderyn.
@@ -2136,7 +2136,7 @@
 27	vees	bee	VERB	_	_	26	acl:relcl	_	_
 28	ny	ny	DET	_	_	29	det	_	_
 29	cosneyderyn	cosneyder	NOUN	_	_	27	xcomp:pred	_	SpaceAfter=No
-30	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_082
 # text = Son ga dy vel baase leah berraghtyn er yn ynrick; foast bee eh ayns fea.
@@ -2157,7 +2157,7 @@
 14	eh	eh	PRON	_	_	13	nsubj	_	_
 15	ayns	ayns	ADP	_	_	16	case	_	_
 16	fea	fea	NOUN	_	_	13	xcomp:pred	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	13	punct	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	13	punct	_	_
 
 # sent_id = aa_083
 # text = Cre t'ow dy yearree er Jee ayns y Phadjer shoh?
@@ -2173,7 +2173,7 @@
 9	y	yn	DET	_	_	10	det	_	_
 10	Phadjer	padjer	NOUN	_	_	5	obl	_	_
 11	shoh	shoh	DET	_	_	10	det	_	SpaceAfter=No
-12	?	?	PUNCT	_	_	1	punct	_	SpaceAfter=No
+12	?	?	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_084
 # text = Shoh eiraght cloan Venjamin, cordail rish nyn gynneeyn.
@@ -2187,7 +2187,7 @@
 7	rish	rish	ADP	_	_	6	fixed	_	_
 8	nyn	nyn	DET	_	_	9	det	_	_
 9	gynneeyn	kynney	NOUN	_	_	2	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_085
 # text = Vel vondeishyn erbee elley cheet liorish y Credjue shoh?
@@ -2200,7 +2200,7 @@
 7	y	yn	DET	_	_	8	det	_	_
 8	Credjue	credjue	NOUN	_	_	5	obl	_	_
 9	shoh	shoh	DET	_	_	8	det	_	SpaceAfter=No
-10	?	?	PUNCT	_	_	1	punct	_	SpaceAfter=No
+10	?	?	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_086
 # text = Myrane lesh shen, t'eh er goaill paart lesh Aegid Chochaarjys Seyr ny h-Oarpey veih'n vlein 2003 as lesh Kernow X veih'n vlein 2007.
@@ -2234,7 +2234,7 @@
 25	yn	yn	DET	_	_	26	det	_	_
 26	vlein	blein	NOUN	_	_	8	obl	_	_
 27	2007	2007	NUM	_	_	26	appos	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = aa_087
 # text = Tra v'eh er-sooyl ass shilley haink yn troailtagh elley sheese ass y villey, as dooyrt eh rish e charrey ayns aght grinderagh “Cre va'n vuc-awin sonjeragh ayns dty chleaysh?”
@@ -2276,7 +2276,7 @@
 33	dty	dty	DET	_	_	34	det	_	_
 34	chleaysh	cleaysh	NOUN	_	_	31	obl	_	SpaceAfter=No
 35	?	?	PUNCT	_	_	27	punct	_	SpaceAfter=No
-36	”	”	PUNCT	_	_	27	punct	_	SpaceAfter=No
+36	”	”	PUNCT	_	_	27	punct	_	_
 
 # sent_id = aa_088
 # text = Ny yei, ayns ny Steatyn Unnaneyssit, t'ad gra ‘zee’.
@@ -2295,7 +2295,7 @@
 12	‘	‘	PUNCT	_	_	13	punct	_	SpaceAfter=No
 13	zee	zee	X	_	_	11	obj	_	SpaceAfter=No
 14	’	’	PUNCT	_	_	13	punct	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = aa_089
 # text = "By vie lhiam dy mooar gynsaghey clickyn da, dy—dy beigns y mooadys kiart shen y yannoo!
@@ -2325,7 +2325,7 @@
 20	shen	shen	DET	_	_	22	obj	_	_
 21	y	y	ADP	_	_	22	mark	_	_
 22	yannoo	jannoo	NOUN	_	_	18	acl	_	SpaceAfter=No
-23	!	!	PUNCT	_	_	16	punct	_	SpaceAfter=No
+23	!	!	PUNCT	_	_	16	punct	_	_
 
 # sent_id = aa_090
 # text = As dooyrt eh rish scollag, Cur lhiat eh gys e voir.
@@ -2345,7 +2345,7 @@
 11	gys	gys	ADP	_	_	13	case	_	_
 12	e	e	DET	_	_	13	det	_	_
 13	voir	moir	NOUN	_	_	7	obl	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_091
 # text = Agh ny keayrtyn s'mie lhein goll er turrys liauyr ayns y Rank er y roar ain.
@@ -2372,7 +2372,7 @@
 18-19	ain	_	_	_	_	_	_	_	SpaceAfter=No
 18	ec	ec	ADP	_	_	19	case	_	_
 19	shin	shin	PRON	_	_	17	nmod	_	_
-20	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = aa_092
 # text = Fy yerrey hooar ad magh liorish peeikearyn dy row Gorree er ellan dy row enmyssit Ellan Cholumb Killey marish kuse dy gheiney, gyn goaill aggle roish gaue erbee.
@@ -2405,7 +2405,7 @@
 27	roish	roish	ADP	_	_	28	case	_	_
 28	gaue	gaue	NOUN	_	_	25	obl	_	_
 29	erbee	erbee	ADJ	_	_	28	amod	_	SpaceAfter=No
-30	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = aa_093
 # text = Ta Mnr O'Hanlon gra dy vel drogh-reirey ec ynnyd y yig er chostal eeckeyderyn-keesh keead thousane punt - cha nel y Rheynn Lhiasaghey Tarmaynys er veeraghey shen, as cha nel y Rheynn eh y nobbal noadyr.
@@ -2447,7 +2447,7 @@
 35	y	y	ADP	_	_	36	mark	_	_
 36	nobbal	obbal	NOUN	_	_	31	xcomp	_	_
 37	noadyr	noadyr	ADV	_	_	31	advmod	_	SpaceAfter=No
-38	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_094
 # text = Ren Mwarree briaght jee hene row shoh firrinagh.
@@ -2461,7 +2461,7 @@
 7	row	bee	VERB	_	_	3	ccomp	_	_
 8	shoh	shoh	PRON	_	_	7	nsubj	_	_
 9	firrinagh	firrinagh	ADJ	_	_	7	xcomp:pred	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_095
 # text = Nish va ny chaghteryn feer tastagh darragh fockle erbee voish, as ghow ad dy leah greme er yn ockle; as dooyrt ad, Dty vraar Ben-hadad.
@@ -2497,7 +2497,7 @@
 27	Dty	dty	DET	_	_	28	det	_	_
 28	vraar	braar	NOUN	_	_	24	parataxis	_	_
 29	Ben-hadad	Ben-hadad	PROPN	_	_	28	appos	_	SpaceAfter=No
-30	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_096
 # text = As ta ram doo-oalleeyn vooar ass towse ayn.
@@ -2511,7 +2511,7 @@
 8-9	ayn	_	_	_	_	_	_	_	SpaceAfter=No
 8	ayns	ayns	ADP	_	_	9	case	_	_
 9	eh	eh	PRON	_	_	2	xcomp:pred	_	_
-10	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_097
 # text = As dooyrt ad rish, Bee dty host, cur dty laue er dty veeal, as tar mârin, as bee oo dooin son ayr as saggyrt: cre share dhyt dy ve dty haggyrt da thie un dooinney, ny dy ve dty haggyrt da tribe as kynney ayns Israel?
@@ -2577,7 +2577,7 @@
 54	kynney	kynney	NOUN	_	_	52	conj	_	_
 55	ayns	ayns	ADP	_	_	56	case	_	_
 56	Israel	Israel	PROPN	_	_	52	nmod	_	SpaceAfter=No
-57	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
+57	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_098
 # text = Ta: bee dagh unnane ta cheet gys Yeesey dy jarroo er ny hauail: son t'eh er n'okley magh dy "bee dy chooilley pheccah as raa mollaghtagh er ny leih" da'n arryssagh firrinagh.
@@ -2623,7 +2623,7 @@
 37	yn	yn	DET	_	_	38	det	_	_
 38	arryssagh	arryssagh	NOUN	_	_	25	obl	_	_
 39	firrinagh	firrinagh	ADJ	_	_	38	amod	_	SpaceAfter=No
-40	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_099
 # text = Un chaa keyl – tayrtyn eh lesh ooilley ny druggaghyn v'echey.
@@ -2641,7 +2641,7 @@
 11	v'	bee	VERB	_	_	10	acl:relcl	_	_
 12	ec	ec	ADP	_	_	13	case	_	_
 13	eh	eh	PRON	_	_	11	xcomp:pred	_	_
-14	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_100
 # text = Cha jean oo conaant erbee roosyn, ny rish ny jeeghyn oc.
@@ -2662,7 +2662,7 @@
 13-14	oc	_	_	_	_	_	_	_	SpaceAfter=No
 13	ec	ec	ADP	_	_	14	case	_	_
 14	ad	ad	PRON	_	_	12	nmod	_	_
-15	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_101
 # text = Cre'n raad ta dty ghraih er ghoaill, O uss s'aalin ta mastey mraane?
@@ -2685,7 +2685,7 @@
 14	ta	bee	VERB	_	_	11	acl:relcl	_	_
 15	mastey	mastey	ADP	_	_	16	case	_	_
 16	mraane	ben	NOUN	_	_	14	xcomp:pred	_	SpaceAfter=No
-17	?	?	PUNCT	_	_	1	punct	_	SpaceAfter=No
+17	?	?	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_102
 # text = As ren eh loopey queig curtanyn dy cheilley: as ny queig curtanyn elley loop eh dy cheilley.
@@ -2709,7 +2709,7 @@
 16	eh	eh	PRON	_	_	15	nsubj	_	_
 17	dy	dy	ADP	_	_	18	case	_	_
 18	cheilley	cheilley	NOUN	_	_	15	obl	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_103
 # text = Steven Corkill, ass Poyll Roish, hooar eh baase ayns Thie-Lheihys Noble er yn çheyoo laa jeig Mean Souree nurree - v'eh feddynit dy row cocaine dy liooar syn 'uill echey eh y varroo.
@@ -2754,7 +2754,7 @@
 36	eh	eh	PRON	_	_	38	obj	_	_
 37	y	y	ADP	_	_	38	mark	_	_
 38	varroo	marroo	NOUN	_	_	27	xcomp	_	SpaceAfter=No
-39	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_104
 # text = As loayr ad rish Moses, gra, Ta'n pobble coyrt lhieu foddey smoo ny ta ymmyrchagh son shirveish yn obbyr, ta'n Chiarn er harey dy ve jeant.
@@ -2795,7 +2795,7 @@
 30	dy	dy	ADP	_	_	31	case	_	_
 31	ve	ve	NOUN	_	_	29	xcomp	_	_
 32	jeant	jeant	ADJ	_	_	31	xcomp:pred	_	SpaceAfter=No
-33	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_105
 # text = S'messey e vaggyrt na e vuilley.
@@ -2808,7 +2808,7 @@
 5	na	na	ADP	_	_	7	case	_	_
 6	e	e	DET	_	_	7	det	_	_
 7	vuilley	builley	NOUN	_	_	2	obl	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_106
 # text = Ayns y Thalloo Vretnagh ta ny smoo na feed oltey cronnal jeh Cymdeithas yr Iaith Gymraeg (Sheshaght yn Ghlare Vretnagh, CIG) er cheau kiare oor as feed nyn drostey as ad gymmyrkey feanish noi'n reiltys Vretnagh ta cur lesh slattys noa stiagh mychione plannal thieyn nagh vel, cordail rish CIG, goaill stiagh kiarailyn dy liooar dy choadey yn Vretnish ayns buill raad t'ee goll er loayrt myr çhengey yn theay.
@@ -2892,7 +2892,7 @@
 75	çhengey	çhengey	NOUN	_	_	73	obl	_	_
 76	yn	yn	DET	_	_	77	det	_	_
 77	theay	theay	NOUN	_	_	75	nmod	_	SpaceAfter=No
-78	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+78	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = aa_107
 # text = V'ad ooilley ayns fardail.
@@ -2902,7 +2902,7 @@
 3	ooilley	ooilley	ADV	_	_	1	advmod	_	_
 4	ayns	ayns	ADP	_	_	5	case	_	_
 5	fardail	fardail	NOUN	_	_	1	xcomp:pred	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_108
 # text = Va cramman echey dou.
@@ -2916,7 +2916,7 @@
 5-6	dou	_	_	_	_	_	_	_	SpaceAfter=No
 5	da	da	ADP	_	_	6	case	_	_
 6	mee	mee	PRON	_	_	1	obl	_	_
-7	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_109
 # text = As harroosyn va mysh obbyr magheragh, as messyn y thallooin, va Ezri, mac Ghelub.
@@ -2941,7 +2941,7 @@
 16	,	,	PUNCT	_	_	17	punct	_	_
 17	mac	mac	NOUN	_	_	15	appos	_	_
 18	Ghelub	Ghelub	PROPN	_	_	17	nmod	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	14	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	14	punct	_	_
 
 # sent_id = aa_110
 # text = Cre cho mennick as oddagh eh shen y yannoo, yinnagh eh gliooney sheese as goaill padjer rish y Chiarn dy ve livreyit veih e vondiaght liorish aghin ny Moidyn Bannee (son va ennym ny Moidyn er y Vanishter raad v'eh goit dy molteyragh).
@@ -2993,7 +2993,7 @@
 45	dy	dy	PART	_	_	46	mark	_	_
 46	molteyragh	molteyragh	ADJ	_	_	41	amod	_	SpaceAfter=No
 47	)	)	PUNCT	_	_	34	punct	_	SpaceAfter=No
-48	.	.	PUNCT	_	_	11	punct	_	SpaceAfter=No
+48	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = aa_111
 # text = Ta queig booaghyn jeig echey.
@@ -3005,7 +3005,7 @@
 5-6	echey	_	_	_	_	_	_	_	SpaceAfter=No
 5	ec	ec	ADP	_	_	6	case	_	_
 6	eh	eh	PRON	_	_	1	xcomp:pred	_	_
-7	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_112
 # text = As dooyrt Samuel, Kys oddym goll?
@@ -3017,7 +3017,7 @@
 5	Kys	kys	ADV	_	_	6	advmod	_	_
 6	oddym	fod	VERB	_	_	2	parataxis	_	_
 7	goll	goll	NOUN	_	_	6	xcomp	_	SpaceAfter=No
-8	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_113
 # text = As dreggyr Yeesey as dooyrt eh roosyn, Chamoo insh-yms diuish liorish cre'n phooar ta mee dy yannoo ny reddyn shoh.
@@ -3050,7 +3050,7 @@
 22	ny	ny	DET	_	_	23	det	_	_
 23	reddyn	red	NOUN	_	_	21	obj	_	_
 24	shoh	shoh	DET	_	_	23	det	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_114
 # text = Va ny sooillyn gorrym eck soilshean dy barriaghtagh.
@@ -3066,7 +3066,7 @@
 7	soilshean	soilshean	NOUN	_	_	1	xcomp	_	_
 8	dy	dy	PART	_	_	9	mark	_	_
 9	barriaghtagh	barriaghtagh	ADJ	_	_	7	advmod	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_115
 # text = Gyn ourys, va yindyssagh.
@@ -3075,7 +3075,7 @@
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	va	bee	VERB	_	_	0	root	_	_
 5	yindyssagh	yindyssagh	ADJ	_	_	4	xcomp:pred	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = aa_116
 # text = Shen-y-fa ta'n ynnyd enmyssit Gilgal gys y laa t'ayn jiu.
@@ -3099,7 +3099,7 @@
 13	ayns	ayns	ADP	_	_	14	case	_	_
 14	eh	eh	PRON	_	_	12	xcomp:pred	_	_
 15	jiu	jiu	ADV	_	_	12	advmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_117
 # text = She sheelaght t'ayn.
@@ -3110,7 +3110,7 @@
 3	t'	bee	VERB	_	_	2	csubj:cleft	_	_
 4	ayns	ayns	ADP	_	_	5	case	_	_
 5	eh	eh	PRON	_	_	3	xcomp:pred	_	_
-6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_118
 # text = Nee ushtaghyn y thooilley echey ard-valley Yee y yannoo gennal: ynnyd casherick cabbane-agglish yn Jee smoo ard.
@@ -3136,7 +3136,7 @@
 17	Jee	Jee	PROPN	_	_	15	nmod	_	_
 18	smoo	mooar	ADJ	_	_	15	amod	_	_
 19	ard	ard	ADJ	_	_	15	amod	_	SpaceAfter=No
-20	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_119
 # text = Mannagh vowmayd red erbee taitnyssagh, yiowmayd ec y chooid sloo reddyn noa.”
@@ -3155,7 +3155,7 @@
 12	reddyn	red	NOUN	_	_	7	obj	_	_
 13	noa	noa	ADJ	_	_	12	amod	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
-15	”	”	PUNCT	_	_	7	punct	_	SpaceAfter=No
+15	”	”	PUNCT	_	_	7	punct	_	_
 
 # sent_id = aa_120
 # text = Ren Juan goll dys Rhumsaa marish Jamys.
@@ -3166,7 +3166,7 @@
 5	Rhumsaa	Rhumsaa	PROPN	_	_	3	obl	_	_
 6	marish	marish	ADP	_	_	7	case	_	_
 7	Jamys	Jamys	PROPN	_	_	3	obl	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_121
 # text = T'ee goll er loayrt, er y chooid smoo, 'sy Velaroosh, 'sy Roosh, 'syn Ookraan as 'sy Pholynn.
@@ -3201,7 +3201,7 @@
 24	ayns	ayns	ADP	_	_	26	case	_	_
 25	yn	yn	DET	_	_	26	det	_	_
 26	Pholynn	Polynn	PROPN	_	_	14	conj	_	SpaceAfter=No
-27	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_122
 # text = Haink eh stiagh yn kiarroo.
@@ -3211,7 +3211,7 @@
 3	stiagh	stiagh	ADV	_	_	1	advmod	_	_
 4	yn	yn	DET	_	_	5	det	_	_
 5	kiarroo	kiarroo	ADJ	_	_	1	obj	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_123
 # text = Ayns 1908, hie eh gys Divlyn as hie eh stiagh ayns ny Arryltee Yernagh.
@@ -3230,7 +3230,7 @@
 13	ny	ny	DET	_	_	14	det	_	_
 14	Arryltee	arryltagh	NOUN	_	_	9	obl	_	_
 15	Yernagh	Yernagh	ADJ	_	_	14	amod	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = aa_124
 # text = Cha nel mee geearree feddyn magh dy firrinagh agh jus jannoo coloayrtys cooyrtoil.
@@ -3247,7 +3247,7 @@
 11	jannoo	jannoo	NOUN	_	_	5	conj	_	_
 12	coloayrtys	coloayrtys	NOUN	_	_	11	obj	_	_
 13	cooyrtoil	cooyrtoil	ADJ	_	_	12	amod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_125
 # text = Ta ny smoo na keead ashoonaght cummal 'sy chaayr chammah, goaill stiagh Greagee, Ewnyn as Armeainee.
@@ -3271,7 +3271,7 @@
 17	Ewnyn	Ew	PROPN	_	_	15	conj	_	_
 18	as	as	CCONJ	_	_	19	cc	_	_
 19	Armeainee	Armeanagh	PROPN	_	_	15	conj	_	SpaceAfter=No
-20	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_126
 # text = Dy mennick ta'n rio trooid-hoilshagh er tuarastyl.
@@ -3286,7 +3286,7 @@
 6	trooid-hoilshagh	trooid-hoilshagh	ADJ	_	_	3	xcomp:pred	_	_
 7	er	er	ADP	_	_	8	case	_	_
 8	tuarastyl	tuarastyl	NOUN	_	_	6	obl	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = aa_127
 # text = T'eh goaill stiagh inçhyn, coyrd drommey, as neayragyn.
@@ -3303,7 +3303,7 @@
 9	,	,	PUNCT	_	_	11	punct	_	_
 10	as	as	CCONJ	_	_	11	cc	_	_
 11	neayragyn	neayrag	NOUN	_	_	5	conj	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_128
 # text = Dy firrinagh firrinagh ta mee gra riu, Cha vel y charvaant ny syrjey na e hiarn, ny eshyn t'er ny choyrt, ny syrjey na eshyn ren y choyrt eh.
@@ -3345,7 +3345,7 @@
 32	y	y	ADP	_	_	33	mark	_	_
 33	choyrt	coyrt	NOUN	_	_	31	xcomp	_	_
 34	eh	eh	PRON	_	_	33	obj	_	SpaceAfter=No
-35	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = aa_129
 # text = Wahll, ta mee toiggal, Alan, ta mee toiggal, agh ga s'mooar y mian, cha noddyms hene scuirr edyr; ta mee kynjagh geiyrt er caa elley.”
@@ -3384,7 +3384,7 @@
 31	caa	caa	NOUN	_	_	29	obl	_	_
 32	elley	elley	ADJ	_	_	31	amod	_	SpaceAfter=No
 33	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
-34	”	”	PUNCT	_	_	3	punct	_	SpaceAfter=No
+34	”	”	PUNCT	_	_	3	punct	_	_
 
 # sent_id = aa_130
 # text = V'ad cha boght as lugh killagh, beaghey veih'n laue gys y veeal agh by vessey foast ny va ry heet.
@@ -3413,7 +3413,7 @@
 21	va	bee	VERB	_	_	18	csubj:cop	_	_
 22	ry	ry	ADP	_	_	23	case	_	_
 23	heet	çheet	NOUN	_	_	21	xcomp	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_131
 # text = “S'mie, v'eh toilçhin eh.
@@ -3428,7 +3428,7 @@
 6	eh	eh	PRON	_	_	5	nsubj	_	_
 7	toilçhin	toilçhin	NOUN	_	_	5	xcomp	_	_
 8	eh	eh	PRON	_	_	7	obj	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = aa_132
 # text = Cha row oo hene ayns y çhamyr-vrastyl.
@@ -3440,7 +3440,7 @@
 5	ayns	ayns	ADP	_	_	7	case	_	_
 6	y	yn	DET	_	_	7	det	_	_
 7	çhamyr-vrastyl	shamyr-vrastyl	NOUN	_	_	2	xcomp:pred	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_133
 # text = Ta mish as Roxy geaishtagh riu ayns y gharey.
@@ -3456,7 +3456,7 @@
 8	ayns	ayns	ADP	_	_	10	case	_	_
 9	y	yn	DET	_	_	10	det	_	_
 10	gharey	garey	NOUN	_	_	5	obl	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_134
 # text = As va ooilley'n pobble er nyn jaglym noi Jeremiah ayns thie yn Chiarn.
@@ -3477,7 +3477,7 @@
 12	thie	thie	NOUN	_	_	8	obl	_	_
 13	yn	yn	DET	_	_	14	det	_	_
 14	Chiarn	chiarn	NOUN	_	_	12	nmod	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_135
 # text = Eisht ren ymmodee jeh ny Hewnyn v'er jeet magh gys Moirrey, as v'er vakin ny reddyn ren Yeesey, credjal ayn.
@@ -3511,7 +3511,7 @@
 24-25	ayn	_	_	_	_	_	_	_	SpaceAfter=No
 24	ayns	ayns	ADP	_	_	25	case	_	_
 25	eh	eh	PRON	_	_	23	obl	_	_
-26	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_136
 # text = Cha row çhengey elley erbee foshlit da tra v'eh ny aegid.
@@ -3531,7 +3531,7 @@
 11	eh	eh	PRON	_	_	10	nsubj	_	_
 12	ny	ny	DET	_	_	13	det	_	_
 13	aegid	aegid	NOUN	_	_	10	xcomp:pred	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_137
 # text = Agh ny reddyn shoh ta mish er n'insh diu, tra hig yn earish, dy vod shiu cooinaghtyn dy dinsh mee diu jeu.
@@ -3570,7 +3570,7 @@
 27-28	jeu	_	_	_	_	_	_	_	SpaceAfter=No
 27	jeh	jeh	ADP	_	_	28	case	_	_
 28	ad	ad	PRON	_	_	23	obl	_	_
-29	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = aa_138
 # text = Cha nod eh lhaih ny screeu.
@@ -3582,7 +3582,7 @@
 4	lhaih	lhaih	NOUN	_	_	2	xcomp	_	_
 5	ny	ny	CCONJ	_	_	6	cc	_	_
 6	screeu	screeu	NOUN	_	_	4	conj	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_139
 # text = Coyrle y chur da peiagh dy ve creeney.
@@ -3596,7 +3596,7 @@
 6	dy	dy	ADP	_	_	7	case	_	_
 7	ve	ve	NOUN	_	_	3	xcomp	_	_
 8	creeney	creeney	ADJ	_	_	7	xcomp:pred	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = aa_140
 # text = As son lheead y chooyrt, er y cheu heear, bee curtanyn jeh jeih cubityn as daeed; ny pillaryn jeih as ny mortissyn jeih.
@@ -3628,7 +3628,7 @@
 24	ny	ny	DET	_	_	25	det	_	_
 25	mortissyn	mortis	NOUN	_	_	21	conj	_	_
 26	jeih	jeih	NUM	_	_	25	nummod	_	SpaceAfter=No
-27	.	.	PUNCT	_	_	12	punct	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	12	punct	_	_
 
 # sent_id = aa_141
 # text = ‘Ta mee loayrt mychione y theihll.
@@ -3640,7 +3640,7 @@
 5	mychione	mychione	ADP	_	_	7	case	_	_
 6	y	yn	DET	_	_	7	det	_	_
 7	theihll	seihll	NOUN	_	_	4	obl	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_142
 # text = Liorish yn saase shoh, ver-ym ad fo coadey Yee dy chooilley voghrey as fastyr.
@@ -3660,7 +3660,7 @@
 13	voghrey	moghrey	NOUN	_	_	6	obl:tmod	_	_
 14	as	as	CCONJ	_	_	15	cc	_	_
 15	fastyr	fastyr	NOUN	_	_	13	conj	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = aa_143
 # text = Ahh, she cronney creoi t'er chur orrym shoh.
@@ -3678,7 +3678,7 @@
 9	er	er	ADP	_	_	10	case	_	_
 10	mee	mee	PRON	_	_	8	obl	_	_
 11	shoh	shoh	PRON	_	_	8	obj	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = aa_144
 # text = Ayns ny pabyryn naight ta shiu lhaih ram boghtynid mychione "apartheid" as y lhied as yn drogh-ghellal ta ny deiney doo geddyn voish ny deiney baney 'syn Africkey.
@@ -3714,7 +3714,7 @@
 29	ayns	ayns	ADP	_	_	31	case	_	_
 30	yn	yn	DET	_	_	31	det	_	_
 31	Africkey	Africkey	PROPN	_	_	24	obl	_	SpaceAfter=No
-32	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = aa_145
 # text = Va George er-aggle as ren eh chyndaa mygeayrt as hie eh dys yn ghiat y raad elley mygeayrt ny boayllyn elley.
@@ -3742,7 +3742,7 @@
 20	ny	ny	DET	_	_	21	det	_	_
 21	boayllyn	boayl	NOUN	_	_	17	nmod	_	_
 22	elley	elley	ADJ	_	_	21	amod	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_146
 # text = Shoh kindagh rish argane va currit da reiltys Vannin ec colught Manx Ices Ltd (as adsyn er nyn maroo nish) er yn oyr dy vel sleih nish lowit riojag veih'n Hostyn bunnys gyn bainney y chreck ayns Mannin, agh cha nel sleih ayns Mannin lowit yn lheid cheddin y yannoo.
@@ -3801,7 +3801,7 @@
 52	cheddin	cheddin	ADJ	_	_	51	amod	_	_
 53	y	y	ADP	_	_	54	mark	_	_
 54	yannoo	jannoo	NOUN	_	_	49	xcomp	_	SpaceAfter=No
-55	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+55	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = aa_147
 # text = Ny skeeal giare, dy jarroo.
@@ -3812,7 +3812,7 @@
 4	,	,	PUNCT	_	_	6	punct	_	_
 5	dy	dy	PART	_	_	6	mark	_	_
 6	jarroo	jarroo	ADJ	_	_	2	amod	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_148
 # text = As un omer son un eayn, gour ny shiaght eayin er-lheh.
@@ -3832,7 +3832,7 @@
 12-13	er-lheh	_	_	_	_	_	_	_	SpaceAfter=No
 12	er	er	ADP	_	_	13	case	_	_
 13	lheh	lheh	NOUN	_	_	11	nmod	_	_
-14	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = aa_149
 # text = Shoh yn leigh mychione ny beiyn, as mychione ny eeanlee, as mychione dy chooilley chretoor bio ta snaue ayns ny ushtaghyn, as dy chooilley chretoor ta snaue er yn ooir.
@@ -3871,7 +3871,7 @@
 31	er	er	ADP	_	_	33	case	_	_
 32	yn	yn	DET	_	_	33	det	_	_
 33	ooir	ooir	NOUN	_	_	30	obl	_	SpaceAfter=No
-34	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_150
 # text = Ansherbee, cha row shin jannoo red erbee aggairagh.
@@ -3884,7 +3884,7 @@
 7	red	red	NOUN	_	_	6	obj	_	_
 8	erbee	erbee	ADJ	_	_	7	amod	_	_
 9	aggairagh	aggairagh	ADJ	_	_	7	amod	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = aa_151
 # text = Bee ee fakin e vraar noght.
@@ -3894,7 +3894,7 @@
 4	e	e	DET	_	_	5	det	_	_
 5	vraar	braar	NOUN	_	_	3	obj	_	_
 6	noght	noght	ADV	_	_	3	advmod	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_152
 # text = Cha nel mee lowit jannoo shen, t'ou toiggal.
@@ -3910,7 +3910,7 @@
 8	t'	bee	VERB	_	_	2	parataxis	_	_
 9	ou	ou	PRON	_	_	8	nsubj	_	_
 10	toiggal	toiggal	NOUN	_	_	8	xcomp	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_153
 # text = T'ou uss mie as graysoil: O ynsee dou dty lattyssyn.
@@ -3931,7 +3931,7 @@
 11	mee	mee	PRON	_	_	9	obl	_	_
 12	dty	dty	DET	_	_	13	det	_	_
 13	lattyssyn	slattys	NOUN	_	_	9	obj	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_154
 # text = Shoh'n Benaiah cheddin va ny ard-er as erskyn ny jeih as feed, as ayns y choorse echeysyn va Ammizabad e vac.
@@ -3963,7 +3963,7 @@
 22	Ammizabad	Ammizabad	PROPN	_	_	21	nsubj	_	_
 23	e	e	DET	_	_	24	det	_	_
 24	vac	mac	NOUN	_	_	22	appos	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_155
 # text = Shen-y-fa cha beem's meerioosagh dy chur shiu ayns cooinaghtyn kinjagh jeh ny reddyn shoh, ga dy vel fys eu orroo, as dy vel shiu er ve er ny hickyraghey 'syn irriney ta shin loayrt jeh.
@@ -4017,7 +4017,7 @@
 42-43	jeh	_	_	_	_	_	_	_	SpaceAfter=No
 42	jeh	jeh	ADP	_	_	43	case	_	_
 43	eh	eh	PRON	_	_	41	obl	_	_
-44	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+44	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = aa_156
 # text = Ta skeerey theayagh Steornavaie goaill stiagh baljyn beggey ennagh ry laue, as ta 12,000 cummaltee cummal ayn.
@@ -4041,7 +4041,7 @@
 18-19	ayn	_	_	_	_	_	_	_	SpaceAfter=No
 18	ayns	ayns	ADP	_	_	19	case	_	_
 19	eh	eh	PRON	_	_	17	obl	_	_
-20	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_157
 # text = Ta mee geaishtagh yn çhiaghtin shoh.
@@ -4052,7 +4052,7 @@
 4	yn	yn	DET	_	_	5	det	_	_
 5	çhiaghtin	shiaghtin	NOUN	_	_	3	obl:tmod	_	_
 6	shoh	shoh	DET	_	_	5	det	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_158
 # text = Eisht hug mee lhiam seose princeyn Yudah er y voalley, as phoint mee daa heshaght vooar dy choyrt booise, yn derrey ayrn jeu hie gys y laue yesh er y voalley, lesh giat yn eoylley:
@@ -4100,7 +4100,7 @@
 38	giat	giat	NOUN	_	_	28	obl	_	_
 39	yn	yn	DET	_	_	40	det	_	_
 40	eoylley	eoylley	NOUN	_	_	38	nmod	_	SpaceAfter=No
-41	:	:	PUNCT	_	_	2	punct	_	SpaceAfter=No
+41	:	:	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_159
 # text = “Ghow yn graih eu urree toshiaght,” as y Marquise, “tra hrog shiu seose e bussal; saillym shiu dy hroggal my ghliooneen's.”
@@ -4139,7 +4139,7 @@
 28	my	my	DET	_	_	29	det	_	_
 29	ghliooneen's	gliooneen	NOUN	_	_	27	obj	_	SpaceAfter=No
 30	.	.	PUNCT	_	_	24	punct	_	SpaceAfter=No
-31	”	”	PUNCT	_	_	18	punct	_	SpaceAfter=No
+31	”	”	PUNCT	_	_	18	punct	_	_
 
 # sent_id = aa_160
 # text = Cha jean eh gee ny giu noadyr.
@@ -4152,7 +4152,7 @@
 5	ny	ny	CCONJ	_	_	6	cc	_	_
 6	giu	iu	NOUN	_	_	4	conj	_	_
 7	noadyr	noadyr	ADV	_	_	2	advmod	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_161
 # text = Va lhieggan jeh'n Çhiart Vooar (Çhiart Vooar Nerin), soilshit magh 'sy vlein 1216, as eh cur Divlyn ayns ynnyd Lunnin as yn Agglish Yernagh ayns ynnyd Agglish Hostyn, as va Parlamaid Nerin bunnit 'sy vlein 1297.
@@ -4204,7 +4204,7 @@
 42	yn	yn	DET	_	_	43	det	_	_
 43	vlein	blein	NOUN	_	_	40	obl:tmod	_	_
 44	1297	1297	NUM	_	_	43	appos	_	SpaceAfter=No
-45	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_162
 # text = T'ad goaill orroo dy vel tushtey oc dy Yee; agh ayns nyn obbraghyn t'ad gobbal eh, feohdoil as mee-viallagh, as noi dy chooilley obbyr vie er nyn groghey.
@@ -4249,7 +4249,7 @@
 33	er	er	ADP	_	_	35	case	_	_
 34	nyn	nyn	DET	_	_	35	det	_	_
 35	groghey	croghey	NOUN	_	_	20	conj	_	SpaceAfter=No
-36	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_163
 # text = As hug eh er e chloan dy gholl trooid yn aile, ayns coan mac Hinnom: myrgeddin hug eh geill da traaghyn, as deiyr eh er obbeeys, as chliaghtee eh buitcheraght, as ren eh dellal rish spyrrydyn-faishnee, as rish fir-obbee: d'obbree eh shen ny va olk ayns shilley yn Chiarn, dy vrasnaghey eh gys corree.
@@ -4317,7 +4317,7 @@
 60	eh	eh	PRON	_	_	59	obj	_	_
 61	gys	gys	ADP	_	_	62	case	_	_
 62	corree	corree	NOUN	_	_	59	obl	_	SpaceAfter=No
-63	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+63	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_164
 # text = Foddee dy row eh Eairkag, agh cha nel shin shickyr mychione shen.
@@ -4335,7 +4335,7 @@
 11	shickyr	shickyr	ADJ	_	_	9	xcomp:pred	_	_
 12	mychione	mychione	ADP	_	_	13	case	_	_
 13	shen	shen	PRON	_	_	11	obl	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_165
 # text = Cur aigh vie orrym, chaarjyn Ghaeil!
@@ -4348,7 +4348,7 @@
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	chaarjyn	carrey	NOUN	_	_	1	vocative	_	_
 8	Ghaeil	Gael	PROPN	_	_	7	nmod	_	SpaceAfter=No
-9	!	!	PUNCT	_	_	1	punct	_	SpaceAfter=No
+9	!	!	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_166
 # text = Son ta ooilley er nyn son hene, cha nee son ny reddyn ta bentyn rish Yeesey Creest.
@@ -4372,7 +4372,7 @@
 16	rish	rish	ADP	_	_	17	case	_	_
 17	Yeesey	Yeesey	PROPN	_	_	15	obl	_	_
 18	Creest	Creest	PROPN	_	_	17	flat	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_167
 # text = Chamoo te cheu elley jeh'n aarkey, dy niarragh oo, Quoi hed harrish y cheayn er nyn son, dy choyrt lesh hooin eh, dy vod mayd clashtyn, as jannoo eh?
@@ -4420,7 +4420,7 @@
 36	as	as	CCONJ	_	_	37	cc	_	_
 37	jannoo	jannoo	NOUN	_	_	34	conj	_	_
 38	eh	eh	PRON	_	_	34	obj	_	SpaceAfter=No
-39	?	?	PUNCT	_	_	15	punct	_	SpaceAfter=No
+39	?	?	PUNCT	_	_	15	punct	_	_
 
 # sent_id = aa_168
 # text = As er-lhimmey jeh ‘traa dy liooar’ as ‘skeet’ (ta çheet voish Baarle Lancashire 'sy toshiaght ansherbee, dy liklee), cha bee fys oc er ny focklyn as ny raaghyn Gaelgagh va cummit seose ayns Baarle ny shenn Vanninee: ta cooinaghtyn aym's tra dynsee mee raaghyn lheid as fud-y-cheilley, jarrood as moal dy row ad ec my vummig as my yishag 'sy Vaarle oc er-dy-rieau, agh quoi mastey yn sleih aegey ta cur geill da lheid ny focklyn, my nee ad clashtyn ad edyr?
@@ -4537,7 +4537,7 @@
 102	clashtyn	clashtyn	NOUN	_	_	100	xcomp	_	_
 103	ad	ad	PRON	_	_	102	obj	_	_
 104	edyr	edyr	ADV	_	_	102	advmod	_	SpaceAfter=No
-105	?	?	PUNCT	_	_	30	punct	_	SpaceAfter=No
+105	?	?	PUNCT	_	_	30	punct	_	_
 
 # sent_id = aa_169
 # text = Ta sooillyn carbeigagh echey.
@@ -4548,7 +4548,7 @@
 4-5	echey	_	_	_	_	_	_	_	SpaceAfter=No
 4	ec	ec	ADP	_	_	5	case	_	_
 5	eh	eh	PRON	_	_	1	xcomp:pred	_	_
-6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_170
 # text = Dy jarroo, ta Marion Gunn voish Divlyn as e caarjyn jannoo y lheid rish shiartanse dy vleeantyn lesh y voggyl Gaelagh GAELIC-L.
@@ -4575,7 +4575,7 @@
 21	voggyl	moggyl	NOUN	_	_	12	obl	_	_
 22	Gaelagh	Gaelagh	ADJ	_	_	21	amod	_	_
 23	GAELIC-L	GAELIC-L	PROPN	_	_	21	appos	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = aa_171
 # text = Honnick eh çheu-sthie jeh'n waane mygeayrt-ymysh shiaght mraane nyn soie er y laare jeeaghyn er lesh sooillyn faitagh.
@@ -4604,7 +4604,7 @@
 20	lesh	lesh	ADP	_	_	21	case	_	_
 21	sooillyn	sooill	NOUN	_	_	17	obl	_	_
 22	faitagh	faitagh	ADJ	_	_	21	amod	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_172
 # text = Cha n'aik mee rieau ayns my vea eh.
@@ -4618,7 +4618,7 @@
 6	my	my	DET	_	_	7	det	_	_
 7	vea	bea	NOUN	_	_	2	obl	_	_
 8	eh	eh	PRON	_	_	2	obj	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_173
 # text = Foddee dy screeuym mychione nyn ngoair, ny smoo jeeragh, goair my ven.
@@ -4636,7 +4636,7 @@
 12	goair	goayr	NOUN	_	_	6	appos	_	_
 13	my	my	DET	_	_	14	det	_	_
 14	ven	ben	NOUN	_	_	12	nmod	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_174
 # text = As jir fer rish, Cre ny lhottyn ad shoh t'ayns dty laueyn?
@@ -4659,7 +4659,7 @@
 13	ayns	ayns	ADP	_	_	15	case	_	_
 14	dty	dty	DET	_	_	15	det	_	_
 15	laueyn	laue	NOUN	_	_	12	xcomp:pred	_	SpaceAfter=No
-16	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
+16	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_175
 # text = Cha nel, t'ou gaase ro shenn.
@@ -4673,7 +4673,7 @@
 6	gaase	aase	NOUN	_	_	4	xcomp	_	_
 7	ro	ro	ADV	_	_	8	advmod	_	_
 8	shenn	shenn	ADJ	_	_	6	xcomp	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_176
 # text = “T'eh ennoil er y fa dy vel eh cho graihoil.”
@@ -4691,7 +4691,7 @@
 11	cho	cho	ADV	_	_	12	advmod	_	_
 12	graihoil	graihoil	ADJ	_	_	9	xcomp:pred	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-14	”	”	PUNCT	_	_	2	punct	_	SpaceAfter=No
+14	”	”	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_177
 # text = PAAIE: Nee'm shen y yannoo, Vummig.
@@ -4703,7 +4703,7 @@
 6	yannoo	jannoo	NOUN	_	_	3	xcomp	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
 8	Vummig	mummig	NOUN	_	_	3	vocative	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = aa_178
 # text = ‘Cuin vees ee back?’ vrie Max.
@@ -4717,7 +4717,7 @@
 7	’	’	PUNCT	_	_	2	punct	_	_
 8	vrie	brie	VERB	_	_	2	parataxis	_	_
 9	Max	Max	PROPN	_	_	8	nsubj	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_179
 # text = Cha jean shiu gee red erbee ta geddyn baase jeh hene: shen ver shiu da'n joarree t'er cheu-sthie jeh dty yiattyn, dy yannoo ymmyd jeh, ny foddee oo creck eh rish joarree: son t'ou uss dty phobble casherick da'n Chiarn dty Yee.
@@ -4781,7 +4781,7 @@
 50	Chiarn	chiarn	NOUN	_	_	46	nmod	_	_
 51	dty	dty	DET	_	_	52	det	_	_
 52	Yee	Jee	PROPN	_	_	50	appos	_	SpaceAfter=No
-53	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+53	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_180
 # text = Cre ta'n Courey er cheu mooie ayns Bashtey?
@@ -4795,7 +4795,7 @@
 7	mooie	mooie	ADJ	_	_	6	amod	_	_
 8	ayns	ayns	ADP	_	_	9	case	_	_
 9	Bashtey	bashtey	NOUN	_	_	4	nmod	_	SpaceAfter=No
-10	?	?	PUNCT	_	_	1	punct	_	SpaceAfter=No
+10	?	?	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_181
 # text = Hiarn, jean myghin orrin Chreest, jean myghin orrin.
@@ -4813,7 +4813,7 @@
 11-12	orrin	_	_	_	_	_	_	_	SpaceAfter=No
 11	er	er	ADP	_	_	12	case	_	_
 12	shin	shin	PRON	_	_	9	obl	_	_
-13	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = aa_182
 # text = Nee oo dy feer vie gyn ourys.
@@ -4825,7 +4825,7 @@
 5	vie	mie	ADJ	_	_	1	advmod	_	_
 6	gyn	gyn	ADP	_	_	7	case	_	_
 7	ourys	ourys	NOUN	_	_	1	obl	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_183
 # text = Erskyn dorrys dy jeeragh er e veealloo va cowrey.
@@ -4838,7 +4838,7 @@
 7	veealloo	beealloo	NOUN	_	_	8	obl	_	_
 8	va	bee	VERB	_	_	0	root	_	_
 9	cowrey	cowrey	NOUN	_	_	8	nsubj	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	8	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = aa_184
 # text = As er shen, ren eh troggal clagh as ren eh ceau shen harrish y clieau.
@@ -4859,7 +4859,7 @@
 14	harrish	harrish	ADP	_	_	16	case	_	_
 15	y	yn	DET	_	_	16	det	_	_
 16	clieau	slieau	NOUN	_	_	12	obl	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = aa_185
 # text = O chyndaa ersooyl my hooillyn, nagh der ad geill da fardail: as jean mish y vioghey ayns dty raad.
@@ -4885,7 +4885,7 @@
 19	ayns	ayns	ADP	_	_	21	case	_	_
 20	dty	dty	DET	_	_	21	det	_	_
 21	raad	raad	NOUN	_	_	18	obl	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_186
 # text = Strooys dy row aggle orroo nagh jinnagh sleih elley toiggal eh.’
@@ -4904,7 +4904,7 @@
 11	toiggal	toiggal	NOUN	_	_	8	xcomp	_	_
 12	eh	eh	PRON	_	_	11	obj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
-14	’	’	PUNCT	_	_	1	punct	_	SpaceAfter=No
+14	’	’	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_187
 # text = As dooyrt eh roo, Cre vel y credjue eu?
@@ -4923,7 +4923,7 @@
 11-12	eu	_	_	_	_	_	_	_	SpaceAfter=No
 11	ec	ec	ADP	_	_	12	case	_	_
 12	shiu	shiu	PRON	_	_	10	nmod	_	_
-13	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
+13	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_188
 # text = As scugh ad veih Jotbathah, as ren ad campal ec Ebronah.
@@ -4941,7 +4941,7 @@
 10	campal	campal	NOUN	_	_	8	xcomp	_	_
 11	ec	ec	ADP	_	_	12	case	_	_
 12	Ebronah	Ebronah	PROPN	_	_	10	obl	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_189
 # text = As dooyrt Jee, Lhig da soilshaghyn ve ayns yn ayr fo niau, dy scarrey yn laa veih yn oie: as lhig daue ve son cowraghyn, as son imbaghyn, as son laghyn, as bleeantyn.
@@ -4988,7 +4988,7 @@
 38	,	,	PUNCT	_	_	40	punct	_	_
 39	as	as	CCONJ	_	_	40	cc	_	_
 40	bleeantyn	blein	NOUN	_	_	29	conj	_	SpaceAfter=No
-41	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_190
 # text = Ta'n çheer çhemmit liorish Mooir Bering, y Vooir Chaspagh, y Vooir Valtagh, y Vooir Ghoo, as Mooir yn Arctagh.
@@ -5017,7 +5017,7 @@
 22	Mooir	mooir	NOUN	_	_	6	conj	_	_
 23	yn	yn	DET	_	_	24	det	_	_
 24	Arctagh	Arctagh	PROPN	_	_	22	nmod	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_191
 # text = Cha nel, dy jarroo, cha nel mee feayr edyr.
@@ -5032,7 +5032,7 @@
 9	mee	mee	PRON	_	_	8	nsubj	_	_
 10	feayr	feayr	ADJ	_	_	8	xcomp:pred	_	_
 11	edyr	edyr	ADV	_	_	8	advmod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_192
 # text = Eisht dooyrt paart jeh e ostyllyn eddyr ad-hene, Cre shoh t'eh dy ghra rooin, Tammylt beg as cha vaik shiu mee: as reesht, tammylt beg, as hee shiu mee: as, Er-yn-oyr dy vel mee goll roym gys yn Ayr?
@@ -5095,7 +5095,7 @@
 50	gys	gys	ADP	_	_	52	case	_	_
 51	yn	yn	DET	_	_	52	det	_	_
 52	Ayr	ayr	NOUN	_	_	47	obl	_	SpaceAfter=No
-53	?	?	PUNCT	_	_	11	punct	_	SpaceAfter=No
+53	?	?	PUNCT	_	_	11	punct	_	_
 
 # sent_id = aa_193
 # text = As tonnyn brimstone lheïht son lhiabbee foue.
@@ -5108,7 +5108,7 @@
 7-8	foue	_	_	_	_	_	_	_	SpaceAfter=No
 7	fo	fo	ADP	_	_	8	case	_	_
 8	ad	ad	PRON	_	_	2	nmod	_	_
-9	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_194
 # text = “Cha roshee uss y nah valley noght mannagh nee oo siyr!” as fer elley.
@@ -5129,7 +5129,7 @@
 15	as	as	VERB	_	_	3	parataxis	_	_
 16	fer	fer	NOUN	_	_	15	nsubj	_	_
 17	elley	elley	ADJ	_	_	16	amod	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = aa_195
 # text = Er cha jean oo monney erbee dy obbyr, uss, as dty vac, as dt'inneen, dt'ermooinjerey, as dt'inney veyl, dt'ollagh, as y joarree t'er cheusthie jeh dty ghiattyn.
@@ -5180,7 +5180,7 @@
 38	jeh	jeh	ADP	_	_	40	case	_	_
 39	dty	dty	DET	_	_	40	det	_	_
 40	ghiattyn	ghiat	NOUN	_	_	37	nmod	_	SpaceAfter=No
-41	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = aa_196
 # text = Ta beiyn marrey, lheid as y turtyl, y sharkagh, y meeyl mooar as y doraid, ry-akin magh veih'n choose dy mennick.
@@ -5214,7 +5214,7 @@
 25	choose	coose	NOUN	_	_	21	obl	_	_
 26	dy	dy	PART	_	_	27	mark	_	_
 27	mennick	mennick	ADJ	_	_	21	advmod	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_197
 # text = Agh ren my naboonyn faghid jeem, as dooyrt ad, Cha vel foast aggle er y dooinney shoh dy bee eh er ny choyrt gy baase son yn obbyr shoh; hea eh ersooyl; as cur-my-ner, t'eh goanluckey ny merriu reesht.
@@ -5271,7 +5271,7 @@
 46	ny	ny	DET	_	_	47	det	_	_
 47	merriu	marroo	NOUN	_	_	45	obj	_	_
 48	reesht	reesht	ADV	_	_	43	advmod	_	SpaceAfter=No
-49	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+49	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_198
 # text = She boandyrey mish ayns Glaschu.
@@ -5280,7 +5280,7 @@
 3	mish	mee	PRON	_	_	2	nsubj	_	_
 4	ayns	ayns	ADP	_	_	5	case	_	_
 5	Glaschu	Glaschu	PROPN	_	_	2	nmod	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_199
 # text = She Giense Geuree yn scoill v'ayn yn oie shen – sorçh dy yiense lesh daunsyn sy çhamyr-lheihltys, braghtanyn-pronnag mooie er close y scoill as casino sy çhamyr C.F., as v'eh goll er cummal dy hroggal argid son y Halley Spoyrt noa.
@@ -5336,7 +5336,7 @@
 46	Halley	halley	NOUN	_	_	43	nmod	_	_
 47	Spoyrt	spoyrt	NOUN	_	_	46	nmod	_	_
 48	noa	noa	ADJ	_	_	46	amod	_	SpaceAfter=No
-49	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+49	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_200
 # text = “S'mie lhien eh,” dreggyr Onnee, as ghlack ee e h-ayr as hug ee paag da.
@@ -5365,7 +5365,7 @@
 21-22	da	_	_	_	_	_	_	_	SpaceAfter=No
 21	da	da	ADP	_	_	22	case	_	_
 22	eh	eh	PRON	_	_	18	obl	_	_
-23	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = aa_201
 # text = Myr shen, ghow Perick toshiaght shirrey raad thie elley, as ren eh markiagh trooid straidyn nagh row eh er n'akin rieau roie.
@@ -5395,7 +5395,7 @@
 23	akin	fakin	NOUN	_	_	19	xcomp	_	_
 24	rieau	rieau	ADV	_	_	23	advmod	_	_
 25	roie	roie	ADV	_	_	23	advmod	_	SpaceAfter=No
-26	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = aa_202
 # text = Venn eh rhym aght ennagh.
@@ -5407,7 +5407,7 @@
 4	mee	mee	PRON	_	_	1	obl	_	_
 5	aght	aght	NOUN	_	_	1	obl	_	_
 6	ennagh	ennagh	ADJ	_	_	5	amod	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_203
 # text = Ren my ven yn soo shen jea.
@@ -5418,7 +5418,7 @@
 5	soo	soo	NOUN	_	_	1	obj	_	_
 6	shen	shen	DET	_	_	5	det	_	_
 7	jea	jea	ADV	_	_	1	advmod	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_204
 # text = Ta'n Shalee Çhengaghyn Himalayagh gobbraghey urree.
@@ -5432,7 +5432,7 @@
 7-8	urree	_	_	_	_	_	_	_	SpaceAfter=No
 7	er	er	ADP	_	_	8	case	_	_
 8	ee	ee	PRON	_	_	6	obl	_	_
-9	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_205
 # text = Va ooilley ny barrantee elley ayns coardailys rish ayns shoh.
@@ -5448,7 +5448,7 @@
 9	eh	eh	PRON	_	_	7	nmod	_	_
 10	ayns	ayns	ADP	_	_	11	case	_	_
 11	shoh	shoh	PRON	_	_	1	obl	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_206
 # text = Va'n çhionnal geamagh, “Ny jean!
@@ -5461,7 +5461,7 @@
 6	“	“	PUNCT	_	_	8	punct	_	SpaceAfter=No
 7	Ny	ny	PART	_	_	8	mark	_	_
 8	jean	jean	VERB	_	_	1	parataxis	_	SpaceAfter=No
-9	!	!	PUNCT	_	_	8	punct	_	SpaceAfter=No
+9	!	!	PUNCT	_	_	8	punct	_	_
 
 # sent_id = aa_207
 # text = Ta feme ec y thielheihys er shickyraghey dy vod eh soilshaghey dy vel e chliaghtey-lhee corrym rish cliaghtey-lhee cosoylagh ayns buill elley, er y chooid sloo.
@@ -5492,7 +5492,7 @@
 25	y	yn	DET	_	_	26	det	_	_
 26	chooid	cooid	NOUN	_	_	13	obl	_	_
 27	sloo	beg	ADJ	_	_	26	amod	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_208
 # text = She sampleyr jeh co-rollageyssyn caslagh barrit eh Raad Mooar Ree Gorree.
@@ -5507,7 +5507,7 @@
 9	Mooar	mooar	ADJ	_	_	8	amod	_	_
 10	Ree	ree	NOUN	_	_	8	nmod	_	_
 11	Gorree	Gorree	PROPN	_	_	10	flat	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_209
 # text = As hug ad dagh dooinney e chliwe er e chryss, as hug David myrgeddin er e chliwe: as hie seose marish David mysh kiare cheead dooinney; as duirree daa cheead marish y stoo.
@@ -5549,7 +5549,7 @@
 34	marish	marish	ADP	_	_	36	case	_	_
 35	y	yn	DET	_	_	36	det	_	_
 36	stoo	stoo	NOUN	_	_	31	obl	_	SpaceAfter=No
-37	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_210
 # text = As bwoaill-yms cummaltee yn ard-valley shoh, chammah dooinney as baagh; yiow ad baase liorish cragh paittoil.
@@ -5573,7 +5573,7 @@
 16	liorish	liorish	ADP	_	_	17	case	_	_
 17	cragh	cragh	NOUN	_	_	13	obl	_	_
 18	paittoil	paittoil	ADJ	_	_	17	amod	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_211
 # text = Ta'n claare SAVE ('Shickraghey tooilley feeuid as fondid') kiarail spaarail queig as feed millioon punt harrish ny queig bleeaney ta ry-heet.
@@ -5606,7 +5606,7 @@
 26-27	ry-heet	_	_	_	_	_	_	_	SpaceAfter=No
 26	ry	ry	ADP	_	_	27	case	_	_
 27	heet	çheet	NOUN	_	_	25	xcomp	_	_
-28	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_212
 # text = Dobbyr da tuittym neealloo agh ren eh e chooid share dy hayrn yn dooan magh.
@@ -5628,7 +5628,7 @@
 14	yn	yn	DET	_	_	15	det	_	_
 15	dooan	dooan	NOUN	_	_	13	obj	_	_
 16	magh	magh	ADV	_	_	13	advmod	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_213
 # text = Haink y Chreestiaght er y theihll 'sy chied eash myr shaghrynys credjue Ewagh.
@@ -5648,7 +5648,7 @@
 12	shaghrynys	shaghrynys	NOUN	_	_	1	obl	_	_
 13	credjue	credjue	NOUN	_	_	12	nmod	_	_
 14	Ewagh	Ewagh	ADJ	_	_	13	amod	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_214
 # text = Va preeu-valley yn reeriaght soit er Ellan Noo Perick, raad dy row Cashtal Phurt ny h-Inshey troggit er boayl mannishter Cheltiagh.
@@ -5674,7 +5674,7 @@
 20	boayl	boayl	NOUN	_	_	18	obl	_	_
 21	mannishter	mannishter	NOUN	_	_	20	nmod	_	_
 22	Cheltiagh	Celtiagh	ADJ	_	_	21	amod	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_215
 # text = Cha jinnagh peiagh erbee feddyn magh my-e-chione.
@@ -5688,7 +5688,7 @@
 7	my	my	ADP	_	_	9	case	_	_
 8	e	e	DET	_	_	9	det	_	_
 9	chione	kione	NOUN	_	_	5	obl	_	_
-10	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_216
 # text = T'ee soit ayns jiass ny çheerey.
@@ -5700,7 +5700,7 @@
 5	jiass	jiass	NOUN	_	_	3	obl	_	_
 6	ny	ny	DET	_	_	7	det	_	_
 7	çheerey	çheer	NOUN	_	_	5	nmod	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_217
 # text = As nee oo cooinaghtyn dy r'ou hene ayns bondiaght ayns cheer Egypt, as dy ren y Chiarn dty Yee dty livrey: shen-y-fa ta mee coyrt yn red shoh er dty churrym jiu.
@@ -5745,7 +5745,7 @@
 35	dty	dty	DET	_	_	36	det	_	_
 36	churrym	currym	NOUN	_	_	30	obl	_	_
 37	jiu	jiu	ADV	_	_	28	advmod	_	SpaceAfter=No
-38	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_218
 # text = Nee oo mish y ghlenney lesh hyssop, as bee'm glen: nee oo m'y niee, as bee'm ny s'gilley na sniaghtey.
@@ -5778,7 +5778,7 @@
 23	gilley	gial	ADJ	_	_	20	xcomp:pred	_	_
 24	na	na	ADP	_	_	25	case	_	_
 25	sniaghtey	sniaghtey	NOUN	_	_	23	obl	_	SpaceAfter=No
-26	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_219
 # text = As tra v'ad er ghoaill arrane-moyllee hie ad magh gys cronk ny Oliveyn.
@@ -5799,7 +5799,7 @@
 12	cronk	cronk	NOUN	_	_	8	obl	_	_
 13	ny	ny	DET	_	_	14	det	_	_
 14	Oliveyn	olive	NOUN	_	_	12	nmod	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	8	punct	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = aa_220
 # text = Myr shoh ta shin feme yn aa-hickyrys shen; ta shin feme jannoo shickyr dy bee Chellinsh Vannin as colughtyn chellinsh elley ayns shen 'sy traa ry heet, er-yn-oyr dy vel wheesh argid er ve baiht trooid ny bleeantyn.
@@ -5848,7 +5848,7 @@
 41	trooid	trooid	ADP	_	_	43	case	_	_
 42	ny	ny	DET	_	_	43	det	_	_
 43	bleeantyn	blein	NOUN	_	_	35	obl	_	SpaceAfter=No
-44	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+44	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = aa_221
 # text = T'ee cummal ayns ynnydyn çheh, agh t'ee garraghey veih'n Affrick Hwoaie dys ny h-Ellanyn Goaldagh 'sy touree.
@@ -5878,7 +5878,7 @@
 20	ayns	ayns	ADP	_	_	22	case	_	_
 21	yn	yn	DET	_	_	22	det	_	_
 22	touree	sourey	NOUN	_	_	11	obl:tmod	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_222
 # text = "Yiarrins dy vel oo smooinaghtyn cre'n fa nagh vel mee cur my roih mygeayrt dty vouin," dooyrt y Vendiuic, lurg sthap: "she yn oyr er shen dy vel drogh-ourys aym er tappey dty lossyrane.
@@ -5928,7 +5928,7 @@
 40	tappey	tappey	NOUN	_	_	35	obl	_	_
 41	dty	dty	DET	_	_	42	det	_	_
 42	lossyrane	lossyrane	NOUN	_	_	40	nmod	_	SpaceAfter=No
-43	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+43	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_223
 # text = Faag dooys dty chloan gyn-ayr, freill-yms ad bio: as lhig da dty vraane-treoghe treishteil ayn-yms.
@@ -5957,7 +5957,7 @@
 19-20	ayn-yms	_	_	_	_	_	_	_	SpaceAfter=No
 19	ayns	ayns	ADP	_	_	20	case	_	_
 20	mish	mee	PRON	_	_	18	obl	_	_
-21	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_224
 # text = T'ou er n'immeeaght ayns raad dty huyr, shen-y-fa ver-ym yn cappan ecksh ayns dty laue.
@@ -5988,7 +5988,7 @@
 19	ayns	ayns	ADP	_	_	21	case	_	_
 20	dty	dty	DET	_	_	21	det	_	_
 21	laue	laue	NOUN	_	_	14	obl	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_225
 # text = Cha nel fa erbee aym y co-earrooder aym y chur fo bondiaght chlaare.
@@ -6009,7 +6009,7 @@
 13	fo	fo	ADP	_	_	14	case	_	_
 14	bondiaght	bondiaght	NOUN	_	_	12	obl	_	_
 15	chlaare	claare	NOUN	_	_	14	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_226
 # text = Ta maidjey, y cammag, ymmydit dy woalley'n crig.
@@ -6025,7 +6025,7 @@
 9	woalley	bwoalley	NOUN	_	_	7	xcomp	_	_
 10	'n	yn	DET	_	_	11	det	_	_
 11	crig	crig	NOUN	_	_	9	obj	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_227
 # text = Ta dy chooilley pheiagh ayns y valley moylley yn obbyr t’ou uss er n’yannoo maroo.
@@ -6051,7 +6051,7 @@
 17-18	maroo	_	_	_	_	_	_	_	SpaceAfter=No
 17	marish	marish	ADP	_	_	18	case	_	_
 18	ad	ad	PRON	_	_	16	obl	_	_
-19	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_228
 # text = Sheba as Dedan, as marchanyn Tarshish, marish ooilley ny lionyn aegey ocsyn, jir ad rhyt's, Vel uss er jeet dy ghoaill y spooilley?
@@ -6088,7 +6088,7 @@
 27	ghoaill	goaill	NOUN	_	_	25	xcomp	_	_
 28	y	y	ADP	_	_	29	mark	_	_
 29	spooilley	spooilley	NOUN	_	_	27	xcomp	_	SpaceAfter=No
-30	?	?	PUNCT	_	_	17	punct	_	SpaceAfter=No
+30	?	?	PUNCT	_	_	17	punct	_	_
 
 # sent_id = aa_229
 # text = Ta Oltey yn Chiare as Feed ass-lieh Doolish Hiar, Chris Robertshaw, er chur fou hannah dy vel yn strateysh er ve currit er y hoshiaght gyn coyrle, as t'eh er hannaghtyn lesh e chremmey ayns Tinvaal.
@@ -6136,7 +6136,7 @@
 39	chremmey	cremmey	NOUN	_	_	36	obl	_	_
 40	ayns	ayns	ADP	_	_	41	case	_	_
 41	Tinvaal	Tinvaal	PROPN	_	_	36	obl	_	SpaceAfter=No
-42	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+42	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_230
 # text = Ta'n ard vlaa ny jei.
@@ -6149,7 +6149,7 @@
 4	vlaa	blaa	NOUN	_	_	1	nsubj	_	_
 5	ny	ny	DET	_	_	6	det	_	_
 6	jei	jei	NOUN	_	_	1	xcomp:pred	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_231
 # text = Aye, ayns Kerroo Keeil, mysh feed.
@@ -6162,7 +6162,7 @@
 6	,	,	PUNCT	_	_	4	punct	_	_
 7	mysh	mysh	ADP	_	_	8	case	_	_
 8	feed	feed	NUM	_	_	0	root	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = aa_232
 # text = Ga dy vaggyr Fraser orroo reesht, cha row ny croiteyryn son cur seose y cheayrt shoh.
@@ -6185,7 +6185,7 @@
 16	y	yn	DET	_	_	17	det	_	_
 17	cheayrt	keayrt	NOUN	_	_	10	obl	_	_
 18	shoh	shoh	DET	_	_	17	det	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = aa_233
 # text = Fuirreeym ayns-shoh.
@@ -6194,7 +6194,7 @@
 2-3	ayns-shoh	_	_	_	_	_	_	_	SpaceAfter=No
 2	ayns	ayns	ADP	_	_	3	case	_	_
 3	shoh	shoh	PRON	_	_	1	obl	_	_
-4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_234
 # text = Ta'n cliaghtey echey shooyl.
@@ -6207,7 +6207,7 @@
 4	ec	ec	ADP	_	_	5	case	_	_
 5	eh	eh	PRON	_	_	3	nmod	_	_
 6	shooyl	shooyl	NOUN	_	_	1	xcomp	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_235
 # text = Huitt yn daa haglym ec yn un traa.
@@ -6221,7 +6221,7 @@
 6	yn	yn	DET	_	_	8	det	_	_
 7	un	un	NUM	_	_	8	nummod	_	_
 8	traa	traa	NOUN	_	_	1	obl:tmod	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_236
 # text = As cha row enney aym's er: agh dy beagh eh er ny hoilshaghey da Israel, shen-y-fa haink mish bashtey lesh ushtey.
@@ -6257,7 +6257,7 @@
 25	bashtey	bashtey	NOUN	_	_	23	xcomp	_	_
 26	lesh	lesh	ADP	_	_	27	case	_	_
 27	ushtey	ushtey	NOUN	_	_	25	obl	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = aa_237
 # text = Ta plannyn er nyn gur roish dy vooadaghey yn magher-etlee ec Roonysvaie.
@@ -6275,7 +6275,7 @@
 11	magher-etlee	magher-etlee	NOUN	_	_	9	obj	_	_
 12	ec	ec	ADP	_	_	13	case	_	_
 13	Roonysvaie	Roonysvaie	PROPN	_	_	11	nmod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_238
 # text = Ta aggyrtys mooar er y chooid shoh.
@@ -6288,7 +6288,7 @@
 5	y	yn	DET	_	_	6	det	_	_
 6	chooid	cooid	NOUN	_	_	1	xcomp:pred	_	_
 7	shoh	shoh	DET	_	_	6	det	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_239
 # text = S'treisht lhiam dy vel shiu braew.
@@ -6302,7 +6302,7 @@
 6	vel	bee	VERB	_	_	2	csubj:cop	_	_
 7	shiu	shiu	PRON	_	_	6	nsubj	_	_
 8	braew	braew	ADJ	_	_	6	xcomp:pred	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_240
 # text = Agh v'eh ny vraghtan er y chooid sloo, as ghow eh eh gyn doalchraueeaght erbee.
@@ -6324,7 +6324,7 @@
 15	gyn	gyn	ADP	_	_	16	case	_	_
 16	doalchraueeaght	doalchraueeaght	NOUN	_	_	12	obl	_	_
 17	erbee	erbee	ADJ	_	_	16	amod	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_241
 # text = Hug eh er dy ve casley rish ny nooghyn gloyroil, as hrog eh gys ard-ooashley, myr shen dy row e noidyn ayns aggle roish.
@@ -6360,7 +6360,7 @@
 27-28	roish	_	_	_	_	_	_	_	SpaceAfter=No
 27	roish	roish	ADP	_	_	28	case	_	_
 28	eh	eh	PRON	_	_	22	obl	_	_
-29	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_242
 # text = As shen yn aght ta ymmodee Manninee smooinaghtyn foastagh, ga dy vel Celtiaghys cheet dy ve ny stroshey ec y traa t'ayn.
@@ -6390,7 +6390,7 @@
 23	t'	bee	VERB	_	_	22	acl:relcl	_	_
 24	ayns	ayns	ADP	_	_	25	case	_	_
 25	eh	eh	PRON	_	_	23	xcomp:pred	_	_
-26	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_243
 # text = Ta’n ynsagh ayns my ghooghys.
@@ -6402,7 +6402,7 @@
 4	ayns	ayns	ADP	_	_	6	case	_	_
 5	my	my	DET	_	_	6	det	_	_
 6	ghooghys	dooghys	NOUN	_	_	1	xcomp:pred	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_244
 # text = Ta mish lesh my ghraih, as orrym's ta e chree's soit.
@@ -6422,7 +6422,7 @@
 11	e	e	DET	_	_	12	det	_	_
 12	chree's	cree	NOUN	_	_	10	nsubj	_	_
 13	soit	soit	ADJ	_	_	10	xcomp:pred	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_245
 # text = Chloie ee y notey aggairagh.
@@ -6432,7 +6432,7 @@
 3	y	yn	DET	_	_	4	det	_	_
 4	notey	notey	NOUN	_	_	1	obj	_	_
 5	aggairagh	aggairagh	ADJ	_	_	4	amod	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_246
 # text = "Joe Ellis, cre'n fa 'sy theihll t'ou gyllagh magh myr shen?"
@@ -6456,7 +6456,7 @@
 15	myr	myr	ADP	_	_	13	advmod	_	_
 16	shen	shen	PRON	_	_	15	fixed	_	SpaceAfter=No
 17	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
-18	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+18	"	"	PUNCT	_	_	5	punct	_	_
 
 # sent_id = aa_247
 # text = "Gow my leshtal," as Joe dy treih.
@@ -6471,7 +6471,7 @@
 8	Joe	Joe	PROPN	_	_	7	nsubj	_	_
 9	dy	dy	PART	_	_	10	mark	_	_
 10	treih	treih	ADJ	_	_	7	advmod	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_248
 # text = Ec unnane jeh ny buird hoie daa phonniar cloie ec tawlish (chess), as va boayrd-gamman argid oc as babbanyn-tawlish (chessmen) airhey.
@@ -6503,7 +6503,7 @@
 25	chessmen	chessmen	X	_	_	23	appos	_	SpaceAfter=No
 26	)	)	PUNCT	_	_	25	punct	_	_
 27	airhey	airhey	ADJ	_	_	23	amod	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = aa_249
 # text = Dennee mee my aegid er coontey'n veggan cooinaghtyn v'aym.
@@ -6522,7 +6522,7 @@
 10	v'	bee	VERB	_	_	8	acl:relcl	_	_
 11	ec	ec	ADP	_	_	12	case	_	_
 12	mee	mee	PRON	_	_	10	xcomp:pred	_	_
-13	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_250
 # text = Cooinee dy bee Bob Carswell creeley Traa Dy Liooar Jemayrt 18.6.96 as Jemayrt 9.7.96 ec 8 pm.
@@ -6543,7 +6543,7 @@
 15	ec	ec	ADP	_	_	16	case	_	_
 16	8	8	NUM	_	_	17	nummod	_	_
 17	pm	pm	NOUN	_	_	6	obl	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_251
 # text = She Świecie y toiag reirey as y balley smoo ayn as eh ny lhie 45 km (28 mi) çheu hwoaie veih Toruń as 45 km (28 mi) çheu hiar hwoaie veih Bydgoszcz.
@@ -6586,7 +6586,7 @@
 35	hwoaie	twoaie	ADJ	_	_	33	amod	_	_
 36	veih	veih	ADP	_	_	37	case	_	_
 37	Bydgoszcz	Bydgoszcz	PROPN	_	_	33	nmod	_	SpaceAfter=No
-38	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_252
 # text = Ren y gard siyr stiagh gys Nuada yn ree.
@@ -6600,7 +6600,7 @@
 7	Nuada	Nuada	PROPN	_	_	1	obl	_	_
 8	yn	yn	DET	_	_	9	det	_	_
 9	ree	ree	NOUN	_	_	7	appos	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_253
 # text = Bee-jee er nyn arrey, shass-jee shickyr 'sy chredjue, ymmyrk-jee shiu hene myr deiney, bee-jee dunnal.
@@ -6624,7 +6624,7 @@
 17	,	,	PUNCT	_	_	18	punct	_	_
 18	bee-jee	bee	VERB	_	_	1	conj	_	_
 19	dunnal	dunnal	ADJ	_	_	18	xcomp:pred	_	SpaceAfter=No
-20	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_254
 # text = Ta'n Gharbhóg (Baarle: Garavogue River) ny h-awin ghiare as veg ayns Coontae Shliggee, Nerin.
@@ -6649,7 +6649,7 @@
 17	Shliggee	Shliggagh	PROPN	_	_	16	nmod	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	_
 19	Nerin	Nerin	PROPN	_	_	16	appos	_	SpaceAfter=No
-20	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_255
 # text = Tra haink eh yn nah cheayrt, va'n chenn haggyrt, ennym echey Juan y Clague, er e lhiabbee baase, as ren Shepherd gynsaghey sheshaght-chiaullee ny killagh dy chiaulleeagh psaum oanluckee yn taggyrt.
@@ -6693,7 +6693,7 @@
 35	oanluckee	oanluckey	NOUN	_	_	34	nmod	_	_
 36	yn	yn	DET	_	_	37	det	_	_
 37	taggyrt	saggyrt	NOUN	_	_	35	nmod	_	SpaceAfter=No
-38	.	.	PUNCT	_	_	8	punct	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = aa_256
 # text = Insh-jee mastey ny ashoonyn, dy nee yn Chiarn y Ree: as dy nee eshyn eh t'er n'yannoo yn seihll runt cha shickyr nagh vod eh ve er ny scughey, as kys dy jean eh yn pobble y vriwnys dy cairagh.
@@ -6746,7 +6746,7 @@
 43	vriwnys	briwnys	NOUN	_	_	38	xcomp	_	_
 44	dy	dy	PART	_	_	45	mark	_	_
 45	cairagh	cairagh	ADJ	_	_	43	advmod	_	SpaceAfter=No
-46	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_257
 # text = Agh cha ren ad geaishtagh, ny croymmey nyn gleaysh dy hyndaa veih nyn olk, gyn dy lostey incense gys jeeghyn elley.
@@ -6775,7 +6775,7 @@
 21	gys	gys	ADP	_	_	22	case	_	_
 22	jeeghyn	jee	NOUN	_	_	19	obl	_	_
 23	elley	elley	ADJ	_	_	22	amod	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = aa_258
 # text = As dinsh ee jee ooilley ny va'n dooinney er n'yannoo er e son.
@@ -6800,7 +6800,7 @@
 14	er	er	ADP	_	_	16	case	_	_
 15	e	e	DET	_	_	16	det	_	_
 16	son	son	NOUN	_	_	13	obl	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_259
 # text = As dreggyr eh dy trimshagh: “Cha nel.
@@ -6814,7 +6814,7 @@
 7	“	“	PUNCT	_	_	9	punct	_	SpaceAfter=No
 8	Cha	cha	PART	_	_	9	mark	_	_
 9	nel	bee	VERB	_	_	2	parataxis	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = aa_260
 # text = Myr sampleyr, ayns çhengaghyn Athabaskagh, ta gass vreear ny fraue nagh dod ve ayn ny lomarcan, as ta gymmyrkey toan yn 'ockle.
@@ -6846,7 +6846,7 @@
 24	toan	toan	NOUN	_	_	23	obj	_	_
 25	yn	yn	DET	_	_	26	det	_	_
 26	'ockle	fockle	NOUN	_	_	24	nmod	_	SpaceAfter=No
-27	.	.	PUNCT	_	_	8	punct	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = aa_261
 # text = ‘Oh, Yishag, nagh vod oo jannoo red erbee ?’
@@ -6863,7 +6863,7 @@
 10	red	red	NOUN	_	_	9	obj	_	_
 11	erbee	erbee	ADJ	_	_	10	amod	_	_
 12	?	?	PUNCT	_	_	7	punct	_	SpaceAfter=No
-13	’	’	PUNCT	_	_	7	punct	_	SpaceAfter=No
+13	’	’	PUNCT	_	_	7	punct	_	_
 
 # sent_id = aa_262
 # text = ‘Nagh vod shin cur eab er ratçhal roin, Yishag?
@@ -6881,7 +6881,7 @@
 10	shin	shin	PRON	_	_	8	obl	_	_
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	Yishag	jishag	NOUN	_	_	3	vocative	_	SpaceAfter=No
-13	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
+13	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = aa_263
 # text = Eisht dooyrt Haggai, My nee fer ta neu-ghlen liorish corp marroo bentyn rish veg jeh ny reddyn shoh, bee shen neu-ghlen?
@@ -6910,7 +6910,7 @@
 21	bee	bee	VERB	_	_	2	parataxis	_	_
 22	shen	shen	PRON	_	_	21	nsubj	_	_
 23	neu-ghlen	neu-ghlen	ADJ	_	_	21	xcomp:pred	_	SpaceAfter=No
-24	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
+24	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_264
 # text = Dy-chooilley ghooinney er e hon hene as Jee son ooilley.
@@ -6927,7 +6927,7 @@
 9	Jee	Jee	PROPN	_	_	3	conj	_	_
 10	son	son	ADP	_	_	11	case	_	_
 11	ooilley	ooilley	NOUN	_	_	9	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = aa_265
 # text = Agh ayns soie Jerrey Fouyir y whaiyl, nee caairlagh y ving shirrey er Tinvaal dy choardail rish pointeil three olteynyn tammyltagh dy ghoaill ayns laue y ronsaght.
@@ -6960,7 +6960,7 @@
 26	laue	laue	NOUN	_	_	24	obl	_	_
 27	y	yn	DET	_	_	28	det	_	_
 28	ronsaght	ronsaght	NOUN	_	_	24	obj	_	SpaceAfter=No
-29	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = aa_266
 # text = Haink Orry veih'n twoaie.
@@ -6970,7 +6970,7 @@
 3	veih	veih	ADP	_	_	5	case	_	_
 4	yn	yn	DET	_	_	5	det	_	_
 5	twoaie	twoaie	NOUN	_	_	1	obl	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_267
 # text = Hem roym da'n thie echey.
@@ -6986,7 +6986,7 @@
 7-8	echey	_	_	_	_	_	_	_	SpaceAfter=No
 7	ec	ec	ADP	_	_	8	case	_	_
 8	eh	eh	PRON	_	_	6	nmod	_	_
-9	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_268
 # text = Ta'n R161 ny raad ardjynagh ayns Nerin ta kiangley Cionn Átha Gad, Coontae ny h-Eearvee lesh yn Ooive ayns Coontae ny Mee.
@@ -7015,7 +7015,7 @@
 22	Coontae	coontae	NOUN	_	_	20	nmod	_	_
 23	ny	ny	DET	_	_	24	det	_	_
 24	Mee	Mee	PROPN	_	_	22	nmod	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_269
 # text = Va ny tree deiney er ve tayrn fainey-rubbyr mooar, as ghow ad ymmyd jeh shoh dy roshtyn y traie.
@@ -7039,7 +7039,7 @@
 18	roshtyn	roshtyn	NOUN	_	_	12	xcomp	_	_
 19	y	yn	DET	_	_	20	det	_	_
 20	traie	traie	NOUN	_	_	18	obj	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_270
 # text = Ayns 1903, hie yn Eaghtyrane Theodore Roosevelt marish Muir er turrys dys Yosemite.
@@ -7058,7 +7058,7 @@
 12	turrys	turrys	NOUN	_	_	4	obl	_	_
 13	dys	dys	ADP	_	_	14	case	_	_
 14	Yosemite	Yosemite	PROPN	_	_	12	nmod	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = aa_271
 # text = Ta'n Lioar-lhaih ry gheddyn voish ny buill cheddin son £8.
@@ -7075,7 +7075,7 @@
 10	son	son	ADP	_	_	11	case	_	_
 11	£	£	SYM	_	_	5	obl	_	SpaceAfter=No
 12	8	8	NUM	_	_	11	nummod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_272
 # text = As ren y bard foast atteeyn beggey ass arrane jee, dys jesheenaghey e baaish eddin ayns quaillyn Hraa; as 'syn ynnod oc, cheau ish foast ny slonganyn gyn feeu hilg feallee annymoil huick 'sy raad, jeant jeh reddyn çherraghtagh.
@@ -7133,7 +7133,7 @@
 46	jeh	jeh	ADP	_	_	47	case	_	_
 47	reddyn	red	NOUN	_	_	45	obl	_	_
 48	çherraghtagh	çherraghtagh	ADJ	_	_	47	amod	_	SpaceAfter=No
-49	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+49	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_273
 # text = She yn Vritaan y lieh-innys smoo 'sy Rank.
@@ -7147,7 +7147,7 @@
 7	ayns	ayns	ADP	_	_	9	case	_	_
 8	yn	yn	DET	_	_	9	det	_	_
 9	Rank	Frank	PROPN	_	_	5	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = aa_274
 # text = Cur-my-ner, ta ny laghyn cheet, ta'n Chiarn dy ghra, dy jean yn erroo berraghtyn er y beaynee, as y stampeyder feeyney er yn correyder; as nee ny sleityn shilley feeyn noa, as nee ooilley ny croink lheïe.
@@ -7201,7 +7201,7 @@
 44	ny	ny	DET	_	_	45	det	_	_
 45	croink	cronk	NOUN	_	_	43	nmod	_	_
 46	lheïe	lheie	NOUN	_	_	42	xcomp	_	SpaceAfter=No
-47	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+47	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_275
 # text = As dooyrt ad rish Jephthah, Tar uss, as bee dty chaptan harrin, dy vod mayd caggey rish cloan Ammon.
@@ -7231,7 +7231,7 @@
 21	rish	rish	ADP	_	_	22	case	_	_
 22	cloan	cloan	NOUN	_	_	20	obl	_	_
 23	Ammon	Ammon	PROPN	_	_	22	nmod	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = aa_276
 # text = Ta Thurrock as Southend-on-Sea nyn lughtyn-reilley unnaneagh nagh vel fo stiuredys y choonceil choontae.
@@ -7250,7 +7250,7 @@
 12	y	yn	DET	_	_	13	det	_	_
 13	choonceil	coonceil	NOUN	_	_	11	nmod	_	_
 14	choontae	coontae	NOUN	_	_	13	nmod	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_277
 # text = Hrog ee eh dy tappee as hyndaa ee mygeayrt eh.
@@ -7265,7 +7265,7 @@
 8	ee	ee	PRON	_	_	7	nsubj	_	_
 9	mygeayrt	mygeayrt	ADV	_	_	7	advmod	_	_
 10	eh	eh	PRON	_	_	7	obj	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = ab_000
 # text = Dy jarroo myr shen cha vel ad shoh nish er choyrt biallys, dy vod adsyn neesht trooid y vyghin er ny hoilshaghey diuish myghin y gheddyn.
@@ -7300,7 +7300,7 @@
 26	myghin	myghin	NOUN	_	_	28	obj	_	_
 27	y	y	ADP	_	_	28	mark	_	_
 28	gheddyn	geddyn	NOUN	_	_	15	xcomp	_	SpaceAfter=No
-29	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = ab_001
 # text = Ayns soilshey meein ny greiney, fastyr beg souree, va'n chiark roie dy maynrey mygeayrt yn gharey mess lesh ny ein eck.
@@ -7333,7 +7333,7 @@
 24-25	eck	_	_	_	_	_	_	_	SpaceAfter=No
 24	ec	ec	ADP	_	_	25	case	_	_
 25	ee	ee	PRON	_	_	23	nmod	_	_
-26	.	.	PUNCT	_	_	11	punct	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = ab_002
 # text = She hoghtoo lettyr jeig abbyrlhit ny Gaelgey ee renniagh (R, r), rere'n abbyrlhit Romanagh jeianagh.
@@ -7358,7 +7358,7 @@
 18	abbyrlhit	abbyrlhit	NOUN	_	_	3	obl	_	_
 19	Romanagh	Romanagh	ADJ	_	_	18	amod	_	_
 20	jeianagh	jeianagh	ADJ	_	_	19	advmod	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = ab_003
 # text = Agh nee ad getlagh er geayltyn ny Philistinee lesh y sheear; nee ad spooilley adsyn jeh'n shiar cooidjagh: nee ad nyn laue y lhie er Edom as Moab; as ver cloan Ammon biallys daue.
@@ -7405,7 +7405,7 @@
 38-39	daue	_	_	_	_	_	_	_	SpaceAfter=No
 38	da	da	ADP	_	_	39	case	_	_
 39	ad	ad	PRON	_	_	34	obl	_	_
-40	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = ab_004
 # text = T'ad ayn neayr's 1 Averil 1996, rere Slattys Reiltys Ardjynagh a.r.e. (Nalbin) 1994.
@@ -7430,7 +7430,7 @@
 16	Nalbin	Nalbin	PROPN	_	_	11	appos	_	SpaceAfter=No
 17	)	)	PUNCT	_	_	16	punct	_	_
 18	1994	1994	NUM	_	_	11	nummod	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = ab_006
 # text = Mannagh vees claare cosney argid, jarrood eh, cha bee eh jeant.
@@ -7447,7 +7447,7 @@
 11	bee	bee	VERB	_	_	7	parataxis	_	_
 12	eh	eh	PRON	_	_	11	nsubj	_	_
 13	jeant	jeant	ADJ	_	_	11	xcomp:pred	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = ab_008
 # text = Goll rooin hene, cha nel monney argid echey as, er y hon shen, by vie lesh cur Britaanish er feeshanyn profeshoonagh.
@@ -7481,7 +7481,7 @@
 25	er	er	ADP	_	_	26	case	_	_
 26	feeshanyn	feeshan	NOUN	_	_	23	obl	_	_
 27	profeshoonagh	profeshoonagh	ADJ	_	_	26	amod	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = ab_009
 # text = Ta'n gheay goll lesh y jiass, as chyndaa mygeayrt gys y twoaie, t'ee kinjagh cassey mygeayrt, as chyndaa reesht rere e combaaseyn.
@@ -7516,7 +7516,7 @@
 25	rere	rere	ADP	_	_	27	case	_	_
 26	e	e	DET	_	_	27	det	_	_
 27	combaaseyn	combaase	NOUN	_	_	23	obl	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = ab_010
 # text = Cha dannee shin ayns shen rish feer foddey.
@@ -7528,7 +7528,7 @@
 6	rish	rish	ADP	_	_	7	case	_	_
 7	feer	feer	ADV	_	_	8	advmod	_	_
 8	foddey	foddey	ADJ	_	_	2	obl	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = ab_011
 # text = Ta troyn as dooghys y pasheydys rere y sorçh dy chray t'ad jannoo ymmyd jeh, as myr shen, ta saaseyn tradishoonagh er lheh ec ardjyn er lheh dy cadjin.
@@ -7567,7 +7567,7 @@
 31	lheh	lheh	NOUN	_	_	29	nmod	_	_
 32	dy	dy	PART	_	_	33	mark	_	_
 33	cadjin	cadjin	ADJ	_	_	23	advmod	_	SpaceAfter=No
-34	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = ab_012
 # text = As nee eh yn thie y lhieggal, ny claghyn, as y fuygh, as ooilley mortar y thie: as ver eh lesh ad magh ass yn ard-valley, gys boayl neu-ghlen.
@@ -7609,7 +7609,7 @@
 33	gys	gys	ADP	_	_	34	case	_	_
 34	boayl	boayl	NOUN	_	_	23	obl	_	_
 35	neu-ghlen	neu-ghlen	ADJ	_	_	34	amod	_	SpaceAfter=No
-36	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = ac_000
 # text = O moyllee'jee yn Chiarn t'ayns niau, As insh-jee magh e ghoo; Son s'mie as stooamey t'eh dy loayrt, Ayns booise da 'ennym noo.
@@ -7647,7 +7647,7 @@
 28	e	e	DET	_	_	29	det	_	_
 29	ennym	ennym	NOUN	_	_	26	nmod	_	_
 30	noo	noo	ADJ	_	_	29	amod	_	SpaceAfter=No
-31	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = ac_003
 # text = She bunstoo lorgagh eh yiarn son dagh ooilley organe bioag, faggys.
@@ -7664,7 +7664,7 @@
 10	bioag	bioag	NOUN	_	_	9	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	faggys	faggys	ADV	_	_	7	advmod	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = ac_004
 # text = Ta mee gynsagh dy moal myrgeddin.
@@ -7675,5 +7675,5 @@
 4	dy	dy	PART	_	_	5	mark	_	_
 5	moal	moal	ADJ	_	_	3	advmod	_	_
 6	myrgeddin	myrgeddin	ADV	_	_	3	advmod	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
 
