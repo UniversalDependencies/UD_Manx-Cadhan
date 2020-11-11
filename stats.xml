@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>291</sentences><tokens>5721</tokens><words>6154</words><fused>403</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>291</sentences><tokens>5721</tokens><words>6154</words><fused>403</fused></test>
+  </size>
+  <lemmas unique="1256" /><!-- ,, bee, yn, ., as, eh, dy, er, ny, ayns, ad, mee, jean, ec, da -->
+  <forms unique="1517" /><!-- ,, ., as, eh, er, dy, y, yn, ny, ayns, ta, ad, ec, mee, da -->
+  <fusions unique="155" /><!-- ta'n, 'sy, v'eh, echey, t'eh, da, jeh'n, t'ad, er, oc, va'n, veih'n, jeh, jeu, t'ou -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="17">
+    <tag name="ADJ">342</tag><!-- elley, mooar, mie, erbee, beg, jarroo, shickyr, firrinagh, liooar, ard -->
+    <tag name="ADP">860</tag><!-- er, ayns, ec, dy, da, jeh, rish, lesh, y, son -->
+    <tag name="ADV">134</tag><!-- magh, stiagh, nish, eisht, feer, foast, seose, ersooyl, mygeayrt, reesht -->
+    <tag name="AUX">29</tag><!-- she -->
+    <tag name="CCONJ">265</tag><!-- as, agh, ny, chamoo -->
+    <tag name="DET">621</tag><!-- yn, ny, e, dty, nyn, my, shoh, chooilley, dy, shen -->
+    <tag name="INTJ">10</tag><!-- o, ahh, aye, oh, wahll -->
+    <tag name="NOUN">1442</tag><!-- jannoo, cur, ve, chiarn, dooinney, goaill, red, gra, laue, thie -->
+    <tag name="NUM">81</tag><!-- feed, keead, queig, un, daa, jeih, jeig, kiare, 28, 45 -->
+    <tag name="PART">159</tag><!-- dy, cha, nagh, ny, she -->
+    <tag name="PRON">555</tag><!-- eh, ad, mee, ee, oo, shen, shiu, shin, hene, shoh -->
+    <tag name="PROPN">230</tag><!-- Jee, Israel, Mannin, Nerin, Baarle, Yeesey, David, Divlyn, Juan, Moses -->
+    <tag name="PUNCT">788</tag><!-- ,, ., :, ?, ;, ", (, ), “, ” -->
+    <tag name="SCONJ">52</tag><!-- tra, as, son, ga, my, myr, ny, mannagh, choud, cre -->
+    <tag name="SYM">3</tag><!-- r, £ -->
+    <tag name="VERB">578</tag><!-- bee, jean, cur, abbyr, gow, fod, tar, faik, fow, insh -->
+    <tag name="X">5</tag><!-- X, a.r.e., chess, chessmen, zee -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="1">
+    <feat name="Typo" value="Yes" upos="NOUN">2</feat><!-- charrrey, okley -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="36">
+    <dep name="acl">27</dep>
+    <dep name="acl:relcl">71</dep>
+    <dep name="advcl">64</dep>
+    <dep name="advmod">171</dep>
+    <dep name="amod">213</dep>
+    <dep name="appos">45</dep>
+    <dep name="case">801</dep>
+    <dep name="cc">265</dep>
+    <dep name="ccomp">34</dep>
+    <dep name="compound">4</dep>
+    <dep name="conj">238</dep>
+    <dep name="cop">28</dep>
+    <dep name="csubj:cleft">13</dep>
+    <dep name="csubj:cop">11</dep>
+    <dep name="dep">1</dep>
+    <dep name="det">606</dep>
+    <dep name="discourse">10</dep>
+    <dep name="fixed">61</dep>
+    <dep name="flat">26</dep>
+    <dep name="flat:foreign">4</dep>
+    <dep name="iobj">2</dep>
+    <dep name="mark">229</dep>
+    <dep name="nmod">369</dep>
+    <dep name="nsubj">487</dep>
+    <dep name="nummod">48</dep>
+    <dep name="obj">227</dep>
+    <dep name="obl">441</dep>
+    <dep name="obl:tmod">13</dep>
+    <dep name="orphan">1</dep>
+    <dep name="parataxis">85</dep>
+    <dep name="punct">788</dep>
+    <dep name="reparandum">1</dep>
+    <dep name="root">291</dep>
+    <dep name="vocative">12</dep>
+    <dep name="xcomp">299</dep>
+    <dep name="xcomp:pred">168</dep>
+  </deps>
+</treebank>
