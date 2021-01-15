@@ -2322,7 +2322,7 @@
 17	y	yn	DET	_	_	18	det	_	_
 18	mooadys	mooadys	NOUN	_	_	16	xcomp:pred	_	_
 19	kiart	kiart	ADJ	_	_	18	amod	_	_
-20	shen	shen	DET	_	_	22	obj	_	_
+20	shen	shen	PRON	_	_	22	obj	_	_
 21	y	y	ADP	_	_	22	mark	_	_
 22	yannoo	jannoo	NOUN	_	_	18	acl	_	SpaceAfter=No
 23	!	!	PUNCT	_	_	16	punct	_	_
@@ -3696,7 +3696,7 @@
 12	apartheid	apartheid	NOUN	_	_	9	nmod	_	SpaceAfter=No
 13	"	"	PUNCT	_	_	12	punct	_	_
 14	as	as	CCONJ	_	_	16	cc	_	_
-15	y	y	DET	_	_	16	det	_	_
+15	y	yn	DET	_	_	16	det	_	_
 16	lhied	lhied	NOUN	_	_	12	conj	_	_
 17	as	as	CCONJ	_	_	19	cc	_	_
 18	yn	yn	DET	_	_	19	det	_	_
