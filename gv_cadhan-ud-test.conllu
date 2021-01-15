@@ -1875,7 +1875,7 @@
 18	reill	reill	NOUN	_	_	16	obj	_	_
 19	un	un	NUM	_	_	20	nummod	_	_
 20	vleïn	bleïn	NOUN	_	_	18	nmod	_	_
-21	jeig	jeig	NUM	_	_	19	compound	_	_
+21	jeig	jeig	NOUN	_	_	19	compound	_	_
 22	ayns	ayns	ADP	_	_	23	case	_	_
 23	Jerusalem	Jerusalem	PROPN	_	_	16	obl	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	1	punct	_	_
@@ -2690,7 +2690,7 @@
 # sent_id = aa_102
 # text = As ren eh loopey queig curtanyn dy cheilley: as ny queig curtanyn elley loop eh dy cheilley.
 # text_ga = Cheangail sé cúig bhrat dá chéile agus mar an gcéanna leis na cúig cinn eile.
-# text_gv = He joined five curtains to one another and the other five curtains he joined to one another.
+# text_en = He joined five curtains to one another and the other five curtains he joined to one another.
 1	As	as	CCONJ	_	_	2	cc	_	_
 2	ren	jean	VERB	_	_	0	root	_	_
 3	eh	eh	PRON	_	_	2	nsubj	_	_
@@ -2730,7 +2730,7 @@
 15	yn	yn	DET	_	_	17	det	_	_
 16	çheyoo	sheyoo	NUM	_	_	17	amod	_	_
 17	laa	laa	NOUN	_	_	8	obl	_	_
-18	jeig	jeig	NUM	_	_	16	compound	_	_
+18	jeig	jeig	NOUN	_	_	16	compound	_	_
 19	Mean	mean	NOUN	_	_	17	nmod	_	_
 20	Souree	sourey	NOUN	_	_	19	fixed	_	_
 21	nurree	nurree	ADV	_	_	8	advmod	_	_
@@ -3001,7 +3001,7 @@
 1	Ta	bee	VERB	_	_	0	root	_	_
 2	queig	queig	NUM	_	_	3	nummod	_	_
 3	booaghyn	booa	NOUN	_	_	1	nsubj	_	_
-4	jeig	jeig	NUM	_	_	2	compound	_	_
+4	jeig	jeig	NOUN	_	_	2	compound	_	_
 5-6	echey	_	_	_	_	_	_	_	SpaceAfter=No
 5	ec	ec	ADP	_	_	6	case	_	_
 6	eh	eh	PRON	_	_	1	xcomp:pred	_	_
@@ -7340,7 +7340,7 @@
 1	She	she	AUX	_	_	3	cop	_	_
 2	hoghtoo	hoghtoo	NUM	_	_	3	amod	_	_
 3	lettyr	lettyr	NOUN	_	_	0	root	_	_
-4	jeig	jeig	NUM	_	_	2	compound	_	_
+4	jeig	jeig	NOUN	_	_	2	compound	_	_
 5	abbyrlhit	abbyrlhit	NOUN	_	_	3	nmod	_	_
 6	ny	ny	DET	_	_	7	det	_	_
 7	Gaelgey	Gaelg	PROPN	_	_	5	nmod	_	_
