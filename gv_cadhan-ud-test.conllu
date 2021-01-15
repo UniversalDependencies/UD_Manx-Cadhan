@@ -538,7 +538,7 @@
 9	Va	bee	VERB	_	_	7	parataxis	_	_
 10	coraa	coraa	NOUN	_	_	9	nsubj	_	_
 11	er	er	ADP	_	_	13	case	_	_
-12	ny	ny	DET	_	_	13	det	_	_
+12	ny	ny	DET	_	_	13	nmod:poss	_	_
 13	chlashtyn	clashtyn	NOUN	_	_	9	xcomp:pred	_	_
 14	ayns	ayns	ADP	_	_	15	case	_	_
 15	Ramah	Ramah	PROPN	_	_	13	obl	_	SpaceAfter=No
@@ -669,7 +669,7 @@
 1	Va	bee	VERB	_	_	0	root	_	_
 2	dooinney	dooinney	NOUN	_	_	1	nsubj	_	_
 3	lieh-rooisht	lieh-rooisht	ADJ	_	_	2	amod	_	_
-4	ny	ny	DET	_	_	5	det	_	_
+4	ny	ny	DET	_	_	5	nmod:poss	_	_
 5	hassoo	shassoo	NOUN	_	_	1	xcomp:pred	_	_
 6	aynshen	aynshen	ADV	_	_	5	advmod	_	_
 7	as	as	CCONJ	_	_	8	cc	_	_
@@ -691,7 +691,7 @@
 2	Ta	bee	VERB	_	_	0	root	_	_
 3	Jee	Jee	PROPN	_	_	2	nsubj	_	_
 4	er	er	ADP	_	_	6	case	_	_
-5	ny	ny	DET	_	_	6	det	_	_
+5	ny	ny	DET	_	_	6	nmod:poss	_	_
 6	vrasnaghey	brasnaghey	NOUN	_	_	2	xcomp	_	_
 7	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
 8	liorish	liorish	ADP	_	_	10	case	_	_
@@ -1058,7 +1058,7 @@
 42	eshyn	eh	PRON	_	_	40	conj	_	_
 43	va	bee	VERB	_	_	42	acl:relcl	_	_
 44	ruggit	ruggit	ADJ	_	_	43	xcomp:pred	_	_
-45	ny	ny	DET	_	_	46	det	_	_
+45	ny	ny	DET	_	_	46	nmod:poss	_	_
 46-48	mast'oc	_	_	_	_	_	_	_	SpaceAfter=No
 46	mast'	mastey	NOUN	_	_	44	obl	_	_
 47	ec	ec	ADP	_	_	48	case	_	_
@@ -1106,7 +1106,7 @@
 1-2	T'eh	_	_	_	_	_	_	_	_
 1	T'	bee	VERB	_	_	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
-3	ny	ny	DET	_	_	4	det	_	_
+3	ny	ny	DET	_	_	4	nmod:poss	_	_
 4	phaarteeas	paarteeas	NOUN	_	_	1	xcomp:pred	_	_
 5-6	jeh'n	_	_	_	_	_	_	_	_
 5	jeh	jeh	ADP	_	_	7	case	_	_
@@ -1123,7 +1123,7 @@
 1	Ta	bee	VERB	_	_	0	root	_	_
 2	'n	yn	DET	_	_	3	det	_	_
 3	Paarteeas	paarteeas	NOUN	_	_	1	nsubj	_	_
-4	ny	ny	DET	_	_	5	det	_	_
+4	ny	ny	DET	_	_	5	nmod:poss	_	_
 5	ard-stiureyder	ard-stiureyder	NOUN	_	_	1	xcomp:pred	_	_
 6	jeh	jeh	ADP	_	_	7	case	_	_
 7	Cummey	cummey	NOUN	_	_	5	nmod	_	_
@@ -1634,7 +1634,7 @@
 1-2	T'eh	_	_	_	_	_	_	_	_
 1	T'	bee	VERB	_	_	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
-3	ny	ny	DET	_	_	4	det	_	_
+3	ny	ny	DET	_	_	4	nmod:poss	_	_
 4	ghooinney	dooinney	NOUN	_	_	1	xcomp:pred	_	_
 5	lieh-hooillagh	lieh-hooillagh	ADJ	_	_	4	amod	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
@@ -1678,7 +1678,7 @@
 34	oo	oo	PRON	_	_	33	nsubj	_	_
 35	er	er	ADP	_	_	36	case	_	_
 36-37	n'yannoo	_	_	_	_	_	_	_	_
-36	n'	ny	DET	_	_	37	det	_	_
+36	n'	ny	DET	_	_	37	nmod:poss	_	_
 37	yannoo	jannoo	NOUN	_	_	33	xcomp	_	_
 38	wheesh	wheesh	NOUN	_	_	37	obj	_	_
 39	er	er	ADP	_	_	41	case	_	_
@@ -2078,7 +2078,7 @@
 8	greiney	grian	NOUN	_	_	6	nmod	_	_
 9	va	bee	VERB	_	_	0	root	_	_
 10	Juan	Juan	PROPN	_	_	9	nsubj	_	_
-11	ny	ny	DET	_	_	12	det	_	_
+11	ny	ny	DET	_	_	12	nmod:poss	_	_
 12	chadley	cadley	NOUN	_	_	9	xcomp:pred	_	_
 13	foast	foast	ADV	_	_	9	advmod	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	9	punct	_	_
@@ -2280,7 +2280,7 @@
 
 # sent_id = aa_088
 # text = Ny yei, ayns ny Steatyn Unnaneyssit, t'ad gra ‘zee’.
-1	Ny	ny	DET	_	_	2	det	_	_
+1	Ny	ny	DET	_	_	2	nmod:poss	_	_
 2	yei	jei	NOUN	_	_	9	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	_
 4	ayns	ayns	ADP	_	_	6	case	_	_
@@ -2593,7 +2593,7 @@
 10	dy	dy	PART	_	_	11	mark	_	_
 11	jarroo	jarroo	ADJ	_	_	3	advmod	_	_
 12	er	er	ADP	_	_	14	case	_	_
-13	ny	ny	DET	_	_	14	det	_	_
+13	ny	ny	DET	_	_	14	nmod:poss	_	_
 14	hauail	sauail	NOUN	_	_	3	xcomp:pred	_	SpaceAfter=No
 15	:	:	PUNCT	_	_	17	punct	_	_
 16	son	son	SCONJ	_	_	17	mark	_	_
@@ -2602,7 +2602,7 @@
 18	eh	eh	PRON	_	_	17	nsubj	_	_
 19	er	er	ADP	_	_	20	case	_	_
 20-21	n'okley	_	_	_	_	_	_	_	_
-20	n'	ny	DET	_	_	21	det	_	_
+20	n'	ny	DET	_	_	21	nmod:poss	_	_
 21	okley	fockley	NOUN	_	Typo=Yes	17	xcomp:pred	_	_
 22	magh	magh	ADV	_	_	21	advmod	_	_
 23	dy	dy	PART	_	_	25	mark	_	_
@@ -2615,7 +2615,7 @@
 30	raa	raa	NOUN	_	_	28	conj	_	_
 31	mollaghtagh	mollaghtagh	ADJ	_	_	30	amod	_	_
 32	er	er	ADP	_	_	34	case	_	_
-33	ny	ny	DET	_	_	34	det	_	_
+33	ny	ny	DET	_	_	34	nmod:poss	_	_
 34	leih	leih	NOUN	_	_	25	xcomp:pred	_	SpaceAfter=No
 35	"	"	PUNCT	_	_	25	punct	_	_
 36-37	da'n	_	_	_	_	_	_	_	_
@@ -3334,7 +3334,7 @@
 22-23	t'er	_	_	_	_	_	_	_	_
 22	t'	bee	VERB	_	_	21	acl:relcl	_	_
 23	er	er	ADP	_	_	25	case	_	_
-24	ny	ny	DET	_	_	25	det	_	_
+24	ny	ny	DET	_	_	25	nmod:poss	_	_
 25	choyrt	coyrt	NOUN	_	_	22	xcomp	_	SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	_
 27	ny	ny	PART	_	_	28	mark	_	_
@@ -3529,7 +3529,7 @@
 10-11	v'eh	_	_	_	_	_	_	_	_
 10	v'	bee	VERB	_	_	2	advcl	_	_
 11	eh	eh	PRON	_	_	10	nsubj	_	_
-12	ny	ny	DET	_	_	13	det	_	_
+12	ny	ny	DET	_	_	13	nmod:poss	_	_
 13	aegid	aegid	NOUN	_	_	10	xcomp:pred	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -3546,7 +3546,7 @@
 6	mish	mee	PRON	_	_	5	nsubj	_	_
 7	er	er	ADP	_	_	8	case	_	_
 8-9	n'insh	_	_	_	_	_	_	_	_
-8	n'	ny	DET	_	_	9	det	_	_
+8	n'	ny	DET	_	_	9	nmod:poss	_	_
 9	insh	insh	NOUN	_	_	5	xcomp	_	_
 10-11	diu	_	_	_	_	_	_	_	SpaceAfter=No
 10	da	da	ADP	_	_	11	case	_	_
@@ -3806,7 +3806,7 @@
 # sent_id = aa_147
 # text = Ny skeeal giare, dy jarroo.
 # text_ga = Ina ghearrscéal, le fírinne.
-1	Ny	ny	DET	_	_	2	det	_	_
+1	Ny	ny	DET	_	_	2	nmod:poss	_	_
 2	skeeal	skeeal	NOUN	_	_	0	root	_	_
 3	giare	giare	ADJ	_	_	2	amod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
@@ -3836,7 +3836,7 @@
 
 # sent_id = aa_149
 # text = Shoh yn leigh mychione ny beiyn, as mychione ny eeanlee, as mychione dy chooilley chretoor bio ta snaue ayns ny ushtaghyn, as dy chooilley chretoor ta snaue er yn ooir.
-# text_ga = Sin é an dlí i dtaobh na n -ainmhithe go léir, na n-éan go léir, na ndúl beo go léir a shnámhann sna huiscí, agus na míol go léir a shnámhann ar talamh,
+# text_ga = Sin é an dlí i dtaobh na n-ainmhithe go léir, na n-éan go léir, na ndúl beo go léir a shnámhann sna huiscí, agus na míol go léir a shnámhann ar talamh,
 # text_en = This is the law of the beasts, and of the fowl, and of every living creature that moveth in the waters, and of every creature that creepeth upon the earth:
 1	Shoh	shoh	PRON	_	_	0	root	_	_
 2	yn	yn	DET	_	_	3	det	_	_
@@ -3943,7 +3943,7 @@
 3	Benaiah	Benaiah	PROPN	_	_	1	nsubj	_	_
 4	cheddin	cheddin	ADJ	_	_	3	amod	_	_
 5	va	bee	VERB	_	_	3	acl:relcl	_	_
-6	ny	ny	DET	_	_	7	det	_	_
+6	ny	ny	DET	_	_	7	nmod:poss	_	_
 7	ard-er	ard-er	NOUN	_	_	5	xcomp:pred	_	_
 8	as	as	CCONJ	_	_	11	cc	_	_
 9	erskyn	erskyn	ADP	_	_	11	case	_	_
@@ -4005,7 +4005,7 @@
 31	er	er	ADP	_	_	32	case	_	_
 32	ve	ve	NOUN	_	_	29	xcomp	_	_
 33	er	er	ADP	_	_	35	case	_	_
-34	ny	ny	DET	_	_	35	det	_	_
+34	ny	ny	DET	_	_	35	nmod:poss	_	_
 35	hickyraghey	shickyraghey	NOUN	_	_	32	xcomp	_	_
 36-37	'syn	_	_	_	_	_	_	_	_
 36	ayns	ayns	ADP	_	_	38	case	_	_
@@ -5245,7 +5245,7 @@
 22	bee	bee	VERB	_	_	14	ccomp	_	_
 23	eh	eh	PRON	_	_	22	nsubj	_	_
 24	er	er	ADP	_	_	26	case	_	_
-25	ny	ny	DET	_	_	26	det	_	_
+25	ny	ny	DET	_	_	26	nmod:poss	_	_
 26	choyrt	coyrt	NOUN	_	_	22	xcomp	_	_
 27	gy	gy	ADP	_	_	28	case	_	_
 28	baase	baase	NOUN	_	_	26	obl	_	_
@@ -5391,7 +5391,7 @@
 20	eh	eh	PRON	_	_	19	nsubj	_	_
 21	er	er	ADP	_	_	23	case	_	_
 22-23	n'akin	_	_	_	_	_	_	_	_
-22	n'	ny	DET	_	_	23	det	_	_
+22	n'	ny	DET	_	_	23	nmod:poss	_	_
 23	akin	fakin	NOUN	_	_	19	xcomp	_	_
 24	rieau	rieau	ADV	_	_	23	advmod	_	_
 25	roie	roie	ADV	_	_	23	advmod	_	SpaceAfter=No
@@ -5968,7 +5968,7 @@
 2	ou	ou	PRON	_	_	1	nsubj	_	_
 3	er	er	ADP	_	_	4	case	_	_
 4-5	n'immeeaght	_	_	_	_	_	_	_	_
-4	n'	ny	DET	_	_	5	det	_	_
+4	n'	ny	DET	_	_	5	nmod:poss	_	_
 5	immeeaght	immeeaght	NOUN	_	_	1	xcomp	_	_
 6	ayns	ayns	ADP	_	_	7	case	_	_
 7	raad	raad	NOUN	_	_	5	obl	_	_
@@ -6046,7 +6046,7 @@
 13	uss	oo	PRON	_	_	12	fixed	_	_
 14	er	er	ADP	_	_	16	case	_	_
 15-16	n’yannoo	_	_	_	_	_	_	_	_
-15	n'	ny	DET	_	_	16	det	_	_
+15	n'	ny	DET	_	_	16	nmod:poss	_	_
 16	yannoo	jannoo	NOUN	_	_	11	xcomp	_	_
 17-18	maroo	_	_	_	_	_	_	_	SpaceAfter=No
 17	marish	marish	ADP	_	_	18	case	_	_
@@ -6147,7 +6147,7 @@
 2	'n	yn	DET	_	_	3	det	_	_
 3	ard	ard	ADJ	_	_	4	amod	_	_
 4	vlaa	blaa	NOUN	_	_	1	nsubj	_	_
-5	ny	ny	DET	_	_	6	det	_	_
+5	ny	ny	DET	_	_	6	nmod:poss	_	_
 6	jei	jei	NOUN	_	_	1	xcomp:pred	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -6244,7 +6244,7 @@
 12	beagh	bee	VERB	_	_	20	advcl	_	_
 13	eh	eh	PRON	_	_	12	nsubj	_	_
 14	er	er	ADP	_	_	16	case	_	_
-15	ny	ny	DET	_	_	16	det	_	_
+15	ny	ny	DET	_	_	16	nmod:poss	_	_
 16	hoilshaghey	soilshaghey	NOUN	_	_	12	xcomp	_	_
 17	da	da	ADP	_	_	18	case	_	_
 18	Israel	Israel	PROPN	_	_	16	obl	_	SpaceAfter=No
@@ -6311,7 +6311,7 @@
 2-3	v'eh	_	_	_	_	_	_	_	_
 2	v'	bee	VERB	_	_	0	root	_	_
 3	eh	eh	PRON	_	_	2	nsubj	_	_
-4	ny	ny	DET	_	_	5	det	_	_
+4	ny	ny	DET	_	_	5	nmod:poss	_	_
 5	vraghtan	braghtan	NOUN	_	_	2	xcomp:pred	_	_
 6	er	er	ADP	_	_	8	case	_	_
 7	y	yn	DET	_	_	8	det	_	_
@@ -6563,7 +6563,7 @@
 11	eh	eh	PRON	_	_	2	obl	_	_
 12	as	as	SCONJ	_	_	13	mark	_	_
 13	eh	eh	PRON	_	_	2	advcl	_	_
-14	ny	ny	DET	_	_	15	det	_	_
+14	ny	ny	DET	_	_	15	nmod:poss	_	_
 15	lhie	lhie	NOUN	_	_	13	xcomp:pred	_	_
 16	45	45	NUM	_	_	17	nummod	_	_
 17	km	km	NOUN	_	_	22	obl	_	_
@@ -6640,7 +6640,7 @@
 7	Garavogue	Garavogue	PROPN	_	_	3	appos	_	_
 8	River	River	PROPN	_	_	7	flat:foreign	_	SpaceAfter=No
 9	)	)	PUNCT	_	_	7	punct	_	_
-10	ny	ny	DET	_	_	11	det	_	_
+10	ny	ny	DET	_	_	11	nmod:poss	_	_
 11	h-awin	awin	NOUN	_	_	1	xcomp:pred	_	_
 12	ghiare	giare	ADJ	_	_	11	amod	_	_
 13	as	as	CCONJ	_	_	14	cc	_	_
@@ -6721,7 +6721,7 @@
 18	t'	bee	VERB	_	_	17	acl:relcl	_	_
 19	er	er	ADP	_	_	20	case	_	_
 20-21	n'yannoo	_	_	_	_	_	_	_	_
-20	n'	ny	DET	_	_	21	det	_	_
+20	n'	ny	DET	_	_	21	nmod:poss	_	_
 21	yannoo	jannoo	NOUN	_	_	18	xcomp	_	_
 22	yn	yn	DET	_	_	23	det	_	_
 23	seihll	seihll	NOUN	_	_	21	obj	_	_
@@ -6733,7 +6733,7 @@
 29	eh	eh	PRON	_	_	28	nsubj	_	_
 30	ve	ve	NOUN	_	_	28	xcomp	_	_
 31	er	er	ADP	_	_	33	case	_	_
-32	ny	ny	DET	_	_	33	det	_	_
+32	ny	ny	DET	_	_	33	nmod:poss	_	_
 33	scughey	scughey	NOUN	_	_	30	xcomp	_	SpaceAfter=No
 34	,	,	PUNCT	_	_	35	punct	_	_
 35	as	as	CCONJ	_	_	38	cc	_	_
@@ -6796,7 +6796,7 @@
 10	dooinney	dooinney	NOUN	_	_	8	nsubj	_	_
 11	er	er	ADP	_	_	13	case	_	_
 12-13	n'yannoo	_	_	_	_	_	_	_	_
-12	n'	ny	DET	_	_	13	det	_	_
+12	n'	ny	DET	_	_	13	nmod:poss	_	_
 13	yannoo	jannoo	NOUN	_	_	8	xcomp	_	_
 14	er	er	ADP	_	_	16	case	_	_
 15	e	e	DET	_	_	16	det	_	_
@@ -6830,7 +6830,7 @@
 8	ta	bee	VERB	_	_	0	root	_	_
 9	gass	gass	NOUN	_	_	8	nsubj	_	_
 10	vreear	breear	NOUN	_	_	9	nmod	_	_
-11	ny	ny	DET	_	_	12	det	_	_
+11	ny	ny	DET	_	_	12	nmod:poss	_	_
 12	fraue	fraue	NOUN	_	_	8	xcomp:pred	_	_
 13	nagh	nagh	PART	_	_	14	mark	_	_
 14	dod	fod	VERB	_	_	12	acl:relcl	_	_
@@ -6838,7 +6838,7 @@
 16-17	ayn	_	_	_	_	_	_	_	_
 16	ayns	ayns	ADP	_	_	17	case	_	_
 17	eh	eh	PRON	_	_	15	xcomp:pred	_	_
-18	ny	ny	DET	_	_	19	det	_	_
+18	ny	ny	DET	_	_	19	nmod:poss	_	_
 19	lomarcan	lomarcan	NOUN	_	_	15	obl	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	_
 21	as	as	CCONJ	_	_	22	cc	_	_
@@ -6995,7 +6995,7 @@
 1	Ta	bee	VERB	_	_	0	root	_	_
 2	'n	yn	DET	_	_	3	det	_	_
 3	R161	R161	PROPN	_	_	1	nsubj	_	_
-4	ny	ny	DET	_	_	5	det	_	_
+4	ny	ny	DET	_	_	5	nmod:poss	_	_
 5	raad	raad	NOUN	_	_	1	xcomp:pred	_	_
 6	ardjynagh	ardjynagh	ADJ	_	_	5	amod	_	_
 7	ayns	ayns	ADP	_	_	8	case	_	_
@@ -7293,7 +7293,7 @@
 19	y	yn	DET	_	_	20	det	_	_
 20	vyghin	myghin	NOUN	_	_	23	obj	_	_
 21	er	er	ADP	_	_	23	case	_	_
-22	ny	ny	DET	_	_	23	det	_	_
+22	ny	ny	DET	_	_	23	nmod:poss	_	_
 23	hoilshaghey	soilshaghey	NOUN	_	_	15	advcl	_	_
 24-25	diuish	_	_	_	_	_	_	_	_
 24	da	da	ADP	_	_	25	case	_	_
