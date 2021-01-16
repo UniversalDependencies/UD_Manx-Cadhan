@@ -4304,8 +4304,8 @@
 47	d'obbree	obbree	VERB	_	_	2	parataxis	_	_
 48	eh	eh	PRON	_	_	47	nsubj	_	_
 49	shen	shen	PRON	_	_	47	obj	_	_
-50	ny	ny	SCONJ	_	_	51	mark	_	_
-51	va	bee	VERB	_	_	49	acl	_	_
+50	ny	ny	PART	_	_	51	mark	_	_
+51	va	bee	VERB	_	_	49	acl:relcl	_	_
 52	olk	olk	ADJ	_	_	51	xcomp:pred	_	_
 53	ayns	ayns	ADP	_	_	54	case	_	_
 54	shilley	shilley	NOUN	_	_	52	obl	_	_
