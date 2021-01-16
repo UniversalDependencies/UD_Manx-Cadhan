@@ -2182,11 +2182,11 @@
 2	eiraght	eiraght	NOUN	_	_	1	nsubj	_	_
 3	cloan	cloan	NOUN	_	_	2	nmod	_	_
 4	Venjamin	Benjamin	PROPN	_	_	3	nmod	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	9	punct	_	_
-6	cordail	cordail	ADP	_	_	9	case	_	_
-7	rish	rish	ADP	_	_	6	fixed	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	cordail	cordail	NOUN	_	_	2	acl	_	_
+7	rish	rish	ADP	_	_	9	case	_	_
 8	nyn	nyn	DET	_	_	9	nmod:poss	_	_
-9	gynneeyn	kynney	NOUN	_	_	2	nmod	_	SpaceAfter=No
+9	gynneeyn	kynney	NOUN	_	_	6	obl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_085
@@ -2865,11 +2865,11 @@
 49	thieyn	thie	NOUN	_	_	48	nmod	_	_
 50	nagh	nagh	PART	_	_	51	mark	_	_
 51	vel	bee	VERB	_	_	44	acl:relcl	_	SpaceAfter=No
-52	,	,	PUNCT	_	_	55	punct	_	_
-53	cordail	cordail	ADP	_	_	55	case	_	_
-54	rish	rish	ADP	_	_	53	fixed	_	_
-55	CIG	CIG	PROPN	_	_	51	obl	_	SpaceAfter=No
-56	,	,	PUNCT	_	_	55	punct	_	_
+52	,	,	PUNCT	_	_	53	punct	_	_
+53	cordail	cordail	NOUN	_	_	51	advcl	_	_
+54	rish	rish	ADP	_	_	55	case	_	_
+55	CIG	CIG	PROPN	_	_	53	obl	_	SpaceAfter=No
+56	,	,	PUNCT	_	_	53	punct	_	_
 57	goaill	goaill	NOUN	_	_	51	xcomp	_	_
 58	stiagh	stiagh	ADV	_	_	57	advmod	_	_
 59	kiarailyn	kiarail	NOUN	_	_	57	obj	_	_
