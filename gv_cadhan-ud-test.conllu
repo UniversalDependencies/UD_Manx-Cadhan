@@ -2899,7 +2899,7 @@
 1-2	V'ad	_	_	_	_	_	_	_	_
 1	V'	bee	VERB	_	_	0	root	_	_
 2	ad	ad	PRON	_	_	1	nsubj	_	_
-3	ooilley	ooilley	ADV	_	_	1	advmod	_	_
+3	ooilley	ooilley	ADJ	_	_	2	amod	_	_
 4	ayns	ayns	ADP	_	_	5	case	_	_
 5	fardail	fardail	NOUN	_	_	1	xcomp:pred	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
@@ -6789,9 +6789,9 @@
 4	jeh	jeh	ADP	_	_	5	case	_	_
 5	ee	ee	PRON	_	_	2	obl	_	_
 6	ooilley	ooilley	NOUN	_	_	2	obj	_	_
-7	ny	ny	SCONJ	_	_	8	mark	_	_
+7	ny	ny	PART	_	_	8	mark	_	_
 8-9	va'n	_	_	_	_	_	_	_	_
-8	va	bee	VERB	_	_	6	acl	_	_
+8	va	bee	VERB	_	_	6	acl:relcl	_	_
 9	'n	yn	DET	_	_	10	det	_	_
 10	dooinney	dooinney	NOUN	_	_	8	nsubj	_	_
 11	er	er	ADP	_	_	13	case	_	_
@@ -7659,9 +7659,9 @@
 4	eh	eh	PRON	_	_	5	nmod	_	_
 5	yiarn	yiarn	NOUN	_	_	2	nsubj	_	_
 6	son	son	ADP	_	_	8	case	_	_
-7	dagh	dagh	DET	_	_	8	det	_	_
-8	ooilley	ooilley	NOUN	_	_	2	obl	_	_
-9	organe	organe	NOUN	_	_	8	nmod	_	_
+7	dagh	dagh	DET	_	_	9	det	_	_
+8	ooilley	ooilley	DET	_	_	9	det	_	_
+9	organe	organe	NOUN	_	_	3	obl	_	_
 10	bioag	bioag	NOUN	_	_	9	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	faggys	faggys	ADV	_	_	7	advmod	_	SpaceAfter=No
