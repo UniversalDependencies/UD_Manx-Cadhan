@@ -23,12 +23,12 @@
 5	ve	ve	NOUN	_	_	1	xcomp	_	_
 6-7	eu	_	_	_	_	_	_	_	_
 6	ec	ec	ADP	_	_	7	case	_	_
-7	shiu	shiu	PRON	_	_	5	obl	_	_
+7	shiu	shiu	PRON	_	_	5	xcomp:pred	_	_
 8	nagh	nagh	PART	_	_	9	mark	_	_
-9	nee	she	AUX	_	_	5	ccomp	_	_
+9	nee	she	AUX	_	_	12	cop	_	_
 10	er	er	ADP	_	_	12	case	_	_
 11	y	yn	DET	_	_	12	det	_	_
-12	ghraih	graih	NOUN	_	_	9	ccomp	_	_
+12	ghraih	graih	NOUN	_	_	3	acl	_	_
 13-14	euish	_	_	_	_	_	_	_	_
 13	ec	ec	ADP	_	_	14	case	_	_
 14	shiuish	shiu	PRON	_	_	12	nmod	_	_
@@ -750,7 +750,7 @@
 
 # sent_id = aa_031
 # text = Cha noddym geddyn barriaght er!
-1	Cha	cha	PART	_	_	2	advmod	_	_
+1	Cha	cha	PART	_	_	2	mark	_	_
 2	noddym	fod	VERB	_	_	0	root	_	_
 3	geddyn	geddyn	NOUN	_	_	2	xcomp	_	_
 4	barriaght	barriaght	NOUN	_	_	3	obj	_	_
@@ -928,12 +928,12 @@
 2	nee	jean	VERB	_	_	0	root	_	_
 3	Fer-ny-gherjagh	fer-ny-gherjagh	PROPN	_	_	2	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
-5	ta	bee	VERB	_	_	9	obl	_	_
-6	shen	shen	PRON	_	_	5	fixed	_	SpaceAfter=No
+5	ta	bee	VERB	_	_	2	parataxis	_	_
+6	shen	shen	PRON	_	_	5	nsubj	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	5	punct	_	_
 8	yn	yn	DET	_	_	9	det	_	_
-9	Spyrryd	spyrryd	PROPN	_	_	3	appos	_	_
-10	Noo	Noo	PROPN	_	_	9	amod	_	SpaceAfter=No
+9	Spyrryd	spyrryd	NOUN	_	_	3	appos	_	_
+10	Noo	noo	ADJ	_	_	9	amod	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	eh	eh	PRON	_	_	3	appos	_	_
 13	nee	jean	VERB	_	_	12	acl:relcl	_	_
@@ -1268,7 +1268,7 @@
 3-4	rhyt's	_	_	_	_	_	_	_	_
 3	rish	rish	ADP	_	_	4	case	_	_
 4	uss	oo	PRON	_	_	0	root	_	_
-5	eisht	eisht	ADV	_	_	4	nmod	_	_
+5	eisht	eisht	ADV	_	_	4	advmod	_	_
 6	ta	bee	VERB	_	_	4	acl:relcl	_	_
 7	mee	mee	PRON	_	_	6	nsubj	_	_
 8	loayrt	loayrt	NOUN	_	_	6	xcomp	_	_
@@ -1899,7 +1899,7 @@
 15	dy	dy	DET	_	_	17	det	_	_
 16	chooilley	chooilley	DET	_	_	15	fixed	_	_
 17	nhee	nhee	NOUN	_	_	14	nsubj	_	_
-18	dorraghey	dorraghey	ADJ	_	_	14	xcomp	_	SpaceAfter=No
+18	dorraghey	dorraghey	ADJ	_	_	14	xcomp:pred	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_073
@@ -3210,7 +3210,7 @@
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	stiagh	stiagh	ADV	_	_	1	advmod	_	_
 4	yn	yn	DET	_	_	5	det	_	_
-5	kiarroo	kiarroo	ADJ	_	_	1	obj	_	SpaceAfter=No
+5	kiarroo	kiarroo	NOUN	_	_	1	obl	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_123
@@ -3225,8 +3225,8 @@
 8	as	as	CCONJ	_	_	9	cc	_	_
 9	hie	gow	VERB	_	_	4	conj	_	_
 10	eh	eh	PRON	_	_	9	nsubj	_	_
-11	stiagh	stiagh	ADV	_	_	14	case	_	_
-12	ayns	ayns	ADP	_	_	11	fixed	_	_
+11	stiagh	stiagh	ADV	_	_	9	advmod	_	_
+12	ayns	ayns	ADP	_	_	14	case	_	_
 13	ny	ny	DET	_	_	14	det	_	_
 14	Arryltee	arryltagh	NOUN	_	_	9	obl	_	_
 15	Yernagh	Yernagh	ADJ	_	_	14	amod	_	SpaceAfter=No
@@ -5616,7 +5616,7 @@
 2	da	da	ADP	_	_	3	case	_	_
 3	eh	eh	PRON	_	_	1	obl	_	_
 4	tuittym	tuittym	NOUN	_	_	1	xcomp	_	_
-5	neealloo	neealloo	ADV	_	_	4	obj	_	_
+5	neealloo	neealloo	ADV	_	_	4	advmod	_	_
 6	agh	agh	CCONJ	_	_	7	cc	_	_
 7	ren	jean	VERB	_	_	1	conj	_	_
 8	eh	eh	PRON	_	_	7	nsubj	_	_
@@ -7277,7 +7277,7 @@
 5	cha	cha	PART	_	_	6	mark	_	_
 6	vel	bee	VERB	_	_	0	root	_	_
 7	ad	ad	PRON	_	_	6	nsubj	_	_
-8	shoh	shoh	PRON	_	_	7	det	_	_
+8	shoh	shoh	DET	_	_	7	det	_	_
 9	nish	nish	ADV	_	_	6	advmod	_	_
 10	er	er	ADP	_	_	11	case	_	_
 11	choyrt	coyrt	NOUN	_	_	6	xcomp	_	_
