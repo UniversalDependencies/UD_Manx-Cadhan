@@ -24,7 +24,7 @@
 6-7	eu	_	_	_	_	_	_	_	_
 6	ec	ec	ADP	_	_	7	case	_	_
 7	shiu	shiu	PRON	_	_	5	xcomp:pred	_	_
-8	nagh	nagh	PART	_	_	9	mark	_	_
+8	nagh	nagh	PART	_	_	12	mark	_	_
 9	nee	she	AUX	_	_	12	cop	_	_
 10	er	er	ADP	_	_	12	case	_	_
 11	y	yn	DET	_	_	12	det	_	_
@@ -5668,7 +5668,7 @@
 14	Cashtal	cashtal	NOUN	_	_	13	nsubj	_	_
 15	Phurt	purt	NOUN	_	_	14	nmod	_	_
 16	ny	ny	DET	_	_	17	det	_	_
-17	h-Inshey	innis_nf	NOUN	_	_	15	nmod	_	_
+17	h-Inshey	innis	NOUN	_	_	15	nmod	_	_
 18	troggit	troggit	ADJ	_	_	13	xcomp:pred	_	_
 19	er	er	ADP	_	_	20	case	_	_
 20	boayl	boayl	NOUN	_	_	18	obl	_	_
