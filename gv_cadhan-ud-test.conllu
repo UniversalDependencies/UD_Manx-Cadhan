@@ -6506,7 +6506,7 @@
 # sent_id = aa_249
 # text = Dennee mee my aegid er coontey'n veggan cooinaghtyn v'aym.
 # text_en = I felt conscious of youth because I remembered so little.
-1	Dennee	ennee	VERB	_	_	0	root	_	_
+1	Dennee	ennee	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	mee	mee	PRON	_	_	1	nsubj	_	_
 3	my	my	DET	_	Number=Sing|Person=1|Poss=Yes	4	nmod:poss	_	_
 4	aegid	aegid	NOUN	_	_	1	obj	_	_
@@ -8904,7 +8904,7 @@
 4	cre	cre	PRON	_	_	1	ccomp	_	_
 5	'n	yn	DET	_	_	6	det	_	_
 6	traa	traa	NOUN	_	_	4	nsubj	_	_
-7	bee	bee	VERB	_	_	6	acl	_	_
+7	bee	bee	VERB	_	Mood=Ind|Tense=Fut	6	acl	_	_
 8	ee	ee	PRON	_	_	7	nsubj	_	_
 9	goll	goll	NOUN	_	_	7	xcomp	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	_
@@ -9448,7 +9448,7 @@
 # text = Raip sterrym trooid yn valley.
 # text_ga = Réab stoirm tríd an mbaile.
 # text_en = A storm swept the town.
-1	Raip	raip	VERB	_	_	0	root	_	_
+1	Raip	raip	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	sterrym	sterrym	NOUN	_	_	1	nsubj	_	_
 3	trooid	trooid	ADP	_	_	5	case	_	_
 4	yn	yn	DET	_	_	5	det	_	_
@@ -9476,7 +9476,7 @@
 # text_en = Accordingly I wrote to him.
 1	Myr	myr	ADP	_	_	3	advmod	_	_
 2	shen	shen	PRON	_	_	1	fixed	_	_
-3	screeu	screeu	VERB	_	_	0	root	_	_
+3	screeu	screeu	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 4	mee	mee	PRON	_	_	3	nsubj	_	_
 5-6	rish	_	_	_	_	_	_	_	SpaceAfter=No
 5	rish	rish	ADP	_	_	6	case	_	_
@@ -12196,7 +12196,7 @@
 # text_ga = Níor lig an eagla dom labhairt léi.
 # text_en = Fear won't permit me to speak to her.
 1	Cha	cha	PART	_	_	2	mark	_	_
-2	lhig	lhig	VERB	_	_	0	root	_	_
+2	lhig	lhig	VERB	_	Mood=Ind|Tense=Fut	0	root	_	_
 3	yn	yn	DET	_	_	4	det	_	_
 4	aggle	aggle	NOUN	_	_	2	nsubj	_	_
 5-6	lhiam	_	_	_	_	_	_	_	_
@@ -12930,7 +12930,7 @@
 # text = Sceoll eh ushtey er yn aile.
 # text_ga = Steall sé uisce ar an tine.
 # text_en = He dashed water on the fire.
-1	Sceoll	sceoll	VERB	_	_	0	root	_	_
+1	Sceoll	sceoll	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	ushtey	ushtey	NOUN	_	_	1	obj	_	_
 4	er	er	ADP	_	_	6	case	_	_
@@ -13796,7 +13796,7 @@
 # text = Roie eh.
 # text_ga = Rith sé.
 # text_en = He broke into a run.
-1	Roie	roie	VERB	_	_	0	root	_	_
+1	Roie	roie	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -13925,7 +13925,7 @@
 # text = Scuirr eh ayns e vraagyn.
 # text_ga = Stop sé ina bhróga.
 # text_en = He came to a full stop.
-1	Scuirr	scuirr	VERB	_	_	0	root	_	_
+1	Scuirr	scuirr	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	ayns	ayns	ADP	_	_	5	case	_	_
 4	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	nmod:poss	_	_
@@ -14445,7 +14445,7 @@
 # text = Screeu eh stiagh 'sy lioar eh.
 # text_ga = Scríobh sé isteach sa leabhar é.
 # text_en = He entered it up in the book.
-1	Screeu	screeu	VERB	_	_	0	root	_	_
+1	Screeu	screeu	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	stiagh	stiagh	ADV	_	_	1	advmod	_	_
 4-5	'sy	_	_	_	_	_	_	_	_
@@ -14635,7 +14635,7 @@
 # text = Lhig eh er nagh row eh aynshen.
 # text_ga = Lig sé air nach raibh sé ansin.
 # text_en = He established an alibi.
-1	Lhig	lhig	VERB	_	_	0	root	_	_
+1	Lhig	lhig	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3-4	er	_	_	_	_	_	_	_	_
 3	er	er	ADP	_	_	4	case	_	_
@@ -15079,7 +15079,7 @@
 # text = Lhieg y chlagh eh.
 # text_ga = Leag an chloch é.
 # text_en = He fell over the stone.
-1	Lhieg	lhieg	VERB	_	_	0	root	_	_
+1	Lhieg	lhieg	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	y	yn	DET	_	_	3	det	_	_
 3	chlagh	clagh	NOUN	_	_	1	nsubj	_	_
 4	eh	eh	PRON	_	_	1	obj	_	SpaceAfter=No
@@ -15188,7 +15188,7 @@
 # text = Lhie eh stiagh rish y voalley.
 # text_ga = Luigh sé isteach leis an bhalla.
 # text_en = He flattened himself against the wall.
-1	Lhie	lhie	VERB	_	_	0	root	_	_
+1	Lhie	lhie	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	stiagh	stiagh	ADV	_	_	1	advmod	_	_
 4	rish	rish	ADP	_	_	6	case	_	_
@@ -15210,7 +15210,7 @@
 # text = Lhig eh er dy row yindys er.
 # text_ga = Lig sé air go raibh iontas air.
 # text_en = He feigned surprise.
-1	Lhig	lhig	VERB	_	_	0	root	_	_
+1	Lhig	lhig	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3-4	er	_	_	_	_	_	_	_	_
 3	er	er	ADP	_	_	4	case	_	_
@@ -15693,7 +15693,7 @@
 # text = Rosh eh eash vie.
 # text_ga = Shroich sé aois mhaith.
 # text_en = He died at a good old age.
-1	Rosh	rosh	VERB	_	_	0	root	_	_
+1	Rosh	rosh	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	eash	eash	NOUN	_	_	1	obj	_	_
 4	vie	mie	ADJ	_	_	3	amod	_	SpaceAfter=No
@@ -16223,7 +16223,7 @@
 # text = Rheynn eh dy peajeogagh orroo eh.
 # text_ga = Roinn sé go gortach orthu é.
 # text_en = He doled it out to them.
-1	Rheynn	rheynn	VERB	_	_	0	root	_	_
+1	Rheynn	rheynn	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	dy	dy	PART	_	_	4	mark	_	_
 4	peajeogagh	peajeogagh	ADJ	_	_	1	advmod	_	_
@@ -16289,7 +16289,7 @@
 # text = Rheynn eh orroo.
 # text_ga = Roinn sé orthu.
 # text_en = He dished it up to them.
-1	Rheynn	rheynn	VERB	_	_	0	root	_	_
+1	Rheynn	rheynn	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3-4	orroo	_	_	_	_	_	_	_	SpaceAfter=No
 3	er	er	ADP	_	_	4	case	_	_
@@ -16510,7 +16510,7 @@
 # text = Rheynn eh e chooid orroo.
 # text_ga = Roinn sé a chuid orthu.
 # text_en = He divided his goods between them.
-1	Rheynn	rheynn	VERB	_	_	0	root	_	_
+1	Rheynn	rheynn	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	nmod:poss	_	_
 4	chooid	cooid	NOUN	_	_	1	obj	_	_
@@ -16901,7 +16901,7 @@
 # text = Lhig eh lesh hene da'n jough.
 # text_ga = Lig sé leis féin don deoch.
 # text_en = He abandoned himself to drink.
-1	Lhig	lhig	VERB	_	_	0	root	_	_
+1	Lhig	lhig	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3-4	lesh	_	_	_	_	_	_	_	_
 3	lesh	lesh	ADP	_	_	4	case	_	_
@@ -19605,7 +19605,7 @@
 # text_ga = Níor lig an eagla dó é a dhéanamh.
 # text_en = He is afraid to do it.
 1	Cha	cha	PART	_	_	2	mark	_	_
-2	lhig	lhig	VERB	_	_	0	root	_	_
+2	lhig	lhig	VERB	_	Mood=Ind|Tense=Fut	0	root	_	_
 3	yn	yn	DET	_	_	4	det	_	_
 4	aggle	aggle	NOUN	_	_	2	nsubj	_	_
 5-6	da	_	_	_	_	_	_	_	_
@@ -20663,7 +20663,7 @@
 # text_ga = Ní éistfidh sé le comhairle.
 # text_en = He is not open to advice.
 1	Cha	cha	PART	_	_	2	mark	_	_
-2	jean	jean	VERB	_	_	0	root	_	_
+2	jean	jean	VERB	_	Mood=Ind|Tense=Fut	0	root	_	_
 3	eh	eh	PRON	_	_	2	nsubj	_	_
 4	geaishtagh	eaishtagh	NOUN	_	_	2	xcomp	_	_
 5	rish	rish	ADP	_	_	6	case	_	_
@@ -23050,7 +23050,7 @@
 # text = Roie eh thie gollrish mwaagh.
 # text_ga = Rith sé abhaile cosúil le giorria.
 # text_en = He hared off home.
-1	Roie	roie	VERB	_	_	0	root	_	_
+1	Roie	roie	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	thie	thie	ADV	_	_	1	advmod	_	_
 4	gollrish	gollrish	ADP	_	_	5	case	_	_
@@ -23418,7 +23418,7 @@
 # text = Lhig eh osney feayslee.
 # text_ga = Lig sé osna faoisimh.
 # text_en = He gave a sigh of relief.
-1	Lhig	lhig	VERB	_	_	0	root	_	_
+1	Lhig	lhig	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	osney	osney	NOUN	_	_	1	obj	_	_
 4	feayslee	feaysley	NOUN	_	_	3	nmod	_	SpaceAfter=No
@@ -23428,7 +23428,7 @@
 # text = Lhig eh osney.
 # text_ga = Lig sé osna.
 # text_en = He gave a sigh.
-1	Lhig	lhig	VERB	_	_	0	root	_	_
+1	Lhig	lhig	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	osney	osney	NOUN	_	_	1	obj	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	_
@@ -23456,7 +23456,7 @@
 # text = Rheynn eh brishtagyn orroo.
 # text_ga = Roinn sé brioscaí orthu.
 # text_en = He gave biscuits out of them.
-1	Rheynn	rheynn	VERB	_	_	0	root	_	_
+1	Rheynn	rheynn	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	brishtagyn	brishtag	NOUN	_	_	1	obj	_	_
 4-5	orroo	_	_	_	_	_	_	_	SpaceAfter=No
@@ -23468,7 +23468,7 @@
 # text = Lhie eh stiagh er y jough.
 # text_ga = Luigh sé isteach ar an deoch.
 # text_en = He gave himself up to drink.
-1	Lhie	lhie	VERB	_	_	0	root	_	_
+1	Lhie	lhie	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	stiagh	stiagh	ADV	_	_	1	advmod	_	_
 4	er	er	ADP	_	_	6	case	_	_
@@ -23607,7 +23607,7 @@
 # text = Cass eh yn abane echey.
 # text_ga = Chas sé a rúitín.
 # text_en = He gave his ankle a wrench.
-1	Cass	cass	VERB	_	_	0	root	_	_
+1	Cass	cass	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	yn	yn	DET	_	_	4	det	_	_
 4	abane	abane	NOUN	_	_	1	obj	_	_
@@ -23630,7 +23630,7 @@
 # text = Snog eh e chione orrym.
 # text_ga = Chroith sé a cheann orm.
 # text_en = He gave me a nod.
-1	Snog	snog	VERB	_	_	0	root	_	_
+1	Snog	snog	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	nmod:poss	_	_
 4	chione	kione	NOUN	_	_	1	obj	_	_
@@ -23795,7 +23795,7 @@
 # text = Lhiann eh eh hene orrin.
 # text_ga = Bhrúigh sé é féin orainn.
 # text_en = He forced his company on us.
-1	Lhiann	lhiann	VERB	_	_	0	root	_	_
+1	Lhiann	lhiann	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	eh	eh	PRON	_	_	1	obj	_	_
 4	hene	hene	PRON	_	_	3	nmod	_	_
@@ -24372,7 +24372,7 @@
 # text = Lhig eh magh e chorree.
 # text_ga = Lig sé amach a chorraí.
 # text_en = He gave vent to his feelings.
-1	Lhig	lhig	VERB	_	_	0	root	_	_
+1	Lhig	lhig	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	magh	magh	ADV	_	_	1	advmod	_	_
 4	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	nmod:poss	_	_
@@ -25253,7 +25253,7 @@
 # text = Skyrr eh stiagh 'syn oik.
 # text_ga = Shleamhnaigh sé isteach san oifig.
 # text_en = He insinuated himself into the office.
-1	Skyrr	skyrr	VERB	_	_	0	root	_	_
+1	Skyrr	skyrr	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	stiagh	stiagh	ADV	_	_	1	advmod	_	_
 4-5	'syn	_	_	_	_	_	_	_	_
@@ -25599,7 +25599,7 @@
 # text = Lheim eh magh ass yn lhiabbee.
 # text_ga = Léim sé amach as an leaba.
 # text_en = He hopped out of bed.
-1	Lheim	lheim	VERB	_	_	0	root	_	_
+1	Lheim	lheim	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	magh	magh	ADV	_	_	1	advmod	_	_
 4	ass	ass	ADP	_	_	6	case	_	_
@@ -26844,7 +26844,7 @@
 # text = Scarr eh eh hene er y chaair.
 # text_ga = Scar sé é féin ar an chathaoir.
 # text_en = He sat astride the chair.
-1	Scarr	scarr	VERB	_	_	0	root	_	_
+1	Scarr	scarr	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	eh	eh	PRON	_	_	1	obj	_	_
 4	hene	hene	PRON	_	_	3	nmod	_	_
@@ -27339,7 +27339,7 @@
 # text = Lhome eh e 'eeacklyn.
 # text_ga = Lom sé a fhiacla.
 # text_en = He showed his teeth.
-1	Lhome	lhome	VERB	_	_	0	root	_	_
+1	Lhome	lhome	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	nmod:poss	_	_
 4	'eeacklyn	feeackle	NOUN	_	_	1	obj	_	SpaceAfter=No
@@ -27415,7 +27415,7 @@
 # text = Lhig eh y ven echey.
 # text_ga = Chaith sé a bhean.
 # text_en = He shot his wife.
-1	Lhig	lhig	VERB	_	_	0	root	_	_
+1	Lhig	lhig	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	y	yn	DET	_	_	4	det	_	_
 4	ven	ben	NOUN	_	_	1	obj	_	_
@@ -27428,7 +27428,7 @@
 # text = Lhiegg eh ass laue eh.
 # text_ga = Chaith sé as lámh é.
 # text_en = He shot him out of hand.
-1	Lhiegg	lhiegg	VERB	_	_	0	root	_	_
+1	Lhiegg	lhiegg	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	ass	ass	ADP	_	_	4	case	_	_
 4	laue	laue	NOUN	_	_	1	obl	_	_
@@ -27564,7 +27564,7 @@
 # text = Lhig eh my vioys lhiam.
 # text_ga = Lig sé mo bheo liom.
 # text_en = He spared my life.
-1	Lhig	lhig	VERB	_	_	0	root	_	_
+1	Lhig	lhig	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	my	my	DET	_	Number=Sing|Person=1|Poss=Yes	4	nmod:poss	_	_
 4	vioys	bioys	NOUN	_	_	1	obj	_	_
@@ -27593,7 +27593,7 @@
 # text = Screeu eh e chowrey.
 # text_ga = Scríobh sé a mharc.
 # text_en = He signed with a cross.
-1	Screeu	screeu	VERB	_	_	0	root	_	_
+1	Screeu	screeu	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	nmod:poss	_	_
 4	chowrey	cowrey	NOUN	_	_	1	obj	_	SpaceAfter=No
@@ -27760,7 +27760,7 @@
 # text = Screeu eh e ennym rish y docamad.
 # text_ga = Scríobh sé a ainm leis an doiciméad.
 # text_en = He set his hand to the document.
-1	Screeu	screeu	VERB	_	_	0	root	_	_
+1	Screeu	screeu	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	nmod:poss	_	_
 4	ennym	ennym	NOUN	_	_	1	obj	_	_
@@ -27812,7 +27812,7 @@
 # text_ga = Ní dhéanfaidh sé é.
 # text_en = He shall not do it.
 1	Cha	cha	PART	_	_	2	mark	_	_
-2	jean	jean	VERB	_	_	0	root	_	_
+2	jean	jean	VERB	_	Mood=Ind|Tense=Fut	0	root	_	_
 3	eh	eh	PRON	_	_	2	nsubj	_	_
 4	eh	eh	PRON	_	_	2	obj	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
@@ -27931,7 +27931,7 @@
 # text = Lhig eh er dy row eh ny Rangagh.
 # text_ga = Lig sé air go raibh sé ina Fhrancach.
 # text_en = He posed as a Frenchman.
-1	Lhig	lhig	VERB	_	_	0	root	_	_
+1	Lhig	lhig	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3-4	er	_	_	_	_	_	_	_	_
 3	er	er	ADP	_	_	4	case	_	_
@@ -28219,7 +28219,7 @@
 # text_ga = Níor lig sé a aithne le haon duine.
 # text_en = He preserved his incognito.
 1	Cha	cha	PART	_	_	2	mark	_	_
-2	lhig	lhig	VERB	_	_	0	root	_	_
+2	lhig	lhig	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 3	eh	eh	PRON	_	_	2	nsubj	_	_
 4	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	nmod:poss	_	_
 5	enney	enney	NOUN	_	_	2	obj	_	_
@@ -28361,7 +28361,7 @@
 # text = Scarr eh rish e ven.
 # text_ga = Scar sé lena bhean.
 # text_en = He parted with his wife.
-1	Scarr	scarr	VERB	_	_	0	root	_	_
+1	Scarr	scarr	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	rish	rish	ADP	_	_	5	case	_	_
 4	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	nmod:poss	_	_
@@ -28381,7 +28381,7 @@
 # text = Lhig eh shaghey myr spotch eh.
 # text_ga = Lig sé thairis ar ghreann é.
 # text_en = He passed it off as a joke.
-1	Lhig	lhig	VERB	_	_	0	root	_	_
+1	Lhig	lhig	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3-4	shaghey	_	_	_	_	_	_	_	_
 3	shaghey	shaghey	ADP	_	_	4	case	_	_
@@ -28572,7 +28572,7 @@
 # text = Roie eh hooin.
 # text_ga = Rith sé chugainn.
 # text_en = He ran up to us.
-1	Roie	roie	VERB	_	_	0	root	_	_
+1	Roie	roie	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3-4	hooin	_	_	_	_	_	_	_	SpaceAfter=No
 3	hug	hug	ADP	_	_	4	case	_	_
@@ -28630,7 +28630,7 @@
 # text = Roie eh y ratch dy mie.
 # text_ga = Rith sé an rás go maith.
 # text_en = He ran the race well.
-1	Roie	roie	VERB	_	_	0	root	_	_
+1	Roie	roie	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	y	yn	DET	_	_	4	det	_	_
 4	ratch	ratch	NOUN	_	_	1	obj	_	_
@@ -28663,7 +28663,7 @@
 # text = Roie eh lesh yn annym echey.
 # text_ga = Rith sé lena anam.
 # text_en = He ran for dear life.
-1	Roie	roie	VERB	_	_	0	root	_	_
+1	Roie	roie	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	lesh	lesh	ADP	_	_	5	case	_	_
 4	yn	yn	DET	_	_	5	det	_	_
@@ -28677,7 +28677,7 @@
 # text = Roie eh jeeragh stiagh ayns eddin y voalley.
 # text_ga = Rith sé díreach isteach in éadan an bhalla.
 # text_en = He ran smash into the wall.
-1	Roie	roie	VERB	_	_	0	root	_	_
+1	Roie	roie	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	jeeragh	jeeragh	ADV	_	_	1	advmod	_	_
 4	stiagh	stiagh	ADV	_	_	1	advmod	_	_
@@ -28758,7 +28758,7 @@
 # text = Scarr eh rish yn oik.
 # text_ga = Scar sé leis an oifig.
 # text_en = He relinquished the post.
-1	Scarr	scarr	VERB	_	_	0	root	_	_
+1	Scarr	scarr	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	rish	rish	ADP	_	_	5	case	_	_
 4	yn	yn	DET	_	_	5	det	_	_
@@ -29292,7 +29292,7 @@
 # text = Lhig eh er nagh vaik eh eh.
 # text_ga = Lig sé air nach bhfaca sé é.
 # text_en = He turned a blind eye to it.
-1	Lhig	lhig	VERB	_	_	0	root	_	_
+1	Lhig	lhig	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3-4	er	_	_	_	_	_	_	_	_
 3	er	er	ADP	_	_	4	case	_	_
@@ -30239,7 +30239,7 @@
 # text = Lhig eh magh e nieu orrym.
 # text_ga = Lig sé amach a nimh orm.
 # text_en = He vented his spleen on me.
-1	Lhig	lhig	VERB	_	_	0	root	_	_
+1	Lhig	lhig	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	magh	magh	ADV	_	_	1	advmod	_	_
 4	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	nmod:poss	_	_
@@ -30253,7 +30253,7 @@
 # text = Skell eh ersooyl ass nyn shilley.
 # text_ga = D'imigh sé ar siúl as a radharc.
 # text_en = He vanished out of their sight.
-1	Skell	skell	VERB	_	_	0	root	_	_
+1	Skell	skell	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	ersooyl	ersooyl	ADV	_	_	1	advmod	_	_
 4	ass	ass	ADP	_	_	6	case	_	_
@@ -30425,7 +30425,7 @@
 # text = Scuirr eh er y chooyl.
 # text_ga = Scoir sé ar an bpointe.
 # text_en = He stopped short.
-1	Scuirr	scuirr	VERB	_	_	0	root	_	_
+1	Scuirr	scuirr	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	er	er	ADP	_	_	5	case	_	_
 4	y	yn	DET	_	_	5	det	_	_
@@ -30436,7 +30436,7 @@
 # text = Stap eh dy bollagh.
 # text_ga = Stop sé go hiomlán.
 # text_en = He stopped dead.
-1	Stap	stap	VERB	_	_	0	root	_	_
+1	Stap	stap	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	dy	dy	ADP	_	_	4	case	_	_
 4	bollagh	bollagh	ADJ	_	_	1	advmod	_	SpaceAfter=No
@@ -30583,7 +30583,7 @@
 # text = Sceilt eh thoyn ny breechyn echey.
 # text_ga = Scoilt sé tóin a bhrístí.
 # text_en = He split the seat of his trousers.
-1	Sceilt	sceilt	VERB	_	_	0	root	_	_
+1	Sceilt	sceilt	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	thoyn	thoyn	NOUN	_	_	1	obj	_	_
 4	ny	ny	DET	_	_	5	det	_	_
@@ -30984,7 +30984,7 @@
 # text = Lhiegg eh y boayrd.
 # text_ga = Leag sé an bord.
 # text_en = He tipped the table over.
-1	Lhiegg	lhiegg	VERB	_	_	0	root	_	_
+1	Lhiegg	lhiegg	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	_	1	nsubj	_	_
 3	y	yn	DET	_	_	4	det	_	_
 4	boayrd	boayrd	NOUN	_	_	1	obj	_	SpaceAfter=No
@@ -32884,7 +32884,7 @@
 # text = Bee ny moddee ny mast'ayd, ashoon aym.
 # text_ga = Beidh na madraí i do mheasc, a náisiún agam.
 # text_en = The dogs will be amongst thee my nation.
-1	Bee	bee	VERB	_	_	0	root	_	_
+1	Bee	bee	VERB	_	Mood=Ind|Tense=Fut	0	root	_	_
 2	ny	ny	DET	_	_	3	det	_	_
 3	moddee	moddey	NOUN	_	_	1	nsubj	_	_
 4	ny	ny	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	nmod:poss	_	_
@@ -32975,7 +32975,7 @@
 # text = Lhiann yn ennym da.
 # text_ga = Lean an t-ainm dó.
 # text_en = The name stuck to him.
-1	Lhiann	lhiann	VERB	_	_	0	root	_	_
+1	Lhiann	lhiann	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	yn	yn	DET	_	_	3	det	_	_
 3	ennym	ennym	NOUN	_	_	1	nsubj	_	_
 4-5	da	_	_	_	_	_	_	_	SpaceAfter=No
