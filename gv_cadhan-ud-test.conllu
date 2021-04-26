@@ -8896,7 +8896,7 @@
 # text = Brie j'ee cre'n traa bee ee goll.
 # text_ga = Fiafraigh di cén t-am a bheidh sí ag dul.
 # text_en = Ask her what time she is going.
-1	Brie	brie	VERB	_	_	0	root	_	_
+1	Brie	brie	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2-3	j'ee	_	_	_	_	_	_	_	_
 2	jeh	jeh	ADP	_	_	3	case	_	_
 3	ee	ee	PRON	_	_	1	obl	_	_
@@ -8913,7 +8913,7 @@
 # text = Shirr urree cheet mayrt.
 # text_ga = Iarr uirthi teacht in éineacht leat.
 # text_en = Ask her to come with you.
-1	Shirr	shirr	VERB	_	_	0	root	_	_
+1	Shirr	shirr	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2-3	urree	_	_	_	_	_	_	_	_
 2	er	er	ADP	_	_	3	case	_	_
 3	ee	ee	PRON	_	_	1	nsubj	_	_
@@ -8941,7 +8941,7 @@
 # text = Shir yn argid er y charrey ayd.
 # text_ga = Lorg an t-airgead ar an gcara agat.
 # text_en = Ask your friend for the money.
-1	Shir	shir	VERB	_	_	0	root	_	_
+1	Shir	shir	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	yn	yn	DET	_	_	3	det	_	_
 3	argid	argid	NOUN	_	_	1	obj	_	_
 4	er	er	ADP	_	_	6	case	_	_
@@ -9084,7 +9084,7 @@
 # text = Screeu dty ennym rish.
 # text_ga = Scríobh d'ainm leis.
 # text_en = Append your signature.
-1	Screeu	screeu	VERB	_	_	0	root	_	_
+1	Screeu	screeu	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	dty	dty	DET	_	Number=Sing|Person=2|Poss=Yes	3	nmod:poss	_	_
 3	ennym	ennym	NOUN	_	_	1	obj	_	_
 4-5	rish	_	_	_	_	_	_	_	SpaceAfter=No
@@ -9184,7 +9184,7 @@
 # text = Jeshee ny blaaghyn.
 # text_ga = Cóirigh na bláthanna.
 # text_en = Arrange the flowers.
-1	Jeshee	jeshee	VERB	_	_	0	root	_	_
+1	Jeshee	jeshee	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	ny	ny	DET	_	_	3	det	_	_
 3	blaaghyn	blaa	NOUN	_	_	1	obj	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	_
@@ -9219,7 +9219,7 @@
 # text = Bwoaill yn farkyl neose er!
 # text_ga = Buail an caipín anuas air!
 # text_en = Bang the lid on!
-1	Bwoaill	bwoaill	VERB	_	_	0	root	_	_
+1	Bwoaill	bwoaill	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	yn	yn	DET	_	_	3	det	_	_
 3	farkyl	farkyl	NOUN	_	_	1	obj	_	_
 4	neose	neose	ADV	_	_	1	advmod	_	_
@@ -9459,7 +9459,7 @@
 # text = Lhig er nagh vel oo fakin ee.
 # text_ga = Lig air nach bhfuil tú á feiceáil.
 # text_en = Act as if you don't see her.
-1	Lhig	lhig	VERB	_	_	0	root	_	_
+1	Lhig	lhig	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2-3	er	_	_	_	_	_	_	_	_
 2	er	er	ADP	_	_	3	case	_	_
 3	eh	eh	PRON	_	_	1	obl	_	_
@@ -10234,7 +10234,7 @@
 # text = Kionnee jees elley jeu dou.
 # text_ga = Ceannaigh dhá cheann eile díobh dom.
 # text_en = Buy me two more of them.
-1	Kionnee	kionnee	VERB	_	_	0	root	_	_
+1	Kionnee	kionnee	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	jees	jees	NOUN	_	_	1	obj	_	_
 3	elley	elley	ADJ	_	_	2	amod	_	_
 4-5	jeu	_	_	_	_	_	_	_	_
@@ -10382,7 +10382,7 @@
 # text = Tannee marym rish tammylt.
 # text_ga = Fan in éineacht liom le tamall.
 # text_en = Come some way with me.
-1	Tannee	tannee	VERB	_	_	0	root	_	_
+1	Tannee	tannee	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2-3	marym	_	_	_	_	_	_	_	_
 2	marish	marish	ADP	_	_	3	case	_	_
 3	mee	mee	PRON	_	_	1	obl	_	_
@@ -10394,7 +10394,7 @@
 # text = Reih eshyn son carrey ta greinnaghey shiu gys obbyr mie.
 # text_ga = Togh eisean ar son carad atá do do spreagadh go dtí obair mhaith.
 # text_en = Choose him for a friend who incites you to good work.
-1	Reih	reih	VERB	_	_	0	root	_	_
+1	Reih	reih	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	eshyn	eh	PRON	_	_	1	obj	_	_
 3	son	son	ADP	_	_	4	case	_	_
 4	carrey	carrey	NOUN	_	_	1	obl	_	_
@@ -10449,7 +10449,7 @@
 # text = Lhie er y dorrys shoh marym.
 # text_ga = Luigh ar an doras seo in éineacht liom.
 # text_en = Bear on this door with me.
-1	Lhie	lhie	VERB	_	_	0	root	_	_
+1	Lhie	lhie	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	er	er	ADP	_	_	4	case	_	_
 3	y	yn	DET	_	_	4	det	_	_
 4	dorrys	dorrys	NOUN	_	_	1	obl	_	_
@@ -10510,7 +10510,7 @@
 # text = Aavioghee eh.
 # text_ga = Athbheoigh é.
 # text_en = Bring it back to life.
-1	Aavioghee	aavioghee	VERB	_	_	0	root	_	_
+1	Aavioghee	aavioghee	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	eh	eh	PRON	_	_	1	obj	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -10530,7 +10530,7 @@
 # text = Brish y banglane jeh.
 # text_ga = Bris an chraobh de.
 # text_en = Break away the branch.
-1	Brish	brish	VERB	_	_	0	root	_	_
+1	Brish	brish	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	y	yn	DET	_	_	3	det	_	_
 3	banglane	banglane	NOUN	_	_	1	obj	_	_
 4-5	jeh	_	_	_	_	_	_	_	SpaceAfter=No
@@ -10609,7 +10609,7 @@
 # text = Folmee ny glessyn eu gheiney seyrey!
 # text_ga = Folmhaígí bhur ngloiní a dhaoine uaisle!
 # text_en = Drink up gentlemen!
-1	Folmee	folmee	VERB	_	_	0	root	_	_
+1	Folmee	folmee	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	ny	ny	DET	_	_	3	det	_	_
 3	glessyn	gless	NOUN	_	_	1	obj	_	_
 4-5	eu	_	_	_	_	_	_	_	_
@@ -10623,7 +10623,7 @@
 # text = Faag mee ec my hie.
 # text_ga = Fág mé ag mo theach.
 # text_en = Drop me at my house.
-1	Faag	faag	VERB	_	_	0	root	_	_
+1	Faag	faag	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	mee	mee	PRON	_	_	1	obj	_	_
 3	ec	ec	ADP	_	_	5	case	_	_
 4	my	my	DET	_	Number=Sing|Person=1|Poss=Yes	5	nmod:poss	_	_
@@ -10634,7 +10634,7 @@
 # text = Jing eh stiagh 'sy chione echey.
 # text_ga = Ding é isteach ina cheann.
 # text_en = Drum it into his head.
-1	Jing	jing	VERB	_	_	0	root	_	_
+1	Jing	jing	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	eh	eh	PRON	_	_	1	obj	_	_
 3	stiagh	stiagh	ADV	_	_	1	advmod	_	_
 4-5	'sy	_	_	_	_	_	_	_	_
@@ -10651,7 +10651,7 @@
 # text_ga = Ná brúigh orm!
 # text_en = Don't push me!
 1	Ny	ny	PART	_	_	2	mark	_	_
-2	seiy	seiy	VERB	_	_	0	root	_	_
+2	seiy	seiy	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 3-4	orrym	_	_	_	_	_	_	_	SpaceAfter=No
 3	er	er	ADP	_	_	4	case	_	_
 4	mee	mee	PRON	_	_	2	obl	_	_
@@ -10662,7 +10662,7 @@
 # text_ga = Ná hofráil faic chuige.
 # text_en = Don't offer him any.
 1	Ny	ny	PART	_	_	2	mark	_	_
-2	arr	arr	VERB	_	_	0	root	_	_
+2	arr	arr	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 3	veg	veg	NOUN	_	_	2	obj	_	_
 4-5	er	_	_	_	_	_	_	_	SpaceAfter=No
 4	er	er	ADP	_	_	5	case	_	_
@@ -10674,7 +10674,7 @@
 # text_ga = Ná lig dó tarlú arís!
 # text_en = Don't let it occur again!
 1	Ny	ny	PART	_	_	2	mark	_	_
-2	lhig	lhig	VERB	_	_	0	root	_	_
+2	lhig	lhig	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 3-4	da	_	_	_	_	_	_	_	_
 3	da	da	ADP	_	_	4	case	_	_
 4	eh	eh	PRON	_	_	2	obl	_	_
@@ -10707,7 +10707,7 @@
 # text_ga = Ná tóg troid anseo anois.
 # text_en = Don't start a quarrel here now.
 1	Ny	ny	PART	_	_	2	mark	_	_
-2	jean	jean	VERB	_	_	0	root	_	_
+2	jean	jean	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 3	troggal	troggal	NOUN	_	_	2	xcomp	_	_
 4	troddan	troddan	NOUN	_	_	3	obj	_	_
 5	ayns	ayns	ADP	_	_	6	case	_	_
@@ -10732,7 +10732,7 @@
 # text_ga = Ná déan é áit ar bith eile.
 # text_en = Don't do it anywhere else.
 1	Ny	ny	PART	_	_	2	mark	_	_
-2	jean	jean	VERB	_	_	0	root	_	_
+2	jean	jean	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 3	eh	eh	PRON	_	_	2	obj	_	_
 4	boayl	boayl	NOUN	_	_	2	obl	_	_
 5	erbee	erbee	ADJ	_	_	4	amod	_	_
@@ -10744,7 +10744,7 @@
 # text_ga = Ná gearr an líne.
 # text_en = Don't cut me off.
 1	Ny	ny	PART	_	_	2	mark	_	_
-2	giar	giar	VERB	_	_	0	root	_	_
+2	giar	giar	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 3	y	yn	DET	_	_	4	det	_	_
 4	linney	linney	NOUN	_	_	2	obj	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
@@ -10781,7 +10781,7 @@
 # text_ga = Ná bain leis an ngluaisteán.
 # text_en = Don't fiddle with the car.
 1	Ny	ny	PART	_	_	2	mark	_	_
-2	benn	benn	VERB	_	_	0	root	_	_
+2	benn	benn	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 3	rish	rish	ADP	_	_	5	case	_	_
 4	y	yn	DET	_	_	5	det	_	_
 5	gleashtan	gleashtan	NOUN	_	_	2	obl	_	SpaceAfter=No
@@ -10811,7 +10811,7 @@
 # text_ga = Ná déan deifir.
 # text_en = Don't hurry.
 1	Ny	ny	PART	_	_	2	mark	_	_
-2	jean	jean	VERB	_	_	0	root	_	_
+2	jean	jean	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 3	siyr	siyr	NOUN	_	_	2	obj	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -10820,7 +10820,7 @@
 # text_ga = Ná sín an t-inneall.
 # text_en = Don't force the engine.
 1	Ny	ny	PART	_	_	2	mark	_	_
-2	jean	jean	VERB	_	_	0	root	_	_
+2	jean	jean	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 3	sheeyney	sheeyney	NOUN	_	_	2	xcomp	_	_
 4	yn	yn	DET	_	_	5	det	_	_
 5	jeshaght	jeshaght	NOUN	_	_	3	obj	_	SpaceAfter=No
@@ -10831,7 +10831,7 @@
 # text_ga = Ná hinis go raibh mise ann.
 # text_en = Don't go and let on that I was there.
 1	Nar	nar	PART	_	_	2	mark	_	_
-2	insh	insh	VERB	_	_	0	root	_	_
+2	insh	insh	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 3	dy	dy	PART	_	_	4	mark	_	_
 4	row	bee	VERB	_	Mood=Ind|Tense=Past	2	ccomp	_	_
 5	mish	mee	PRON	_	_	4	nsubj	_	_
@@ -10845,7 +10845,7 @@
 # text_ga = Ná mill mo chuid gruaige.
 # text_en = Don't tumble my hair.
 1	Ny	ny	PART	_	_	2	mark	_	_
-2	mill	mill	VERB	_	_	0	root	_	_
+2	mill	mill	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 3-4	m'olt	_	_	_	_	_	_	_	SpaceAfter=No
 3	m'	my	DET	_	Number=Sing|Person=1|Poss=Yes	4	nmod:poss	_	_
 4	olt	folt	NOUN	_	_	2	obj	_	_
@@ -10856,7 +10856,7 @@
 # text_ga = Ná diomail do bhia.
 # text_en = Don't waste your food.
 1	Ny	ny	PART	_	_	2	mark	_	_
-2	jean	jean	VERB	_	_	0	root	_	_
+2	jean	jean	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 3	brockey	brockey	NOUN	_	_	2	xcomp	_	_
 4	dty	dty	DET	_	Number=Sing|Person=2|Poss=Yes	5	nmod:poss	_	_
 5	vee	bee	NOUN	_	_	3	obj	_	SpaceAfter=No
@@ -11122,7 +11122,7 @@
 # text = Moll y molteyr my oddys oo.
 # text_ga = Meall an mealltóir más féidir leat.
 # text_en = Deceive the deceiver if you can.
-1	Moll	moll	VERB	_	_	0	root	_	_
+1	Moll	moll	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	y	yn	DET	_	_	3	det	_	_
 3	molteyr	molteyr	NOUN	_	_	1	obj	_	_
 4	my	my	SCONJ	_	_	5	mark	_	_
@@ -11134,7 +11134,7 @@
 # text = Smooinee dy dowin er.
 # text_ga = Smaoinigh go domhain air.
 # text_en = Consider it seriously.
-1	Smooinee	smooinee	VERB	_	_	0	root	_	_
+1	Smooinee	smooinee	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	dy	dy	PART	_	_	3	mark	_	_
 3	dowin	dowin	ADJ	_	_	1	advmod	_	_
 4-5	er	_	_	_	_	_	_	_	SpaceAfter=No
@@ -11146,7 +11146,7 @@
 # text = Lhieen y form shoh as cur hym eh.
 # text_ga = Líon an fhoirm seo agus cuir chugam í.
 # text_en = Complete this form and send it to me.
-1	Lhieen	lhieen	VERB	_	_	0	root	_	_
+1	Lhieen	lhieen	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	y	yn	DET	_	_	3	det	_	_
 3	form	form	NOUN	_	_	1	obj	_	_
 4	shoh	shoh	DET	_	_	3	det	_	_
@@ -11162,7 +11162,7 @@
 # text = Jean reesht eh.
 # text_ga = Déan arís é.
 # text_en = Do it over again.
-1	Jean	jean	VERB	_	_	0	root	_	_
+1	Jean	jean	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	reesht	reesht	ADV	_	_	1	advmod	_	_
 3	eh	eh	PRON	_	_	1	obj	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	_
@@ -11171,7 +11171,7 @@
 # text = Jean myr shoh eh.
 # text_ga = Déan mar seo é.
 # text_en = Do it this way.
-1	Jean	jean	VERB	_	_	0	root	_	_
+1	Jean	jean	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	myr	myr	ADP	_	_	3	case	_	_
 3	shoh	shoh	PRON	_	_	1	obl	_	_
 4	eh	eh	PRON	_	_	1	obj	_	SpaceAfter=No
@@ -11181,7 +11181,7 @@
 # text = Jean ass y noa eh.
 # text_ga = Déan as an nua é.
 # text_en = Do it over again.
-1	Jean	jean	VERB	_	_	0	root	_	_
+1	Jean	jean	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	ass	ass	ADP	_	_	4	case	_	_
 3	y	yn	DET	_	_	4	det	_	_
 4	noa	noa	NOUN	_	_	1	obl	_	_
@@ -11192,7 +11192,7 @@
 # text = Jean eh er yn aght shen.
 # text_ga = Déan é ar an dóigh sin.
 # text_en = Do it in that way.
-1	Jean	jean	VERB	_	_	0	root	_	_
+1	Jean	jean	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	eh	eh	PRON	_	_	1	obj	_	_
 3	er	er	ADP	_	_	5	case	_	_
 4	yn	yn	DET	_	_	5	det	_	_
@@ -11204,7 +11204,7 @@
 # text = Jean eh er aggle ny haggle.
 # text_ga = Déan é ar eagla na heagla.
 # text_en = Do it just in case.
-1	Jean	jean	VERB	_	_	0	root	_	_
+1	Jean	jean	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	eh	eh	PRON	_	_	1	obj	_	_
 3	er	er	ADP	_	_	4	case	_	_
 4	aggle	aggle	NOUN	_	_	1	obl	_	_
@@ -11216,7 +11216,7 @@
 # text = Jean dty reih hene.
 # text_ga = Déan do rogha féin.
 # text_en = Do just as you like.
-1	Jean	jean	VERB	_	_	0	root	_	_
+1	Jean	jean	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	dty	dty	DET	_	Number=Sing|Person=2|Poss=Yes	3	nmod:poss	_	_
 3	reih	reih	NOUN	_	_	1	obj	_	_
 4	hene	hene	PRON	_	_	3	nmod	_	SpaceAfter=No
@@ -11238,7 +11238,7 @@
 # text_ga = Ná labhair.
 # text_en = Do not speak.
 1	Ny	ny	PART	_	_	2	mark	_	_
-2	jean	jean	VERB	_	_	0	root	_	_
+2	jean	jean	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 3	loayrt	loayrt	NOUN	_	_	2	xcomp	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -11259,7 +11259,7 @@
 # text_ga = Ná lig sinn i gcathú.
 # text_en = Do not allow us into temptation.
 1	Ny	ny	PART	_	_	2	mark	_	_
-2	lhig	lhig	VERB	_	_	0	root	_	_
+2	lhig	lhig	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 3-4	dooin	_	_	_	_	_	_	_	_
 3	da	da	ADP	_	_	4	case	_	_
 4	shin	shin	PRON	_	_	2	obl	_	_
@@ -11271,7 +11271,7 @@
 # text = Jean eh er my hons.
 # text_ga = Déan é ar mo shonsa.
 # text_en = Do it for my sake.
-1	Jean	jean	VERB	_	_	0	root	_	_
+1	Jean	jean	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	eh	eh	PRON	_	_	1	obj	_	_
 3	er	er	ADP	_	_	5	case	_	_
 4	my	my	DET	_	Number=Sing|Person=1|Poss=Yes	5	nmod:poss	_	_
@@ -11343,7 +11343,7 @@
 # text = Jean y staartey dy slane.
 # text_ga = Déan an jab go hiomlán.
 # text_en = Do the job thoroughly.
-1	Jean	jean	VERB	_	_	0	root	_	_
+1	Jean	jean	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	y	yn	DET	_	_	3	det	_	_
 3	staartey	staartey	NOUN	_	_	1	obj	_	_
 4	dy	dy	PART	_	_	5	mark	_	_
@@ -11531,7 +11531,7 @@
 # text = Livrey shin veih olk.
 # text_ga = Saor sinn ó olc.
 # text_en = Deliver us from evil.
-1	Livrey	livrey	VERB	_	_	0	root	_	_
+1	Livrey	livrey	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	shin	shin	PRON	_	_	1	obj	_	_
 3	veih	veih	ADP	_	_	4	case	_	_
 4	olk	olk	NOUN	_	_	1	obl	_	SpaceAfter=No
@@ -11541,7 +11541,7 @@
 # text = Foshil ny sooillyn echey da.
 # text_ga = Oscail a shúile dó.
 # text_en = Disabuse him of it.
-1	Foshil	foshil	VERB	_	_	0	root	_	_
+1	Foshil	foshil	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	ny	ny	DET	_	_	3	det	_	_
 3	sooillyn	sooill	NOUN	_	_	1	obj	_	_
 4-5	echey	_	_	_	_	_	_	_	_
@@ -11658,7 +11658,7 @@
 # text = Injillee y brattagh da.
 # text_ga = Ísligh an bhratach dó.
 # text_en = Dip the flag to him.
-1	Injillee	injillee	VERB	_	_	0	root	_	_
+1	Injillee	injillee	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	y	yn	DET	_	_	3	det	_	_
 3	brattagh	brattagh	NOUN	_	_	1	obj	_	_
 4-5	da	_	_	_	_	_	_	_	SpaceAfter=No
@@ -11697,7 +11697,7 @@
 # text = Jean riojey ny skeddan shoh.
 # text_ga = Reoigh na scadáin seo.
 # text_en = Freeze these herrings.
-1	Jean	jean	VERB	_	_	0	root	_	_
+1	Jean	jean	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	riojey	riojey	NOUN	_	_	1	xcomp	_	_
 3	ny	ny	DET	_	_	4	det	_	_
 4	skeddan	skeddan	NOUN	_	_	2	obj	_	_
@@ -11719,7 +11719,7 @@
 # text = Ceau ass dty chione eh.
 # text_ga = Caith as do cheann é.
 # text_en = Give up the idea.
-1	Ceau	ceau	VERB	_	_	0	root	_	_
+1	Ceau	ceau	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	ass	ass	ADP	_	_	4	case	_	_
 3	dty	dty	DET	_	Number=Sing|Person=2|Poss=Yes	4	nmod:poss	_	_
 4	chione	kione	NOUN	_	_	1	obl	_	_
@@ -11730,7 +11730,7 @@
 # text = Glen yn mergys jeh dty Rangish.
 # text_ga = Glan an mheirg de do Fhraincis.
 # text_en = Give your French a brush up.
-1	Glen	glen	VERB	_	_	0	root	_	_
+1	Glen	glen	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	yn	yn	DET	_	_	3	det	_	_
 3	mergys	mergys	NOUN	_	_	1	obj	_	_
 4	jeh	jeh	ADP	_	_	6	case	_	_
@@ -11754,9 +11754,9 @@
 # text = Irree as doon y dorrys.
 # text_ga = Éirigh agus dún an doras.
 # text_en = Go and shut the door.
-1	Irree	irree	VERB	_	_	0	root	_	_
+1	Irree	irree	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	as	as	CCONJ	_	_	3	cc	_	_
-3	doon	doon	VERB	_	_	1	conj	_	_
+3	doon	doon	VERB	_	Mood=Imp|Number=Sing|Person=2	1	conj	_	_
 4	y	yn	DET	_	_	5	det	_	_
 5	dorrys	dorrys	NOUN	_	_	3	obj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
@@ -11797,7 +11797,7 @@
 # text = Sheeyn dou dty laue.
 # text_ga = Sín dom do lámh.
 # text_en = Give me your hand.
-1	Sheeyn	sheeyn	VERB	_	_	0	root	_	_
+1	Sheeyn	sheeyn	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2-3	dou	_	_	_	_	_	_	_	_
 2	da	da	ADP	_	_	3	case	_	_
 3	mee	mee	PRON	_	_	1	obl	_	_
@@ -11932,7 +11932,7 @@
 # text = Tayrn dy keyl er yn eeym.
 # text_ga = Tarraing go caol ar an im.
 # text_en = Go easy with the butter.
-1	Tayrn	tayrn	VERB	_	_	0	root	_	_
+1	Tayrn	tayrn	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	dy	dy	PART	_	_	3	mark	_	_
 3	keyl	keyl	ADJ	_	_	1	advmod	_	_
 4	er	er	ADP	_	_	6	case	_	_
@@ -12003,7 +12003,7 @@
 # text = Ynsee ayns dty chree eh.
 # text_ga = Foghlaim i do chroí é.
 # text_en = Get it off by heart.
-1	Ynsee	ynsee	VERB	_	_	0	root	_	_
+1	Ynsee	ynsee	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	ayns	ayns	ADP	_	_	4	case	_	_
 3	dty	dty	DET	_	Number=Sing|Person=2|Poss=Yes	4	nmod:poss	_	_
 4	chree	cree	NOUN	_	_	1	obl	_	_
@@ -12014,7 +12014,7 @@
 # text = Screeu sheese eh.
 # text_ga = Scríobh síos é.
 # text_en = Get it down on paper.
-1	Screeu	screeu	VERB	_	_	0	root	_	_
+1	Screeu	screeu	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	sheese	sheese	ADV	_	_	1	advmod	_	_
 3	eh	eh	PRON	_	_	1	obj	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	_
@@ -12023,7 +12023,7 @@
 # text = Smooinee er rish minnid.
 # text_ga = Smaoinigh air ar feadh nóiméid.
 # text_en = Give it a moments consideration.
-1	Smooinee	smooinee	VERB	_	_	0	root	_	_
+1	Smooinee	smooinee	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2-3	er	_	_	_	_	_	_	_	_
 2	er	er	ADP	_	_	3	case	_	_
 3	eh	eh	PRON	_	_	1	obl	_	_
@@ -12085,7 +12085,7 @@
 # text = Cass eh.
 # text_ga = Cas é.
 # text_en = Give it a twist.
-1	Cass	cass	VERB	_	_	0	root	_	_
+1	Cass	cass	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	eh	eh	PRON	_	_	1	obj	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -12093,7 +12093,7 @@
 # text = Ceau dty hooill er.
 # text_ga = Caith do shúil air.
 # text_en = Give it the once over.
-1	Ceau	ceau	VERB	_	_	0	root	_	_
+1	Ceau	ceau	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	dty	dty	DET	_	Number=Sing|Person=2|Poss=Yes	3	nmod:poss	_	_
 3	hooill	sooill	NOUN	_	_	1	obj	_	_
 4-5	er	_	_	_	_	_	_	_	SpaceAfter=No
@@ -12251,7 +12251,7 @@
 # text = Lhieen seose eh.
 # text_ga = Líon suas é.
 # text_en = Fill it up.
-1	Lhieen	lhieen	VERB	_	_	0	root	_	_
+1	Lhieen	lhieen	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	seose	seose	ADV	_	_	1	advmod	_	_
 3	eh	eh	PRON	_	_	1	obj	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	_
@@ -16549,7 +16549,7 @@
 # text = Feayshil y raa dorraghey my oddys oo.
 # text_ga = Fuascail an tomhas más féidir leat.
 # text_en = Guess the riddle if you can.
-1	Feayshil	feayshil	VERB	_	_	0	root	_	_
+1	Feayshil	feayshil	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	y	yn	DET	_	_	3	det	_	_
 3	raa	raa	NOUN	_	_	1	obj	_	_
 4	dorraghey	dorraghey	ADJ	_	_	3	amod	_	_
@@ -17615,7 +17615,7 @@
 # text = Cum rish dty Ghaelg, lah!
 # text_ga = Coinnigh do chuid Mhanainnis, a fhlaith!
 # text_en = Hang on to your Manx, boy!
-1	Cum	cum	VERB	_	_	0	root	_	_
+1	Cum	cum	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	rish	rish	ADP	_	_	4	case	_	_
 3	dty	dty	DET	_	Number=Sing|Person=2|Poss=Yes	4	nmod:poss	_	_
 4	Ghaelg	Gaelg	PROPN	_	_	1	obl	_	SpaceAfter=No
@@ -17627,7 +17627,7 @@
 # text = Crogh dty chooat er y treiney.
 # text_ga = Croch do chóta ar an tairne.
 # text_en = Hang your coat on the nail.
-1	Crogh	crogh	VERB	_	_	0	root	_	_
+1	Crogh	crogh	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	dty	dty	DET	_	Number=Sing|Person=2|Poss=Yes	3	nmod:poss	_	_
 3	chooat	cooat	NOUN	_	_	1	obj	_	_
 4	er	er	ADP	_	_	6	case	_	_
@@ -32331,7 +32331,7 @@
 # text = Lhig dooin cur jerrey er nish.
 # text_ga = Lig dúinn deireadh a chur leis anois.
 # text_en = Let's cut it out then.
-1	Lhig	lhig	VERB	_	_	0	root	_	_
+1	Lhig	lhig	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2-3	dooin	_	_	_	_	_	_	_	_
 2	da	da	ADP	_	_	3	case	_	_
 3	shin	shin	PRON	_	_	1	obl	_	_
@@ -32360,7 +32360,7 @@
 # text = Lhig yn raad da!
 # text_ga = Lig an bealach dó!
 # text_en = Leave him alone!
-1	Lhig	lhig	VERB	_	_	0	root	_	_
+1	Lhig	lhig	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	yn	yn	DET	_	_	3	det	_	_
 3	raad	raad	NOUN	_	_	1	obj	_	_
 4-5	da	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32372,7 +32372,7 @@
 # text = Lhig da dagh ooilley vuc reuyrey j'ee hene.
 # text_ga = Lig do gach uile mhuc rómhar di féin.
 # text_en = Let every pig dig for herself.
-1	Lhig	lhig	VERB	_	_	0	root	_	_
+1	Lhig	lhig	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	da	da	ADP	_	_	5	case	_	_
 3	dagh	dagh	DET	_	_	5	det	_	_
 4	ooilley	ooilley	DET	_	_	5	det	_	_
@@ -32388,7 +32388,7 @@
 # text = Lhig da dagh ooilley ushag guirr e hoohyn hene.
 # text_ga = Lig do gach uile éan a uibheacha féin a ghoradh.
 # text_en = Let every bird hatch her own eggs.
-1	Lhig	lhig	VERB	_	_	0	root	_	_
+1	Lhig	lhig	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	da	da	ADP	_	_	5	case	_	_
 3	dagh	dagh	DET	_	_	5	det	_	_
 4	ooilley	ooilley	DET	_	_	5	det	_	_
@@ -32403,7 +32403,7 @@
 # text = Lhig yn raad da.
 # text_ga = Lig an bóthar dó.
 # text_en = Let him go free.
-1	Lhig	lhig	VERB	_	_	0	root	_	_
+1	Lhig	lhig	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	yn	yn	DET	_	_	3	det	_	_
 3	raad	raad	NOUN	_	_	1	obj	_	_
 4-5	da	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32812,7 +32812,7 @@
 # text = Trog yn farkyl jeh.
 # text_ga = Tóg an claibín de.
 # text_en = Take the lid off it.
-1	Trog	trog	VERB	_	_	0	root	_	_
+1	Trog	trog	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	yn	yn	DET	_	_	3	det	_	_
 3	farkyl	farkyl	NOUN	_	_	1	obj	_	_
 4-5	jeh	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33677,7 +33677,7 @@
 # text = Lhig dooin cur paart da.
 # text_ga = Lig dúinn roinnt a thabhairt dó.
 # text_en = Let us give him some.
-1	Lhig	lhig	VERB	_	_	0	root	_	_
+1	Lhig	lhig	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2-3	dooin	_	_	_	_	_	_	_	_
 2	da	da	ADP	_	_	3	case	_	_
 3	shin	shin	PRON	_	_	1	obl	_	_
@@ -33887,7 +33887,7 @@
 # text_ga = Ná hinis dom a raibh mé ach inis dom a bhfuil mé.
 # text_en = Tell me not what I was but tell me what I am.
 1	Ny	ny	PART	_	_	2	mark	_	_
-2	insh	insh	VERB	_	_	0	root	_	_
+2	insh	insh	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 3-4	dou	_	_	_	_	_	_	_	_
 3	da	da	ADP	_	_	4	case	_	_
 4	mee	mee	PRON	_	_	2	obl	_	_
@@ -33895,7 +33895,7 @@
 6	va	bee	VERB	_	Mood=Ind|Tense=Past	5	acl:relcl	_	_
 7	mee	mee	PRON	_	_	6	nsubj	_	_
 8	agh	agh	CCONJ	_	_	9	cc	_	_
-9	insh	insh	VERB	_	_	2	conj	_	_
+9	insh	insh	VERB	_	Mood=Imp|Number=Sing|Person=2	2	conj	_	_
 10-11	dou	_	_	_	_	_	_	_	_
 10	da	da	ADP	_	_	11	case	_	_
 11	mee	mee	PRON	_	_	9	obl	_	_
