@@ -106,7 +106,7 @@
 6	ayns	ayns	ADP	_	_	8	case	_	_
 7	y	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
 8	vine	bine	NOUN	_	_	1	obl	_	_
-9	sloo	beg	ADJ	_	_	8	amod	_	_
+9	sloo	beg	ADJ	_	Degree=Cmp,Sup	8	amod	_	_
 10-11	d'ushtey	_	_	_	_	_	_	_	SpaceAfter=No
 10	d'	dy	ADP	_	_	11	case	_	_
 11	ushtey	ushtey	NOUN	_	_	8	nmod	_	_
@@ -166,7 +166,7 @@
 11	agh	agh	ADP	_	_	12	case	_	_
 12	jannoo	jannoo	NOUN	_	_	9	xcomp	_	_
 13	ny	ny	PART	_	_	14	mark	_	_
-14	strimmey	trome	ADJ	_	_	12	xcomp	_	_
+14	strimmey	trome	ADJ	_	Degree=Cmp,Sup	12	xcomp	_	_
 15	as	as	CCONJ	_	_	16	cc	_	_
 16	jannoo	jannoo	NOUN	_	_	12	conj	_	_
 17	shickyr	shickyr	ADJ	_	_	16	xcomp	_	_
@@ -253,7 +253,7 @@
 7	jeh	jeh	ADP	_	_	9	case	_	_
 8	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
 9	towse	towse	NOUN	_	_	5	nmod	_	_
-10	share	mie	ADJ	_	_	9	amod	_	SpaceAfter=No
+10	share	mie	ADJ	_	Degree=Cmp,Sup	9	amod	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_012
@@ -847,7 +847,7 @@
 21	Miyoshi	Miyoshi	PROPN	_	_	19	conj	_	_
 22	foddey	foddey	ADV	_	_	24	advmod	_	_
 23	ny	ny	PART	_	_	24	mark	_	_
-24	sassey	aashagh	ADJ	_	_	17	amod	_	_
+24	sassey	aashagh	ADJ	_	Degree=Cmp,Sup	17	amod	_	_
 25	credjue	credjue	NOUN	_	_	24	xcomp	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -1397,7 +1397,7 @@
 # sent_id = aa_053
 # text = Share lhiam, foddee, yn aght so-chredjue ta saaseyn as ymmyrkey Tohru jannoo assee da beggan er veggan, gyn y skeeal çheet dy ve moralagh dree.
 # text_en = I also loved the slick and entirely believable way that Tohru's own methods and behaviour slowly sabotage his early success, without the story getting moralistic about things.
-1	Share	mie	ADJ	_	_	0	root	_	_
+1	Share	mie	ADJ	_	Degree=Cmp,Sup	0	root	_	_
 2-3	lhiam	_	_	_	_	_	_	_	SpaceAfter=No
 2	lesh	lesh	ADP	_	_	3	case	_	_
 3	mee	mee	PRON	_	Number=Sing|Person=1	1	obl	_	_
@@ -1559,7 +1559,7 @@
 5	gearaghtee	gearaghtee	NOUN	_	_	1	obj	_	_
 6	mooar	mooar	ADJ	_	_	5	amod	_	_
 7	foddey	foddey	ADJ	_	_	5	amod	_	_
-8	booie	booiagh	ADJ	_	_	5	amod	_	SpaceAfter=No
+8	booie	booie	ADJ	_	_	5	amod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_059
@@ -1696,7 +1696,7 @@
 4	ec	ec	ADP	_	_	5	case	_	_
 5	shin	shin	PRON	_	Number=Plur|Person=1	3	nmod	_	_
 6	ny	ny	PART	_	_	7	mark	_	_
-7	smoo	mooar	ADJ	_	_	8	advmod	_	_
+7	smoo	mooar	ADJ	_	Degree=Cmp,Sup	8	advmod	_	_
 8	boirrit	boirrit	ADJ	_	_	1	xcomp:pred	_	_
 9	er	er	ADP	_	_	10	case	_	_
 10	aghtyn	aght	NOUN	_	_	8	obl	_	_
@@ -2108,7 +2108,7 @@
 3	baljyn	balley	NOUN	_	_	1	nmod	_	_
 4	as	as	CCONJ	_	_	5	cc	_	_
 5	baljyn	balley	NOUN	_	_	3	conj	_	_
-6	beggey	beg	ADJ	_	_	5	amod	_	_
+6	beggey	beg	ADJ	_	Number=Plur	5	amod	_	_
 7-8	syn	_	_	_	_	_	_	_	_
 7	ayns	ayns	ADP	_	_	9	case	_	_
 8	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
@@ -2553,7 +2553,7 @@
 31	saggyrt	saggyrt	NOUN	_	_	29	conj	_	SpaceAfter=No
 32	:	:	PUNCT	_	_	33	punct	_	_
 33	cre	cre	PRON	_	_	2	parataxis	_	_
-34	share	mie	ADJ	_	_	31	amod	_	_
+34	share	mie	ADJ	_	Degree=Cmp,Sup	31	amod	_	_
 35-36	dhyt	_	_	_	_	_	_	_	_
 35	da	da	ADP	_	_	36	case	_	_
 36	oo	oo	PRON	_	Number=Sing|Person=2	34	obl	_	_
@@ -2777,7 +2777,7 @@
 13	lesh	lesh	ADP	_	_	14	case	_	_
 14	ad	ad	PRON	_	Number=Plur|Person=3	12	obl	_	_
 15	foddey	foddey	ADV	_	_	16	advmod	_	_
-16	smoo	mooar	ADJ	_	_	12	amod	_	_
+16	smoo	mooar	ADJ	_	Degree=Cmp,Sup	12	amod	_	_
 17	ny	ny	SCONJ	_	_	18	mark	_	_
 18	ta	bee	VERB	_	Mood=Ind|Tense=Pres	16	advcl	_	_
 19	ymmyrchagh	ymmyrchagh	ADJ	_	_	18	xcomp:pred	_	_
@@ -2802,7 +2802,7 @@
 # text_ga = Is measa a bhagairt ná a bhuille.
 1-2	S'messey	_	_	_	_	_	_	_	_
 1	S'	she	AUX	_	_	2	cop	_	_
-2	messey	olk	ADJ	_	_	0	root	_	_
+2	messey	olk	ADJ	_	Degree=Cmp,Sup	0	root	_	_
 3	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	nmod:poss	_	_
 4	vaggyrt	baggyrt	NOUN	_	_	2	csubj:cop	_	_
 5	na	na	ADP	_	_	7	case	_	_
@@ -2819,7 +2819,7 @@
 4	Vretnagh	Bretnagh	ADJ	_	_	3	amod	_	_
 5	ta	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 6	ny	ny	PART	_	_	7	mark	_	_
-7	smoo	mooar	ADJ	_	_	9	advmod	_	_
+7	smoo	mooar	ADJ	_	Degree=Cmp,Sup	9	advmod	_	_
 8	na	na	ADP	_	_	7	fixed	_	_
 9	feed	feed	NUM	_	_	10	nummod	_	_
 10	oltey	oltey	NOUN	_	_	5	nsubj	_	_
@@ -3134,7 +3134,7 @@
 15	cabbane-agglish	cabbane-agglish	NOUN	_	_	13	nmod	_	_
 16	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	17	det	_	_
 17	Jee	Jee	PROPN	_	_	15	nmod	_	_
-18	smoo	mooar	ADJ	_	_	15	amod	_	_
+18	smoo	mooar	ADJ	_	Degree=Cmp,Sup	15	amod	_	_
 19	ard	ard	ADJ	_	_	15	amod	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -3151,7 +3151,7 @@
 8	ec	ec	ADP	_	_	10	case	_	_
 9	y	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	_
 10	chooid	cooid	NOUN	_	_	7	obl	_	_
-11	sloo	beg	ADJ	_	_	10	amod	_	_
+11	sloo	beg	ADJ	_	Degree=Cmp,Sup	10	amod	_	_
 12	reddyn	red	NOUN	_	_	7	obj	_	_
 13	noa	noa	ADJ	_	_	12	amod	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
@@ -3180,7 +3180,7 @@
 7	er	er	ADP	_	_	9	case	_	_
 8	y	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
 9	chooid	cooid	NOUN	_	_	5	obl	_	_
-10	smoo	mooar	ADJ	_	_	9	amod	_	SpaceAfter=No
+10	smoo	mooar	ADJ	_	Degree=Cmp,Sup	9	amod	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	9	punct	_	_
 12-13	'sy	_	_	_	_	_	_	_	_
 12	ayns	ayns	ADP	_	_	14	case	_	_
@@ -3253,7 +3253,7 @@
 # text = Ta ny smoo na keead ashoonaght cummal 'sy chaayr chammah, goaill stiagh Greagee, Ewnyn as Armeainee.
 1	Ta	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	ny	ny	PART	_	_	3	mark	_	_
-3	smoo	mooar	ADJ	_	_	5	advmod	_	_
+3	smoo	mooar	ADJ	_	Degree=Cmp,Sup	5	advmod	_	_
 4	na	na	ADP	_	_	3	fixed	_	_
 5	keead	keead	NUM	_	_	6	nummod	_	_
 6	ashoonaght	ashoonaght	NOUN	_	_	1	nsubj	_	_
@@ -3324,7 +3324,7 @@
 12	y	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	13	det	_	_
 13	charvaant	sharvaant	NOUN	_	_	11	nsubj	_	_
 14	ny	ny	PART	_	_	15	mark	_	_
-15	syrjey	ard	ADJ	_	_	11	xcomp:pred	_	_
+15	syrjey	ard	ADJ	_	Degree=Cmp,Sup	11	xcomp:pred	_	_
 16	na	na	ADP	_	_	18	case	_	_
 17	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	18	nmod:poss	_	_
 18	hiarn	çhiarn	NOUN	_	_	15	obl	_	SpaceAfter=No
@@ -3407,7 +3407,7 @@
 15	veeal	beeal	NOUN	_	_	9	obl	_	_
 16	agh	agh	CCONJ	_	_	18	cc	_	_
 17	by	she	AUX	_	_	18	cop	_	_
-18	vessey	olk	ADJ	_	_	1	conj	_	_
+18	vessey	olk	ADJ	_	Degree=Cmp,Sup	1	conj	_	_
 19	foast	foast	ADV	_	_	18	advmod	_	_
 20	ny	ny	SCONJ	_	_	21	mark	_	_
 21	va	bee	VERB	_	Mood=Ind|Tense=Past	18	csubj:cop	_	_
@@ -3708,7 +3708,7 @@
 25	voish	voish	ADP	_	_	27	case	_	_
 26	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	27	det	_	_
 27	deiney	dooinney	NOUN	_	_	24	obl	_	_
-28	baney	bane	ADJ	_	_	27	amod	_	_
+28	baney	bane	ADJ	_	Number=Plur	27	amod	_	_
 29-30	'syn	_	_	_	_	_	_	_	_
 29	ayns	ayns	ADP	_	_	31	case	_	_
 30	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	31	det	_	_
@@ -4027,7 +4027,7 @@
 5	goaill	goaill	NOUN	_	_	1	xcomp	_	_
 6	stiagh	stiagh	ADV	_	_	5	advmod	_	_
 7	baljyn	balley	NOUN	_	_	5	obj	_	_
-8	beggey	beg	ADJ	_	_	7	amod	_	_
+8	beggey	beg	ADJ	_	Number=Plur	7	amod	_	_
 9	ennagh	ennagh	ADJ	_	_	7	amod	_	_
 10	ry	ry	ADP	_	_	11	case	_	_
 11	laue	laue	NOUN	_	_	7	nmod	_	SpaceAfter=No
@@ -4521,7 +4521,7 @@
 87	mastey	mastey	ADP	_	_	89	case	_	_
 88	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	89	det	_	_
 89	sleih	sleih	NOUN	_	_	86	nmod	_	_
-90	aegey	aeg	ADJ	_	_	89	amod	_	_
+90	aegey	aeg	ADJ	_	Number=Plur	89	amod	_	_
 91	ta	bee	VERB	_	Mood=Ind|Tense=Pres	86	acl:relcl	_	_
 92	cur	cur	NOUN	_	_	91	xcomp	_	_
 93	geill	geill	NOUN	_	_	92	obj	_	_
@@ -4629,7 +4629,7 @@
 6	ngoair	goayr	NOUN	_	_	3	obl	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	_
 8	ny	ny	PART	_	_	9	mark	_	_
-9	smoo	mooar	ADJ	_	_	10	advmod	_	_
+9	smoo	mooar	ADJ	_	Degree=Cmp,Sup	10	advmod	_	_
 10	jeeragh	jeeragh	ADJ	_	_	1	advmod	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	goair	goayr	NOUN	_	_	6	appos	_	_
@@ -5490,7 +5490,7 @@
 24	er	er	ADP	_	_	26	case	_	_
 25	y	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	26	det	_	_
 26	chooid	cooid	NOUN	_	_	13	obl	_	_
-27	sloo	beg	ADJ	_	_	26	amod	_	SpaceAfter=No
+27	sloo	beg	ADJ	_	Degree=Cmp,Sup	26	amod	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_208
@@ -5621,7 +5621,7 @@
 8	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	7	nsubj	_	_
 9	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	10	nmod:poss	_	_
 10	chooid	cooid	NOUN	_	_	7	obj	_	_
-11	share	mie	ADJ	_	_	10	amod	_	_
+11	share	mie	ADJ	_	Degree=Cmp,Sup	10	amod	_	_
 12	dy	dy	ADP	_	_	13	case	_	_
 13	hayrn	tayrn	NOUN	_	_	7	xcomp	_	_
 14	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	15	det	_	_
@@ -5772,7 +5772,7 @@
 19	as	as	CCONJ	_	_	20	cc	_	_
 20	bee'm	bee	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut	13	conj	_	_
 21	ny	ny	PART	_	_	22	mark	_	_
-22	s'gilley	gial	ADJ	_	_	20	xcomp:pred	_	_
+22	s'gilley	gial	ADJ	_	Degree=Cmp,Sup	20	xcomp:pred	_	_
 23	na	na	ADP	_	_	24	case	_	_
 24	sniaghtey	sniaghtey	NOUN	_	_	22	obl	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	1	punct	_	_
@@ -6066,7 +6066,7 @@
 10	ooilley	ooilley	NOUN	_	_	1	nmod	_	_
 11	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
 12	lionyn	lion	NOUN	_	_	10	nmod	_	_
-13	aegey	aeg	ADJ	_	_	12	amod	_	_
+13	aegey	aeg	ADJ	_	Number=Plur	12	amod	_	_
 14-15	ocsyn	_	_	_	_	_	_	_	SpaceAfter=No
 14	ec	ec	ADP	_	_	15	case	_	_
 15	adsyn	ad	PRON	_	Number=Plur|Person=3|PronType=Emp	12	nmod	_	_
@@ -6313,7 +6313,7 @@
 6	er	er	ADP	_	_	8	case	_	_
 7	y	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
 8	chooid	cooid	NOUN	_	_	2	obl	_	_
-9	sloo	beg	ADJ	_	_	8	amod	_	SpaceAfter=No
+9	sloo	beg	ADJ	_	Degree=Cmp,Sup	8	amod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	12	punct	_	_
 11	as	as	CCONJ	_	_	12	cc	_	_
 12	ghow	gow	VERB	_	Mood=Ind|Tense=Past	2	conj	_	_
@@ -6380,7 +6380,7 @@
 16	dy	dy	ADP	_	_	17	case	_	_
 17	ve	ve	NOUN	_	_	15	xcomp	_	_
 18	ny	ny	PART	_	_	19	mark	_	_
-19	stroshey	troshagh	ADJ	_	_	17	xcomp:pred	_	_
+19	stroshey	troshagh	ADJ	_	Degree=Cmp,Sup	17	xcomp:pred	_	_
 20	ec	ec	ADP	_	_	22	case	_	_
 21	y	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	22	det	_	_
 22	traa	traa	NOUN	_	_	17	obl:tmod	_	_
@@ -6554,7 +6554,7 @@
 6	as	as	CCONJ	_	_	8	cc	_	_
 7	y	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
 8	balley	balley	NOUN	_	_	4	conj	_	_
-9	smoo	mooar	ADJ	_	_	8	amod	_	_
+9	smoo	mooar	ADJ	_	Degree=Cmp,Sup	8	amod	_	_
 10-11	ayn	_	_	_	_	_	_	_	_
 10	ayns	ayns	ADP	_	_	11	case	_	_
 11	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	2	obl	_	_
@@ -7084,7 +7084,7 @@
 4	bard	bard	NOUN	_	_	2	nsubj	_	_
 5	foast	foast	ADV	_	_	2	advmod	_	_
 6	atteeyn	attey	NOUN	_	_	2	obj	_	_
-7	beggey	beg	ADJ	_	_	6	amod	_	_
+7	beggey	beg	ADJ	_	Number=Plur	6	amod	_	_
 8	ass	ass	ADP	_	_	9	case	_	_
 9	arrane	arrane	NOUN	_	_	2	obl	_	_
 10-11	jee	_	_	_	_	_	_	_	SpaceAfter=No
@@ -7140,7 +7140,7 @@
 3	Vritaan	Britaan	PROPN	_	_	0	root	_	_
 4	y	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
 5	lieh-innys	lieh-innys	NOUN	_	_	3	nsubj	_	_
-6	smoo	mooar	ADJ	_	_	5	amod	_	_
+6	smoo	mooar	ADJ	_	Degree=Cmp,Sup	5	amod	_	_
 7-8	'sy	_	_	_	_	_	_	_	_
 7	ayns	ayns	ADP	_	_	9	case	_	_
 8	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
@@ -7750,7 +7750,7 @@
 4	ee	ee	PRON	_	Gender=Fem|Number=Sing|Person=3	2	obj	_	_
 5	hene	hene	PRON	_	Reflex=Yes	4	nmod	_	_
 6	ny	ny	PART	_	_	7	mark	_	_
-7	sniessey	niessey	ADJ	_	_	2	advmod	_	_
+7	sniessey	niessey	ADJ	_	Degree=Cmp,Sup	2	advmod	_	_
 8	da	da	ADP	_	_	9	case	_	_
 9	lhiattee	lhiattagh	NOUN	_	_	7	obl	_	_
 10	Ealish	Ealish	PROPN	_	_	9	nmod	_	_
@@ -7796,8 +7796,8 @@
 27	nane	nane	NOUN	_	_	24	obj	_	_
 28	jeh	jeh	ADP	_	_	29	case	_	_
 29	laueanyn-mannan	lauean-mannan	NOUN	_	_	27	nmod	_	_
-30	beggey	beg	ADJ	_	_	29	amod	_	_
-31	baney	bane	ADJ	_	_	29	amod	_	_
+30	beggey	beg	ADJ	_	Number=Plur	29	amod	_	_
+31	baney	bane	ADJ	_	Number=Plur	29	amod	_	_
 32	y	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	33	det	_	_
 33	Chonning	conning	NOUN	_	_	29	nmod	_	_
 34	as	as	SCONJ	_	_	35	mark	_	_
@@ -8535,7 +8535,7 @@
 2	She	she	AUX	_	_	4	cop	_	_
 3	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
 4	eeym	eeym	NOUN	_	_	0	root	_	_
-5	share	mie	ADJ	_	_	4	amod	_	_
+5	share	mie	ADJ	_	Degree=Cmp,Sup	4	amod	_	_
 6-8	v'ayn	_	_	_	_	_	_	_	SpaceAfter=No
 6	v'	bee	VERB	_	Mood=Ind|Tense=Past	4	acl:relcl	_	_
 7	ayns	ayns	ADP	_	_	8	case	_	_
@@ -9285,7 +9285,7 @@
 4	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
 5	laue	laue	NOUN	_	_	2	nmod	_	_
 6	ny	ny	PART	_	_	7	mark	_	_
-7	share	mie	ADJ	_	_	1	xcomp:pred	_	_
+7	share	mie	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	_
 8	na	na	ADP	_	_	9	case	_	_
 9	braddan	braddan	NOUN	_	_	7	obl	_	_
 10-11	'sy	_	_	_	_	_	_	_	_
@@ -9378,7 +9378,7 @@
 3	ny	ny	DET	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes	4	nmod:poss	_	_
 4	host	tost	NOUN	_	_	2	nmod	_	_
 5	ny	ny	PART	_	_	6	mark	_	_
-6	share	mie	ADJ	_	_	1	xcomp:pred	_	_
+6	share	mie	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	_
 7	na	na	ADP	_	_	10	case	_	_
 8	olk	olk	NOUN	_	_	10	obj	_	_
 9	y	y	ADP	_	_	10	mark	_	_
@@ -9505,7 +9505,7 @@
 2	cree	cree	NOUN	_	_	1	nsubj	_	_
 3	dooie	dooie	ADJ	_	_	2	amod	_	_
 4	ny	ny	PART	_	_	5	mark	_	_
-5	share	mie	ADJ	_	_	1	xcomp:pred	_	_
+5	share	mie	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	_
 6	na	na	ADP	_	_	7	case	_	_
 7	kione	kione	NOUN	_	_	5	obl	_	_
 8	croutagh	croutagh	ADJ	_	_	7	amod	_	SpaceAfter=No
@@ -9572,7 +9572,7 @@
 4	jeant	jeant	ADJ	_	_	1	xcomp:pred	_	_
 5	jeh	jeh	ADP	_	_	6	case	_	_
 6	claghyn	clagh	NOUN	_	_	4	obl	_	_
-7	beggey	beg	ADJ	_	_	6	amod	_	SpaceAfter=No
+7	beggey	beg	ADJ	_	Number=Plur	6	amod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = usage_546
@@ -9690,7 +9690,7 @@
 4	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
 5	chooyrt	cooyrt	NOUN	_	_	2	nmod	_	_
 6	ny	ny	PART	_	_	7	mark	_	_
-7	share	mie	ADJ	_	_	1	xcomp:pred	_	_
+7	share	mie	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	_
 8	na	na	ADP	_	_	9	case	_	_
 9	argid	argid	NOUN	_	_	7	obl	_	_
 10-11	'sy	_	_	_	_	_	_	_	_
@@ -9949,7 +9949,7 @@
 4	haink	tar	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 5	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
 6	ny	ny	PART	_	_	7	mark	_	_
-7	s'anvenkey	anvennick	ADJ	_	_	4	advmod	_	SpaceAfter=No
+7	s'anvenkey	anvennick	ADJ	_	Degree=Cmp,Sup	4	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = usage_745
@@ -10221,7 +10221,7 @@
 # text_en = But there was worse to come.
 1	Agh	agh	CCONJ	_	_	3	cc	_	_
 2	by	she	AUX	_	_	3	cop	_	_
-3	vessey	olk	ADJ	_	_	0	root	_	_
+3	vessey	olk	ADJ	_	Degree=Cmp,Sup	0	root	_	_
 4	foast	foast	ADV	_	_	3	advmod	_	_
 5	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
 6	red	red	NOUN	_	_	3	nsubj	_	_
@@ -10560,7 +10560,7 @@
 1	Ta	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	fuill	fuill	NOUN	_	_	1	nsubj	_	_
 3	ny	ny	PART	_	_	4	mark	_	_
-4	s'chee	chiu	ADJ	_	_	1	xcomp:pred	_	_
+4	s'chee	chiu	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	_
 5	na	na	ADP	_	_	6	case	_	_
 6	ushtey	ushtey	NOUN	_	_	4	obl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
@@ -10602,7 +10602,7 @@
 2	seose	seose	ADV	_	_	1	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	gheiney	dooinney	NOUN	_	_	1	vocative	_	_
-5	seyrey	seyr	ADJ	_	_	4	amod	_	SpaceAfter=No
+5	seyrey	seyr	ADJ	_	Number=Plur	4	amod	_	SpaceAfter=No
 6	!	!	PUNCT	_	_	1	punct	_	_
 
 # sent_id = usage_1704
@@ -10616,7 +10616,7 @@
 4	ec	ec	ADP	_	_	5	case	_	_
 5	shiu	shiu	PRON	_	Number=Plur|Person=2	3	nmod	_	_
 6	gheiney	dooinney	NOUN	_	_	1	vocative	_	_
-7	seyrey	seyr	ADJ	_	_	6	amod	_	SpaceAfter=No
+7	seyrey	seyr	ADJ	_	Number=Plur	6	amod	_	SpaceAfter=No
 8	!	!	PUNCT	_	_	1	punct	_	_
 
 # sent_id = usage_1779
@@ -12272,7 +12272,7 @@
 1	Ta	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	keeall	keeall	NOUN	_	_	1	nsubj	_	_
 3	chionnit	kionnit	ADJ	_	_	2	amod	_	_
-4	share	mie	ADJ	_	_	1	xcomp:pred	_	SpaceAfter=No
+4	share	mie	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	_
 6	mannagh	mannagh	SCONJ	_	_	7	mark	_	_
 7	vel	bee	VERB	_	Mood=Ind|Tense=Pres	1	advcl	_	_
@@ -14435,7 +14435,7 @@
 1	Hug	cur	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	coontey	coontey	NOUN	_	_	1	obj	_	_
-4	smoo	mooar	ADJ	_	_	3	amod	_	_
+4	smoo	mooar	ADJ	_	Degree=Cmp,Sup	3	amod	_	_
 5-6	jeh	_	_	_	_	_	_	_	SpaceAfter=No
 5	jeh	jeh	ADP	_	_	6	case	_	_
 6	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
@@ -15891,7 +15891,7 @@
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	nmod:poss	_	_
 4	chooid	cooid	NOUN	_	_	1	obj	_	_
-5	share	mie	ADJ	_	_	4	amod	_	SpaceAfter=No
+5	share	mie	ADJ	_	Degree=Cmp,Sup	4	amod	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = usage_3861
@@ -16141,7 +16141,7 @@
 4	er	er	ADP	_	_	5	case	_	_
 5	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	2	xcomp:pred	_	_
 6	ny	ny	PART	_	_	7	mark	_	_
-7	s'odjey	foddey	ADJ	_	_	2	advmod	_	SpaceAfter=No
+7	s'odjey	foddey	ADJ	_	Degree=Cmp,Sup	2	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = usage_3893
@@ -16367,7 +16367,7 @@
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	nmod:poss	_	_
 4	hoilshaghyn	soilshey	NOUN	_	_	1	obj	_	_
-5	mooarey	mooar	ADJ	_	_	4	amod	_	SpaceAfter=No
+5	mooarey	mooar	ADJ	_	Number=Plur	4	amod	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = usage_3917
@@ -18066,7 +18066,7 @@
 1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	ny	ny	PART	_	_	4	mark	_	_
-4	share	mie	ADJ	_	_	1	xcomp:pred	_	_
+4	share	mie	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	_
 5	na	na	ADP	_	_	6	case	_	_
 6	Juan	Juan	PROPN	_	_	4	obl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
@@ -18079,7 +18079,7 @@
 1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	ny	ny	PART	_	_	4	mark	_	_
-4	share	mie	ADJ	_	_	1	xcomp:pred	_	_
+4	share	mie	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	_
 5-6	na'n	_	_	_	_	_	_	_	_
 5	na	na	ADP	_	_	7	case	_	_
 6	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
@@ -18841,7 +18841,7 @@
 1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	foddey	foddey	ADV	_	_	4	advmod	_	_
-4	share	mie	ADJ	_	_	1	xcomp:pred	_	SpaceAfter=No
+4	share	mie	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = usage_4491
@@ -18876,7 +18876,7 @@
 1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	foddey	foddey	ADV	_	_	4	advmod	_	_
-4	s'creeney	creen	ADJ	_	_	1	xcomp:pred	_	_
+4	s'creeney	creen	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	_
 5	na	na	ADP	_	_	6	case	_	_
 6	mish	mee	PRON	_	Number=Sing|Person=1|PronType=Emp	4	obl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
@@ -19343,7 +19343,7 @@
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	foddey	foddey	ADV	_	_	5	advmod	_	_
 4	ny	ny	PART	_	_	5	mark	_	_
-5	share	mie	ADJ	_	_	1	xcomp:pred	_	SpaceAfter=No
+5	share	mie	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = usage_4540
@@ -19430,7 +19430,7 @@
 3	cliaghtit	cliaghtit	ADJ	_	_	1	xcomp:pred	_	_
 4	rish	rish	ADP	_	_	5	case	_	_
 5	oieghyn	oie	NOUN	_	_	3	obl	_	_
-6	liauyrey	liauyr	ADJ	_	_	5	amod	_	SpaceAfter=No
+6	liauyrey	liauyr	ADJ	_	Number=Plur	5	amod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = usage_4547
@@ -19877,7 +19877,7 @@
 1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	ny	ny	PART	_	_	4	mark	_	_
-4	s'yrjey	ard	ADJ	_	_	1	xcomp:pred	_	_
+4	s'yrjey	ard	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	_
 5	na	na	ADP	_	_	6	case	_	_
 6	mish	mee	PRON	_	Number=Sing|Person=1|PronType=Emp	4	obl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
@@ -20566,7 +20566,7 @@
 2	nel	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 3	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
 4	chooid	cooid	NOUN	_	_	2	nsubj	_	_
-5	share	mie	ADJ	_	_	4	amod	_	_
+5	share	mie	ADJ	_	Degree=Cmp,Sup	4	amod	_	_
 6-7	jeh'n	_	_	_	_	_	_	_	_
 6	jeh	jeh	ADP	_	_	8	case	_	_
 7	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
@@ -20792,7 +20792,7 @@
 1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	ny	ny	PART	_	_	4	mark	_	_
-4	shinney	shenn	ADJ	_	_	1	xcomp:pred	_	_
+4	shinney	shenn	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	_
 5	na	na	ADP	_	_	6	case	_	_
 6	mish	mee	PRON	_	Number=Sing|Person=1|PronType=Emp	4	obl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
@@ -20805,7 +20805,7 @@
 1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	ny	ny	PART	_	_	4	mark	_	_
-4	s'cooinidee	cooinidagh	ADJ	_	_	1	xcomp:pred	_	_
+4	s'cooinidee	cooinidagh	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	_
 5	na	na	ADP	_	_	6	case	_	_
 6	mish	mee	PRON	_	Number=Sing|Person=1|PronType=Emp	4	obl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
@@ -21537,7 +21537,7 @@
 4	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	nmod:poss	_	_
 5	chullee	cullee	NOUN	_	_	3	obj	_	_
 6	eaddee	eaddagh	NOUN	_	_	5	nmod	_	_
-7	share	mie	ADJ	_	_	5	amod	_	SpaceAfter=No
+7	share	mie	ADJ	_	Degree=Cmp,Sup	5	amod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = usage_4770
@@ -24162,10 +24162,10 @@
 3	dy	dy	ADP	_	_	4	case	_	_
 4	ve	ve	NOUN	_	_	1	xcomp	_	_
 5	ny	ny	PART	_	_	6	mark	_	_
-6	s'keoiey	keoie	ADJ	_	_	4	xcomp:pred	_	_
+6	s'keoiey	keoie	ADJ	_	Degree=Cmp,Sup	4	xcomp:pred	_	_
 7	as	as	CCONJ	_	_	9	cc	_	_
 8	ny	ny	PART	_	_	9	mark	_	_
-9	s'keoiey	keoie	ADJ	_	_	6	conj	_	SpaceAfter=No
+9	s'keoiey	keoie	ADJ	_	Degree=Cmp,Sup	6	conj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = usage_5028
@@ -27269,7 +27269,7 @@
 3	gys	gys	ADP	_	_	5	case	_	_
 4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	king	kione	NOUN	_	_	1	obl	_	_
-6	s'odjey	foddey	ADJ	_	_	5	amod	_	_
+6	s'odjey	foddey	ADJ	_	Degree=Cmp,Sup	5	amod	_	_
 7	magh	magh	ADV	_	_	6	advmod	_	_
 8-9	jeh'n	_	_	_	_	_	_	_	_
 8	jeh	jeh	ADP	_	_	10	case	_	_
@@ -28565,7 +28565,7 @@
 3	mastey	mastey	ADP	_	_	5	case	_	_
 4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	fir	fer	NOUN	_	_	1	xcomp:pred	_	_
-6	share	mie	ADJ	_	_	5	amod	_	SpaceAfter=No
+6	share	mie	ADJ	_	Degree=Cmp,Sup	5	amod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = usage_5470
@@ -29156,7 +29156,7 @@
 4	turrys	turrys	NOUN	_	_	1	obj	_	_
 5	lesh	lesh	ADP	_	_	6	case	_	_
 6	jurnaaghyn	jurnaa	NOUN	_	_	1	obl	_	_
-7	beggey	beg	ADJ	_	_	6	amod	_	SpaceAfter=No
+7	beggey	beg	ADJ	_	Number=Plur	6	amod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = usage_5529
@@ -30576,7 +30576,7 @@
 3	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	obj	_	_
 4	ayns	ayns	ADP	_	_	5	case	_	_
 5	symmyn	symm	NOUN	_	_	1	obl	_	_
-6	beggey	beg	ADJ	_	_	5	amod	_	SpaceAfter=No
+6	beggey	beg	ADJ	_	Number=Plur	5	amod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = usage_5672
@@ -32127,10 +32127,10 @@
 1	Dirree	irree	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	ny	ny	PART	_	_	4	mark	_	_
-4	sloo	beg	ADJ	_	_	1	advmod	_	_
+4	sloo	beg	ADJ	_	Degree=Cmp,Sup	1	advmod	_	_
 5	as	as	CCONJ	_	_	7	cc	_	_
 6	ny	ny	PART	_	_	7	mark	_	_
-7	sloo	beg	ADJ	_	_	4	conj	_	SpaceAfter=No
+7	sloo	beg	ADJ	_	Degree=Cmp,Sup	4	conj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = usage_9860
@@ -32617,7 +32617,7 @@
 2	fooillaght	fooillaght	NOUN	_	_	1	nsubj	_	_
 3	neareydagh	neareydagh	ADJ	_	_	2	amod	_	_
 4	ny	ny	PART	_	_	5	mark	_	_
-5	smessey	olk	ADJ	_	_	1	xcomp:pred	_	_
+5	smessey	olk	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	_
 6	na	na	ADP	_	_	7	case	_	_
 7	ee	ee	NOUN	_	_	5	obl	_	_
 8	scammyltagh	scammyltagh	ADJ	_	_	7	amod	_	SpaceAfter=No
@@ -32738,7 +32738,7 @@
 2	shen	shen	PRON	_	PronType=Dem	1	nsubj	_	_
 3	eer	eer	ADV	_	_	5	advmod	_	_
 4	ny	ny	PART	_	_	5	mark	_	_
-5	smessey	olk	ADJ	_	_	1	xcomp:pred	_	SpaceAfter=No
+5	smessey	olk	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = usage_15771
@@ -32876,7 +32876,7 @@
 2	'n	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
 3	laa	laa	NOUN	_	_	1	nsubj	_	_
 4	ny	ny	PART	_	_	5	mark	_	_
-5	s'gilley	gial	ADJ	_	_	1	xcomp:pred	_	_
+5	s'gilley	gial	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	_
 6	nish	nish	ADV	_	_	1	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -33188,7 +33188,7 @@
 5	gholl	goll	NOUN	_	_	1	xcomp	_	_
 6	er	er	ADP	_	_	7	case	_	_
 7	raaidyn	raad	NOUN	_	_	5	obl	_	_
-8	cammey	cam	ADJ	_	_	7	amod	_	SpaceAfter=No
+8	cammey	cam	ADJ	_	Number=Plur	7	amod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = usage_18964
@@ -33260,7 +33260,7 @@
 2	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
 3	emshir	emshir	NOUN	_	_	1	nsubj	_	_
 4	ny	ny	PART	_	_	5	mark	_	_
-5	smessey	olk	ADJ	_	_	1	advmod	_	SpaceAfter=No
+5	smessey	olk	ADJ	_	Degree=Cmp,Sup	1	advmod	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = usage_19220
@@ -33298,7 +33298,7 @@
 1	Ta	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	shoh	shoh	PRON	_	PronType=Dem	1	nsubj	_	_
 3	ny	ny	PART	_	_	4	mark	_	_
-4	s'gilley	gial	ADJ	_	_	1	xcomp:pred	_	_
+4	s'gilley	gial	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	_
 5	na	na	ADP	_	_	6	case	_	_
 6	shen	shen	PRON	_	PronType=Dem	4	obl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
@@ -33336,10 +33336,10 @@
 1	Ta	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	shoh	shoh	PRON	_	PronType=Dem	1	nsubj	_	_
 3	ny	ny	PART	_	_	4	mark	_	_
-4	s'messey	olk	ADJ	_	_	1	xcomp:pred	_	_
+4	s'messey	olk	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	_
 5	as	as	CCONJ	_	_	7	cc	_	_
 6	ny	ny	PART	_	_	7	mark	_	_
-7	s'messey	olk	ADJ	_	_	4	conj	_	SpaceAfter=No
+7	s'messey	olk	ADJ	_	Degree=Cmp,Sup	4	conj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = usage_21401
@@ -33410,7 +33410,7 @@
 1	Va	bee	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	'n	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
 3	chooid	cooid	NOUN	_	_	1	nsubj	_	_
-4	share	mie	ADJ	_	_	3	amod	_	_
+4	share	mie	ADJ	_	Degree=Cmp,Sup	3	amod	_	_
 5	jeh	jeh	ADP	_	_	8	case	_	_
 6	dagh	dagh	DET	_	_	8	det	_	_
 7	ooilley	ooilley	DET	_	_	8	det	_	_
@@ -33530,7 +33530,7 @@
 2	oo	oo	PRON	_	Number=Sing|Person=2	1	nsubj	_	_
 3	jannoo	jannoo	NOUN	_	_	1	xcomp	_	_
 4	ny	ny	PART	_	_	5	mark	_	_
-5	s'messey	olk	ADJ	_	_	3	advmod	_	SpaceAfter=No
+5	s'messey	olk	ADJ	_	Degree=Cmp,Sup	3	advmod	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = usage_22712
@@ -33752,7 +33752,7 @@
 2	ou	ou	PRON	_	Number=Sing|Person=2	1	nsubj	_	_
 3	screeu	screeu	NOUN	_	_	1	xcomp	_	_
 4	ny	ny	PART	_	_	5	mark	_	_
-5	smessey	olk	ADJ	_	_	3	advmod	_	_
+5	smessey	olk	ADJ	_	Degree=Cmp,Sup	3	advmod	_	_
 6	na	na	ADP	_	_	8	case	_	_
 7	dty	dty	DET	_	Number=Sing|Person=2|Poss=Yes	8	nmod:poss	_	_
 8	huyr	shuyr	NOUN	_	_	5	obl	_	SpaceAfter=No
@@ -33783,10 +33783,10 @@
 2	ee	ee	PRON	_	Gender=Fem|Number=Sing|Person=3	1	nsubj	_	_
 3	cloie	cloie	NOUN	_	_	1	xcomp	_	_
 4	ny	ny	PART	_	_	5	mark	_	_
-5	smessey	olk	ADJ	_	_	3	advmod	_	_
+5	smessey	olk	ADJ	_	Degree=Cmp,Sup	3	advmod	_	_
 6	as	as	CCONJ	_	_	8	cc	_	_
 7	ny	ny	PART	_	_	8	mark	_	_
-8	smessey	olk	ADJ	_	_	5	conj	_	SpaceAfter=No
+8	smessey	olk	ADJ	_	Degree=Cmp,Sup	5	conj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = usage_24147
@@ -33831,7 +33831,7 @@
 3	pennyn	penn	NOUN	_	_	1	nsubj	_	_
 4	shoh	shoh	DET	_	_	3	det	_	_
 5	ny	ny	PART	_	_	6	mark	_	_
-6	share	mie	ADJ	_	_	1	xcomp:pred	_	_
+6	share	mie	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	_
 7	na	na	ADP	_	_	8	case	_	_
 8	ad	ad	PRON	_	Number=Plur|Person=3	6	obl	_	_
 9	shen	shen	DET	_	_	8	det	_	_
@@ -33912,7 +33912,7 @@
 2	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	nmod:poss	_	_
 3	ghounstyrnee	gounstyrnee	NOUN	_	_	1	nsubj	_	_
 4	ny	ny	PART	_	_	5	mark	_	_
-5	smessey	olk	ADJ	_	_	1	xcomp:pred	_	_
+5	smessey	olk	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	_
 6-7	na'n	_	_	_	_	_	_	_	_
 6	na	na	ADP	_	_	8	case	_	_
 7	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
@@ -33930,7 +33930,7 @@
 2	fooillagh	fooillagh	NOUN	_	_	1	nsubj	_	_
 3	naareydagh	naareydagh	ADJ	_	_	2	amod	_	_
 4	ny	ny	PART	_	_	5	mark	_	_
-5	smessey	olk	ADJ	_	_	1	xcomp:pred	_	_
+5	smessey	olk	ADJ	_	Degree=Cmp,Sup	1	xcomp:pred	_	_
 6	na	na	ADP	_	_	7	case	_	_
 7	ee	ee	NOUN	_	_	5	obl	_	_
 8	scammyltagh	scammyltagh	ADJ	_	_	7	amod	_	SpaceAfter=No
@@ -33943,7 +33943,7 @@
 1	Foddee	fod	VERB	_	Mood=Ind|Tense=Fut	0	root	_	_
 2	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
 3	moddey	moddey	NOUN	_	_	1	nsubj	_	_
-4	s'jerree	jerrinagh	ADJ	_	_	3	amod	_	_
+4	s'jerree	jerrinagh	ADJ	_	Degree=Cmp,Sup	3	amod	_	_
 5	tayrtyn	tayrtyn	NOUN	_	_	1	xcomp	_	_
 6	y	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
 7	mwaagh	mwaagh	NOUN	_	_	5	obj	_	SpaceAfter=No
