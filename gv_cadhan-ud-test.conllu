@@ -7,7 +7,7 @@
 4	bee	bee	NOUN	_	_	3	obj	_	_
 5	ec	ec	ADP	_	_	6	case	_	_
 6	oaieyn	oaie	NOUN	_	_	3	obl	_	_
-7	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
+7	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
 8	merriu	marroo	NOUN	_	_	6	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -54,7 +54,7 @@
 32	nyn	nyn	DET	_	Number=Plur|Person=2|Poss=Yes	33	nmod:poss	_	_
 33	dhost	tost	NOUN	_	Form=Ecl	31	xcomp:pred	_	_
 34	son	son	ADP	_	_	36	case	_	_
-35	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	36	det	_	_
+35	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	36	det	_	_
 36	raaidyn	raad	NOUN	_	_	27	obl	_	_
 37-38	eu	_	_	_	_	_	_	_	_
 37	ec	ec	ADP	_	_	38	case	_	_
@@ -135,7 +135,7 @@
 5	trooid	trooid	ADP	_	_	6	case	_	_
 6	uinnag	uinnag	NOUN	_	_	3	obl	_	_
 7	ayns	ayns	ADP	_	_	9	case	_	_
-8	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+8	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
 9	cleaghyn	clea	NOUN	_	_	6	nmod	_	_
 10	as	as	CCONJ	_	_	11	cc	_	_
 11	va	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	1	conj	_	_
@@ -172,7 +172,7 @@
 17	shickyr	shickyr	ADJ	_	_	16	xcomp	_	_
 18	dy	dy	PART	_	_	19	mark	_	_
 19	vel	bee	VERB	_	Form=Ecl|Mood=Ind|Tense=Pres	17	ccomp	_	_
-20	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	21	det	_	_
+20	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	21	det	_	_
 21	coloayrtyssyn	coloayrtys	NOUN	_	_	19	nsubj	_	_
 22	jeant	jeant	ADJ	_	_	19	xcomp:pred	_	_
 23	as	as	CCONJ	_	_	25	cc	_	_
@@ -580,7 +580,7 @@
 7	enmysit	enmysit	ADJ	_	_	1	xcomp:pred	_	_
 8	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
 9	Aigh	aigh	NOUN	_	_	7	xcomp	_	_
-10	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
+10	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
 11	Yernee	Yernagh	PROPN	_	_	9	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
 13	"	"	PUNCT	_	_	9	punct	_	_
@@ -604,7 +604,7 @@
 13	Egypt	Egypt	PROPN	_	_	11	obl	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	8	punct	_	_
 15	hug	cur	VERB	_	Form=Len|Mood=Ind|Tense=Past	2	ccomp	_	_
-16	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	17	det	_	_
+16	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	17	det	_	_
 17	Egyptianee	Egyptian	PROPN	_	_	15	nsubj	_	_
 18-19	my-ner	_	_	_	_	_	_	_	_
 18	my	my	ADP	_	_	19	case	_	_
@@ -629,7 +629,7 @@
 5	,	,	PUNCT	_	_	7	punct	_	_
 6	Cha	cha	PART	_	_	7	mark	_	_
 7	vel	bee	VERB	_	Form=Ecl|Mood=Ind|Tense=Pres	4	parataxis	_	_
-8	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+8	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
 9	laueyn	laue	NOUN	_	_	7	nsubj	_	_
 10-11	ain	_	_	_	_	_	_	_	_
 10	ec	ec	ADP	_	_	11	case	_	_
@@ -642,7 +642,7 @@
 17	,	,	PUNCT	_	_	19	punct	_	_
 18	chamoo	chamoo	CCONJ	_	_	19	cc	_	_
 19	ta	bee	VERB	_	Mood=Ind|Tense=Pres	7	conj	_	_
-20	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	21	det	_	_
+20	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	21	det	_	_
 21	sooillyn	sooill	NOUN	_	_	19	nsubj	_	_
 22-23	ain	_	_	_	_	_	_	_	_
 22	ec	ec	ADP	_	_	23	case	_	_
@@ -695,7 +695,7 @@
 6	vrasnaghey	brasnaghey	NOUN	_	Form=Len	2	xcomp	_	_
 7	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
 8	liorish	liorish	ADP	_	_	10	case	_	_
-9	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
+9	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
 10	mee-chrauee	mee-chrauagh	NOUN	_	_	6	obl	_	SpaceAfter=No
 11	)	)	PUNCT	_	_	10	punct	_	_
 12	dy	dy	DET	_	_	14	det	_	_
@@ -796,7 +796,7 @@
 # text = As ren ny ainleyn bannee shen Lesh bingys boggey niau, Shee yee as graih, as aigney mie, Y hoilshagh da sheelnaue.
 1	As	as	CCONJ	_	_	2	cc	_	_
 2	ren	jean	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
-3	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	ainleyn	ainle	NOUN	_	_	2	nsubj	_	_
 5	bannee	bannee	ADJ	_	_	4	amod	_	_
 6	shen	shen	PRON	_	PronType=Dem	2	obj	_	_
@@ -983,7 +983,7 @@
 # text_ga = San áit inar cuireadh an áirc bhí sciatháin na gceiribíní spréite amach mar scáth os cionn na háirce agus a pollaí.
 1	Son	son	SCONJ	_	_	2	mark	_	_
 2	skeayl	skeayl	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
-3	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	cherubim	cherub	NOUN	_	_	2	nsubj	_	_
 5	magh	magh	ADV	_	_	2	advmod	_	_
 6	nyn	nyn	DET	_	Number=Plur|Person=3|Poss=Yes	8	nmod:poss	_	_
@@ -996,13 +996,13 @@
 13	,	,	PUNCT	_	_	15	punct	_	_
 14	as	as	CCONJ	_	_	15	cc	_	_
 15	choodee	coodee	VERB	_	Form=Len|Mood=Ind|Tense=Past	2	conj	_	_
-16	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	17	det	_	_
+16	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	17	det	_	_
 17	cherubim	cherub	NOUN	_	_	15	nsubj	_	_
 18	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	19	det	_	_
 19	arg	arg	NOUN	_	_	15	obj	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	23	punct	_	_
 21	as	as	CCONJ	_	_	23	cc	_	_
-22	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	23	det	_	_
+22	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	23	det	_	_
 23	looghyn	loogh	NOUN	_	_	19	conj	_	_
 24	mullee	mullagh	NOUN	_	_	23	nmod	_	_
 25-26	echey	_	_	_	_	_	_	_	SpaceAfter=No
@@ -1039,9 +1039,9 @@
 23	,	,	PUNCT	_	_	24	punct	_	_
 24	kiongoyrt	kiongoyrt	ADP	_	_	27	case	_	_
 25	rish	rish	ADP	_	_	24	fixed	_	_
-26	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	27	det	_	_
+26	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	27	det	_	_
 27	saggyrtyn	saggyrt	NOUN	_	_	16	obl	_	_
-28	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	29	det	_	_
+28	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	29	det	_	_
 29	Leviteyn	Levite	PROPN	_	_	27	appos	_	SpaceAfter=No
 30	,	,	PUNCT	_	_	31	punct	_	_
 31	va	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	29	acl:relcl	_	_
@@ -1129,7 +1129,7 @@
 7	Cummey	cummey	NOUN	_	_	5	nmod	_	_
 8	Screeuit	screeuit	ADJ	_	_	7	amod	_	_
 9	Bun-towshanagh	bun-towshanagh	ADJ	_	_	7	amod	_	_
-10	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	11	det	_	_
+10	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	11	det	_	_
 11	Cornish	Cornish	PROPN	_	_	7	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	_
 13	cair-screeu	cair-screeu	NOUN	_	_	7	appos	_	_
@@ -1145,7 +1145,7 @@
 22	ec	ec	ADP	_	_	23	case	_	_
 23	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	21	nmod	_	_
 24	dys	dys	ADP	_	_	26	case	_	_
-25	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	26	det	_	_
+25	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	26	det	_	_
 26	cair-screeuyn	cair-screeu	NOUN	_	_	29	obj	_	_
 27	elley	elley	ADJ	_	_	26	amod	_	_
 28	y	y	ADP	_	_	29	mark	_	_
@@ -1158,7 +1158,7 @@
 34	er	er	ADP	_	_	36	case	_	_
 35	son	son	ADP	_	_	34	fixed	_	_
 36	ymmyd	ymmyd	NOUN	_	_	29	conj	_	_
-37	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	38	det	_	_
+37	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	38	det	_	_
 38	Cornish	Cornish	PROPN	_	_	36	nmod	_	_
 39	er	er	ADP	_	_	40	case	_	_
 40	cowraghyn	cowrey	NOUN	_	_	36	nmod	_	_
@@ -1353,7 +1353,7 @@
 17	chaaidje	caaidje	NOUN	_	Form=Len	13	obl	_	_
 18	as	as	CCONJ	_	_	19	cc	_	_
 19	craa	craa	NOUN	_	_	13	conj	_	_
-20	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	21	det	_	_
+20	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	21	det	_	_
 21	roihaghyn	roih	NOUN	_	_	19	obj	_	_
 22-23	oc	_	_	_	_	_	_	_	SpaceAfter=No
 22	ec	ec	ADP	_	_	23	case	_	_
@@ -1464,7 +1464,7 @@
 25	:	:	PUNCT	_	_	27	punct	_	_
 26	veih	veih	ADP	_	_	27	case	_	_
 27	Chiarn	chiarn	NOUN	_	_	20	nmod	_	_
-28	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	29	det	_	_
+28	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	29	det	_	_
 29	flaunyssee	flaunyssagh	NOUN	_	_	27	nmod	_	SpaceAfter=No
 30	,	,	PUNCT	_	_	31	punct	_	_
 31	ta	bee	VERB	_	Mood=Ind|Tense=Pres	27	acl:relcl	_	_
@@ -1484,7 +1484,7 @@
 5	row	bee	VERB	_	Mood=Ind|Tense=Past	3	ccomp	_	_
 6	Alan	Alan	PROPN	_	_	5	nsubj	_	_
 7	toilliu	toilliu	NOUN	_	_	5	xcomp	_	_
-8	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+8	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
 9	laghyn-seyrey	laa-seyr	NOUN	_	_	7	obj	_	_
 10	as	as	CCONJ	_	_	12	cc	_	_
 11	dy	dy	PART	_	_	12	mark	_	_
@@ -1729,7 +1729,7 @@
 4	vlaa	blaa	NOUN	_	Form=Len	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	_
 6	marish	marish	ADP	_	_	8	case	_	_
-7	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
+7	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
 8	braghtyn	braght	NOUN	_	_	2	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	yn-ee	yn-ee	ADJ	_	_	1	xcomp:pred	_	SpaceAfter=No
@@ -1915,7 +1915,7 @@
 9	c'raad	c'raad	PRON	_	_	0	root	_	_
 10	va	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	9	acl:relcl	_	_
 11	Dooinney	dooinney	NOUN	_	_	10	nsubj	_	_
-12	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	13	det	_	_
+12	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	13	det	_	_
 13	Faasaag	faasaag	NOUN	_	_	11	nmod	_	SpaceAfter=No
 14	?	?	PUNCT	_	_	9	punct	_	_
 
@@ -2074,7 +2074,7 @@
 4	ergerrey	ergerrey	ADP	_	_	6	case	_	_
 5	da	da	ADP	_	_	4	fixed	_	_
 6	croymmey	croymmey	NOUN	_	_	2	xcomp:pred	_	_
-7	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+7	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	8	det	_	_
 8	greiney	grian	NOUN	_	_	6	nmod	_	_
 9	va	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 10	Juan	Juan	PROPN	_	_	9	nsubj	_	_
@@ -2134,7 +2134,7 @@
 25	magh	magh	ADV	_	_	24	advmod	_	_
 26	quoi	quoi	PRON	_	_	24	obj	_	_
 27	vees	bee	VERB	_	Form=Len|Mood=Ind|Tense=Fut	26	acl:relcl	_	_
-28	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	29	det	_	_
+28	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	29	det	_	_
 29	cosneyderyn	cosneyder	NOUN	_	_	27	xcomp:pred	_	SpaceAfter=No
 30	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -2218,7 +2218,7 @@
 11	Aegid	aegid	NOUN	_	_	8	obl	_	_
 12	Chochaarjys	cochaarjys	NOUN	_	Form=Len	11	nmod	_	_
 13	Seyr	seyr	ADJ	_	_	12	amod	_	_
-14	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	15	det	_	_
+14	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	15	det	_	_
 15	h-Oarpey	Oarpey	PROPN	_	Form=HPref	12	nmod	_	_
 16-17	veih'n	_	_	_	_	_	_	_	_
 16	veih	veih	ADP	_	_	18	case	_	_
@@ -2284,7 +2284,7 @@
 2	yei	jei	NOUN	_	Form=Len	9	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	_
 4	ayns	ayns	ADP	_	_	6	case	_	_
-5	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+5	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	Steatyn	steat	PROPN	_	_	9	obl	_	_
 7	Unnaneyssit	unnaneyssit	ADJ	_	_	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	6	punct	_	_
@@ -2351,7 +2351,7 @@
 # text = Agh ny keayrtyn s'mie lhein goll er turrys liauyr ayns y Rank er y roar ain.
 # text_ga = Ach uaireanta is maith linn dul ar thuras fada sa Fhrainc ar ár rothar.
 1	Agh	agh	CCONJ	_	_	5	cc	_	_
-2	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	keayrtyn	keayrt	NOUN	_	_	5	obl	_	_
 4-5	s'mie	_	_	_	_	_	_	_	_
 4	s'	she	AUX	_	_	5	cop	_	_
@@ -2469,7 +2469,7 @@
 # text_en = Now the men did diligently observe whether any thing would come from him, and did hastily catch it: and they said, Thy brother Benhadad.
 1	Nish	nish	ADV	_	_	2	advmod	_	_
 2	va	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-3	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	chaghteryn	chaghter	NOUN	_	_	2	nsubj	_	_
 5	feer	feer	ADV	_	_	6	advmod	_	_
 6	tastagh	tastagh	ADJ	_	_	2	xcomp:pred	_	_
@@ -2635,7 +2635,7 @@
 6	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	5	obj	_	_
 7	lesh	lesh	ADP	_	_	8	case	_	_
 8	ooilley	ooilley	NOUN	_	_	6	nmod	_	_
-9	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
+9	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
 10	druggaghyn	druggey	NOUN	_	_	8	nmod	_	_
 11-13	v'echey	_	_	_	_	_	_	_	SpaceAfter=No
 11	v'	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	10	acl:relcl	_	_
@@ -2657,7 +2657,7 @@
 8	,	,	PUNCT	_	_	12	punct	_	_
 9	ny	ny	CCONJ	_	_	12	cc	_	_
 10	rish	rish	ADP	_	_	12	case	_	_
-11	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
+11	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
 12	jeeghyn	jee	NOUN	_	_	7	conj	_	_
 13-14	oc	_	_	_	_	_	_	_	SpaceAfter=No
 13	ec	ec	ADP	_	_	14	case	_	_
@@ -2701,7 +2701,7 @@
 8	cheilley	cheilley	NOUN	_	_	4	obl	_	SpaceAfter=No
 9	:	:	PUNCT	_	_	15	punct	_	_
 10	as	as	CCONJ	_	_	15	cc	_	_
-11	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
+11	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
 12	queig	queig	NUM	_	_	13	nummod	_	_
 13	curtanyn	curtan	NOUN	_	_	15	obj	_	_
 14	elley	elley	ADJ	_	_	13	amod	_	_
@@ -2973,14 +2973,14 @@
 26	vondiaght	bondiaght	NOUN	_	Form=Len	23	obl	_	_
 27	liorish	liorish	ADP	_	_	28	case	_	_
 28	aghin	aghin	NOUN	_	_	23	obl	_	_
-29	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	30	det	_	_
+29	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	30	det	_	_
 30	Moidyn	moidyn	NOUN	_	_	28	nmod	_	_
 31	Bannee	bannee	ADJ	_	_	30	amod	_	_
 32	(	(	PUNCT	_	_	34	punct	_	SpaceAfter=No
 33	son	son	SCONJ	_	_	34	mark	_	_
 34	va	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	22	advcl	_	_
 35	ennym	ennym	NOUN	_	_	34	nsubj	_	_
-36	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	37	det	_	_
+36	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	37	det	_	_
 37	Moidyn	moidyn	NOUN	_	_	35	nmod	_	_
 38	er	er	ADP	_	_	40	case	_	_
 39	y	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	40	det	_	_
@@ -3047,7 +3047,7 @@
 19	mee	mee	PRON	_	Number=Sing|Person=1	18	nsubj	_	_
 20	dy	dy	ADP	_	_	21	case	_	_
 21	yannoo	jannoo	NOUN	_	Form=Len	18	xcomp	_	_
-22	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	23	det	_	_
+22	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	23	det	_	_
 23	reddyn	red	NOUN	_	_	21	obj	_	_
 24	shoh	shoh	DET	_	_	23	det	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	2	punct	_	_
@@ -3057,7 +3057,7 @@
 # text_ga = Bhí loinnir chaithréimeach ina súile gorma.
 # text_en = Her blue eyes shone triumphantly.
 1	Va	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-2	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	sooillyn	sooill	NOUN	_	_	1	nsubj	_	_
 4	gorrym	gorrym	ADJ	_	_	3	amod	_	_
 5-6	eck	_	_	_	_	_	_	_	_
@@ -3227,7 +3227,7 @@
 10	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	9	nsubj	_	_
 11	stiagh	stiagh	ADV	_	_	9	advmod	_	_
 12	ayns	ayns	ADP	_	_	14	case	_	_
-13	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
+13	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
 14	Arryltee	arryltagh	NOUN	_	_	9	obl	_	_
 15	Yernagh	Yernagh	ADJ	_	_	14	amod	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	4	punct	_	_
@@ -3487,7 +3487,7 @@
 2	ren	jean	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 3	ymmodee	ymmodee	NOUN	_	_	2	nsubj	_	_
 4	jeh	jeh	ADP	_	_	6	case	_	_
-5	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+5	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	Hewnyn	Hew	PROPN	_	_	3	nmod	_	_
 7-8	v'er	_	_	_	_	_	_	_	_
 7	v'	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	6	acl:relcl	_	_
@@ -3502,7 +3502,7 @@
 15	v'	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	7	conj	_	_
 16	er	er	ADP	_	_	17	case	_	_
 17	vakin	fakin	NOUN	_	Form=Ecl	15	xcomp	_	_
-18	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	19	det	_	_
+18	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	19	det	_	_
 19	reddyn	red	NOUN	_	_	17	obj	_	_
 20	ren	jean	VERB	_	Mood=Ind|Tense=Past	19	acl:relcl	_	_
 21	Yeesey	Yeesey	PROPN	_	_	20	nsubj	_	SpaceAfter=No
@@ -3538,7 +3538,7 @@
 # text_ga = D'inis mé an méid sin daoibh ionas go mbeadh cuimhne agaibh, nuair a thiocfaidh an t-am dó, gur inis mé daoibh é.
 # text_en = But these things have I told you, that when the time shall come, ye may remember that I told you of them.
 1	Agh	agh	CCONJ	_	_	3	cc	_	_
-2	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	reddyn	red	NOUN	_	_	0	root	_	_
 4	shoh	shoh	DET	_	_	3	det	_	_
 5	ta	bee	VERB	_	Mood=Ind|Tense=Pres	3	acl:relcl	_	_
@@ -3620,11 +3620,11 @@
 17	as	as	CCONJ	_	_	18	cc	_	_
 18	daeed	daeed	NUM	_	_	15	conj	_	SpaceAfter=No
 19	;	;	PUNCT	_	_	21	punct	_	_
-20	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	21	det	_	_
+20	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	21	det	_	_
 21	pillaryn	pillar	NOUN	_	_	12	parataxis	_	_
 22	jeih	jeih	NUM	_	_	21	nummod	_	_
 23	as	as	CCONJ	_	_	25	cc	_	_
-24	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	25	det	_	_
+24	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	25	det	_	_
 25	mortissyn	mortis	NOUN	_	_	21	conj	_	_
 26	jeih	jeih	NUM	_	_	25	nummod	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	12	punct	_	_
@@ -3682,7 +3682,7 @@
 # sent_id = aa_144
 # text = Ayns ny pabyryn naight ta shiu lhaih ram boghtynid mychione "apartheid" as y lhied as yn drogh-ghellal ta ny deiney doo geddyn voish ny deiney baney 'syn Africkey.
 1	Ayns	ayns	ADP	_	_	3	case	_	_
-2	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	pabyryn	pabyr	NOUN	_	_	7	obl	_	_
 4	naight	naight	NOUN	_	_	3	nmod	_	_
 5	ta	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
@@ -3701,12 +3701,12 @@
 18	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	19	det	_	_
 19	drogh-ghellal	drogh-ghellal	NOUN	_	_	12	conj	_	_
 20	ta	bee	VERB	_	Mood=Ind|Tense=Pres	19	acl:relcl	_	_
-21	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	22	det	_	_
+21	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	22	det	_	_
 22	deiney	dooinney	NOUN	_	_	20	nsubj	_	_
 23	doo	doo	ADJ	_	_	22	amod	_	_
 24	geddyn	geddyn	NOUN	_	_	20	xcomp	_	_
 25	voish	voish	ADP	_	_	27	case	_	_
-26	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	27	det	_	_
+26	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	27	det	_	_
 27	deiney	dooinney	NOUN	_	_	24	obl	_	_
 28	baney	bane	ADJ	_	Number=Plur	27	amod	_	_
 29-30	'syn	_	_	_	_	_	_	_	_
@@ -3738,7 +3738,7 @@
 17	raad	raad	NOUN	_	_	11	obl	_	_
 18	elley	elley	ADJ	_	_	17	amod	_	_
 19	mygeayrt	mygeayrt	ADP	_	_	21	case	_	_
-20	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	21	det	_	_
+20	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	21	det	_	_
 21	boayllyn	boayl	NOUN	_	_	17	nmod	_	_
 22	elley	elley	ADJ	_	_	21	amod	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	1	punct	_	_
@@ -3825,7 +3825,7 @@
 6	eayn	eayn	NOUN	_	_	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	11	punct	_	_
 8	gour	gour	ADP	_	_	11	case	_	_
-9	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
+9	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
 10	shiaght	shiaght	NUM	_	_	11	nummod	_	_
 11	eayin	eayn	NOUN	_	_	6	nmod	_	_
 12-13	er-lheh	_	_	_	_	_	_	_	SpaceAfter=No
@@ -3841,12 +3841,12 @@
 2	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
 3	leigh	leigh	NOUN	_	_	1	nsubj	_	_
 4	mychione	mychione	ADP	_	_	6	case	_	_
-5	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+5	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	beiyn	baagh	NOUN	_	_	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	11	punct	_	_
 8	as	as	CCONJ	_	_	11	cc	_	_
 9	mychione	mychione	ADP	_	_	11	case	_	_
-10	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
+10	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
 11	eeanlee	eeanlee	NOUN	_	_	6	conj	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	17	punct	_	_
 13	as	as	CCONJ	_	_	17	cc	_	_
@@ -3858,7 +3858,7 @@
 19	ta	bee	VERB	_	Mood=Ind|Tense=Pres	17	acl:relcl	_	_
 20	snaue	snaue	NOUN	_	_	19	xcomp	_	_
 21	ayns	ayns	ADP	_	_	23	case	_	_
-22	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	23	det	_	_
+22	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	23	det	_	_
 23	ushtaghyn	ushtey	NOUN	_	_	20	obl	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	28	punct	_	_
 25	as	as	CCONJ	_	_	28	cc	_	_
@@ -3946,7 +3946,7 @@
 7	ard-er	ard-er	NOUN	_	_	5	xcomp:pred	_	_
 8	as	as	CCONJ	_	_	11	cc	_	_
 9	erskyn	erskyn	ADP	_	_	11	case	_	_
-10	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
+10	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
 11	jeih	jeih	NUM	_	_	7	conj	_	_
 12	as	as	CCONJ	_	_	13	cc	_	_
 13	feed	feed	NUM	_	_	11	conj	_	SpaceAfter=No
@@ -3982,7 +3982,7 @@
 11	cooinaghtyn	cooinaghtyn	NOUN	_	_	8	obl	_	_
 12	kinjagh	kinjagh	ADV	_	_	8	advmod	_	_
 13	jeh	jeh	ADP	_	_	15	case	_	_
-14	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
+14	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
 15	reddyn	red	NOUN	_	_	8	obl	_	_
 16	shoh	shoh	DET	_	_	15	det	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	20	punct	_	_
@@ -4364,7 +4364,7 @@
 9	cha	cha	PART	_	_	13	mark	_	_
 10	nee	she	AUX	_	_	13	cop	_	_
 11	son	son	ADP	_	_	13	case	_	_
-12	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
+12	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
 13	reddyn	red	NOUN	_	_	2	parataxis	_	_
 14	ta	bee	VERB	_	Mood=Ind|Tense=Pres	13	acl:relcl	_	_
 15	bentyn	bentyn	NOUN	_	_	14	xcomp	_	_
@@ -4461,10 +4461,10 @@
 32	ec	ec	ADP	_	_	33	case	_	_
 33	ad	ad	PRON	_	Number=Plur|Person=3	30	obl	_	_
 34	er	er	ADP	_	_	36	case	_	_
-35	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	36	det	_	_
+35	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	36	det	_	_
 36	focklyn	fockle	NOUN	_	_	31	nmod	_	_
 37	as	as	CCONJ	_	_	39	cc	_	_
-38	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	39	det	_	_
+38	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	39	det	_	_
 39	raaghyn	raa	NOUN	_	_	36	conj	_	_
 40	Gaelgagh	Gaelgagh	ADJ	_	_	39	amod	_	_
 41	va	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	36	acl:relcl	_	_
@@ -4472,7 +4472,7 @@
 43	seose	seose	ADV	_	_	42	advmod	_	_
 44	ayns	ayns	ADP	_	_	45	case	_	_
 45	Baarle	Baarle	PROPN	_	_	42	obl	_	_
-46	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	47	det	_	_
+46	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	47	det	_	_
 47	shenn	shenn	ADJ	_	_	48	amod	_	_
 48	Vanninee	Manninagh	PROPN	_	Form=Len	45	nmod	_	SpaceAfter=No
 49	:	:	PUNCT	_	_	50	punct	_	_
@@ -4527,7 +4527,7 @@
 93	geill	geill	NOUN	_	_	92	obj	_	_
 94	da	da	ADP	_	_	95	case	_	_
 95	lheid	lheid	NOUN	_	_	92	obl	_	_
-96	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	97	det	_	_
+96	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	97	det	_	_
 97	focklyn	fockle	NOUN	_	_	95	nmod	_	SpaceAfter=No
 98	,	,	PUNCT	_	_	100	punct	_	_
 99	my	my	SCONJ	_	_	100	mark	_	_
@@ -4649,7 +4649,7 @@
 5	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	2	obl	_	_
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	Cre	cre	PRON	_	_	2	parataxis	_	_
-8	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+8	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
 9	lhottyn	lhott	NOUN	_	_	7	nmod	_	_
 10	ad	ad	PRON	_	Number=Plur|Person=3	7	nsubj	_	_
 11	shoh	shoh	DET	_	_	10	det	_	_
@@ -5267,7 +5267,7 @@
 43	t'	bee	VERB	_	Mood=Ind|Tense=Pres	39	ccomp	_	_
 44	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	43	nsubj	_	_
 45	goanluckey	oanluckey	NOUN	_	_	43	xcomp	_	_
-46	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	47	det	_	_
+46	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	47	det	_	_
 47	merriu	marroo	NOUN	_	_	45	obj	_	_
 48	reesht	reesht	ADV	_	_	43	advmod	_	SpaceAfter=No
 49	.	.	PUNCT	_	_	2	punct	_	_
@@ -5437,7 +5437,7 @@
 # text = Va ooilley ny barrantee elley ayns coardailys rish ayns shoh.
 1	Va	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	ooilley	ooilley	NOUN	_	_	1	nsubj	_	_
-3	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	barrantee	barrantagh	NOUN	_	_	2	nmod	_	_
 5	elley	elley	ADJ	_	_	4	amod	_	_
 6	ayns	ayns	ADP	_	_	7	case	_	_
@@ -5598,7 +5598,7 @@
 19	millioon	millioon	NUM	_	_	20	nummod	_	_
 20	punt	punt	NOUN	_	_	15	nmod	_	_
 21	harrish	harrish	ADP	_	_	24	case	_	_
-22	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	24	det	_	_
+22	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	24	det	_	_
 23	queig	queig	NUM	_	_	24	nummod	_	_
 24	bleeaney	blein	NOUN	_	_	14	obl	_	_
 25	ta	bee	VERB	_	Mood=Ind|Tense=Pres	24	acl:relcl	_	_
@@ -5666,7 +5666,7 @@
 13	row	bee	VERB	_	Mood=Ind|Tense=Past	11	acl	_	_
 14	Cashtal	cashtal	NOUN	_	_	13	nsubj	_	_
 15	Phurt	purt	NOUN	_	Form=Len	14	nmod	_	_
-16	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	17	det	_	_
+16	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	17	det	_	_
 17	h-Inshey	innis	NOUN	_	Form=HPref	15	nmod	_	_
 18	troggit	troggit	ADJ	_	_	13	xcomp:pred	_	_
 19	er	er	ADP	_	_	20	case	_	_
@@ -5697,7 +5697,7 @@
 3	soit	soit	ADJ	_	_	1	xcomp:pred	_	_
 4	ayns	ayns	ADP	_	_	5	case	_	_
 5	jiass	jiass	NOUN	_	_	3	obl	_	_
-6	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+6	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	7	det	_	_
 7	çheerey	çheer	NOUN	_	_	5	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -5794,7 +5794,7 @@
 10	magh	magh	ADV	_	_	8	advmod	_	_
 11	gys	gys	ADP	_	_	12	case	_	_
 12	cronk	cronk	NOUN	_	_	8	obl	_	_
-13	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
+13	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
 14	Oliveyn	olive	NOUN	_	_	12	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	8	punct	_	_
 
@@ -5843,7 +5843,7 @@
 39	ve	ve	NOUN	_	_	35	xcomp	_	_
 40	baiht	baiht	ADJ	_	_	39	xcomp:pred	_	_
 41	trooid	trooid	ADP	_	_	43	case	_	_
-42	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	43	det	_	_
+42	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	43	det	_	_
 43	bleeantyn	blein	NOUN	_	_	35	obl	_	SpaceAfter=No
 44	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -5868,7 +5868,7 @@
 14	Affrick	Affrick	PROPN	_	_	11	obl	_	_
 15	Hwoaie	twoaie	ADJ	_	Form=Len	14	amod	_	_
 16	dys	dys	ADP	_	_	18	case	_	_
-17	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
+17	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
 18	h-Ellanyn	ellan	NOUN	_	Form=HPref	11	obl	_	_
 19	Goaldagh	Goaldagh	ADJ	_	_	18	amod	_	_
 20-21	'sy	_	_	_	_	_	_	_	_
@@ -6064,7 +6064,7 @@
 8	,	,	PUNCT	_	_	9	punct	_	_
 9	marish	marish	ADP	_	_	10	case	_	_
 10	ooilley	ooilley	NOUN	_	_	1	nmod	_	_
-11	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
+11	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
 12	lionyn	lion	NOUN	_	_	10	nmod	_	_
 13	aegey	aeg	ADJ	_	Number=Plur	12	amod	_	_
 14-15	ocsyn	_	_	_	_	_	_	_	SpaceAfter=No
@@ -6174,7 +6174,7 @@
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	cha	cha	PART	_	_	10	mark	_	_
 10	row	bee	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
-11	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
+11	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
 12	croiteyryn	croiteyr	NOUN	_	_	10	nsubj	_	_
 13	son	son	ADP	_	_	14	case	_	_
 14	cur	cur	NOUN	_	_	10	xcomp	_	_
@@ -6337,7 +6337,7 @@
 6	ve	ve	NOUN	_	_	1	xcomp	_	_
 7	casley	casley	ADJ	_	_	6	xcomp:pred	_	_
 8	rish	rish	ADP	_	_	10	case	_	_
-9	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
+9	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
 10	nooghyn	noo	NOUN	_	_	7	obl	_	_
 11	gloyroil	gloyroil	ADJ	_	_	10	amod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	_
@@ -6476,7 +6476,7 @@
 1	Ec	ec	ADP	_	_	2	case	_	_
 2	unnane	unnane	NOUN	_	_	6	obl	_	_
 3	jeh	jeh	ADP	_	_	5	case	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	buird	boayrd	NOUN	_	_	2	nmod	_	_
 6	hoie	soie	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 7	daa	daa	NUM	_	_	8	nummod	_	_
@@ -6683,7 +6683,7 @@
 27	Shepherd	Shepherd	PROPN	_	_	26	nsubj	_	_
 28	gynsaghey	ynsaghey	NOUN	_	_	26	xcomp	_	_
 29	sheshaght-chiaullee	sheshaght-chiaullee	NOUN	_	_	28	obj	_	_
-30	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	31	det	_	_
+30	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	31	det	_	_
 31	killagh	keeill	NOUN	_	_	29	nmod	_	_
 32	dy	dy	ADP	_	_	33	case	_	_
 33	chiaulleeagh	kiaulleeagh	NOUN	_	Form=Len	28	xcomp	_	_
@@ -6699,7 +6699,7 @@
 # text_en = Say among the heathen that the LORD reigneth: the world also shall be established that it shall not be moved: he shall judge the people righteously.
 1	Insh-jee	insh	VERB	_	Mood=Imp|Number=Plur|Person=2	0	root	_	_
 2	mastey	mastey	ADP	_	_	4	case	_	_
-3	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	ashoonyn	ashoon	NOUN	_	_	1	obl	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	9	punct	_	_
 6	dy	dy	PART	_	_	9	mark	_	_
@@ -6901,7 +6901,7 @@
 14	rish	rish	ADP	_	_	15	case	_	_
 15	veg	veg	NOUN	_	_	13	obl	_	_
 16	jeh	jeh	ADP	_	_	18	case	_	_
-17	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
+17	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
 18	reddyn	red	NOUN	_	_	15	nmod	_	_
 19	shoh	shoh	DET	_	_	18	det	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	_
@@ -7004,21 +7004,21 @@
 13	Gad	Gad	PROPN	_	_	11	flat	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
 15	Coontae	coontae	NOUN	_	_	11	appos	_	_
-16	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	17	det	_	_
+16	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	17	det	_	_
 17	h-Eearvee	Eearvee	PROPN	_	Form=HPref	15	nmod	_	_
 18	lesh	lesh	ADP	_	_	20	case	_	_
 19	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	20	det	_	_
 20	Ooive	Ooive	PROPN	_	_	10	obl	_	_
 21	ayns	ayns	ADP	_	_	22	case	_	_
 22	Coontae	coontae	NOUN	_	_	20	nmod	_	_
-23	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	24	det	_	_
+23	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	24	det	_	_
 24	Mee	Mee	PROPN	_	_	22	nmod	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = aa_269
 # text = Va ny tree deiney er ve tayrn fainey-rubbyr mooar, as ghow ad ymmyd jeh shoh dy roshtyn y traie.
 1	Va	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-2	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+2	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 3	tree	tree	NUM	_	_	4	nummod	_	_
 4	deiney	dooinney	NOUN	_	_	1	nsubj	_	_
 5	er	er	ADP	_	_	6	case	_	_
@@ -7067,7 +7067,7 @@
 4	ry	ry	ADP	_	_	5	case	_	_
 5	gheddyn	geddyn	NOUN	_	Form=Len	1	xcomp:pred	_	_
 6	voish	voish	ADP	_	_	8	case	_	_
-7	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
+7	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
 8	buill	boayl	NOUN	_	_	5	obl	_	_
 9	cheddin	cheddin	ADJ	_	_	8	amod	_	_
 10	son	son	ADP	_	_	11	case	_	_
@@ -7112,7 +7112,7 @@
 29	cheau	ceau	VERB	_	Form=Len|Mood=Ind|Tense=Past	2	conj	_	_
 30	ish	ee	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Emp	29	nsubj	_	_
 31	foast	foast	ADV	_	_	29	advmod	_	_
-32	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	33	det	_	_
+32	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	33	det	_	_
 33	slonganyn	slongan	NOUN	_	_	29	obj	_	_
 34	gyn	gyn	ADP	_	_	35	case	_	_
 35	feeu	feeu	NOUN	_	_	33	nmod	_	_
@@ -7157,7 +7157,7 @@
 3	ner	ner	NOUN	_	_	1	obl	_	_
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	ta	bee	VERB	_	Mood=Ind|Tense=Pres	1	parataxis	_	_
-6	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+6	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	laghyn	laa	NOUN	_	_	5	nsubj	_	_
 8	cheet	cheet	NOUN	_	_	5	xcomp	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	_
@@ -7187,7 +7187,7 @@
 32	;	;	PUNCT	_	_	34	punct	_	_
 33	as	as	CCONJ	_	_	34	cc	_	_
 34	nee	jean	VERB	_	Mood=Ind|Tense=Fut	5	conj	_	_
-35	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	36	det	_	_
+35	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	36	det	_	_
 36	sleityn	slieau	NOUN	_	_	34	nsubj	_	_
 37	shilley	shilley	NOUN	_	_	34	xcomp	_	_
 38	feeyn	feeyn	NOUN	_	_	37	obj	_	_
@@ -7196,7 +7196,7 @@
 41	as	as	CCONJ	_	_	42	cc	_	_
 42	nee	jean	VERB	_	Mood=Ind|Tense=Fut	5	conj	_	_
 43	ooilley	ooilley	NOUN	_	_	42	nsubj	_	_
-44	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	45	det	_	_
+44	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	45	det	_	_
 45	croink	cronk	NOUN	_	_	43	nmod	_	_
 46	lheïe	lheie	NOUN	_	_	42	xcomp	_	SpaceAfter=No
 47	.	.	PUNCT	_	_	1	punct	_	_
@@ -7306,7 +7306,7 @@
 1	Ayns	ayns	ADP	_	_	2	case	_	_
 2	soilshey	soilshey	NOUN	_	_	11	obl	_	_
 3	meein	meein	ADJ	_	_	2	amod	_	_
-4	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	5	det	_	_
 5	greiney	grian	NOUN	_	_	2	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	fastyr	fastyr	NOUN	_	_	11	obl	_	_
@@ -7325,7 +7325,7 @@
 19	gharey	garey	NOUN	_	Form=Len	14	obl	_	_
 20	mess	mess	NOUN	_	_	19	nmod	_	_
 21	lesh	lesh	ADP	_	_	23	case	_	_
-22	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	23	det	_	_
+22	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	23	det	_	_
 23	ein	eean	NOUN	_	_	14	obl	_	_
 24-25	eck	_	_	_	_	_	_	_	SpaceAfter=No
 24	ec	ec	ADP	_	_	25	case	_	_
@@ -7339,7 +7339,7 @@
 3	lettyr	lettyr	NOUN	_	_	0	root	_	_
 4	jeig	jeig	NOUN	_	_	2	compound	_	_
 5	abbyrlhit	abbyrlhit	NOUN	_	_	3	nmod	_	_
-6	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+6	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	7	det	_	_
 7	Gaelgey	Gaelg	PROPN	_	_	5	nmod	_	_
 8	ee	ee	PRON	_	Gender=Fem|Number=Sing|Person=3	3	nmod	_	_
 9	renniagh	renniagh	NOUN	_	_	3	nsubj	_	_
@@ -7367,7 +7367,7 @@
 4	getlagh	etlagh	NOUN	_	_	2	xcomp	_	_
 5	er	er	ADP	_	_	6	case	_	_
 6	geayltyn	geaylin	NOUN	_	_	4	obl	_	_
-7	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
+7	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
 8	Philistinee	Philistine	PROPN	_	Form=Len	6	nmod	_	_
 9	lesh	lesh	ADP	_	_	11	case	_	_
 10	y	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
@@ -7578,7 +7578,7 @@
 6	y	y	ADP	_	_	7	mark	_	_
 7	lhieggal	lhieggal	NOUN	_	_	2	xcomp	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_
-9	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
+9	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
 10	claghyn	clagh	NOUN	_	_	5	conj	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	14	punct	_	_
 12	as	as	CCONJ	_	_	14	cc	_	_
@@ -8490,7 +8490,7 @@
 # text_gd = “A bheil an cinn dhiubh?” dh'èigh a' Bhànrigh.
 1	“	“	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Vel	bee	VERB	_	Form=Ecl|Mood=Ind|Tense=Pres	0	root	_	_
-3	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	king	kione	NOUN	_	_	2	nsubj	_	_
 5-6	oc	_	_	_	_	_	_	_	_
 5	ec	ec	ADP	_	_	6	case	_	_
@@ -9185,7 +9185,7 @@
 # text_ga = Cóirigh na bláthanna.
 # text_en = Arrange the flowers.
 1	Jeshee	jeshee	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
-2	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	blaaghyn	blaa	NOUN	_	_	1	obj	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -9211,7 +9211,7 @@
 5	daah	daah	NOUN	_	_	4	obj	_	_
 6	buigh	buigh	ADJ	_	_	5	amod	_	_
 7	er	er	ADP	_	_	9	case	_	_
-8	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+8	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
 9	duillagyn	duillag	NOUN	_	_	4	obl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -9582,7 +9582,7 @@
 1	Cheayll	clasht	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	mee	mee	PRON	_	Number=Sing|Person=1	1	nsubj	_	_
 3	veih	veih	ADP	_	_	5	case	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	ferrishyn	ferrish	NOUN	_	_	1	obl	_	_
 6	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	obj	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
@@ -9867,7 +9867,7 @@
 # text_en = All stories end like that.
 1	Ta	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	ooilley	ooilley	NOUN	_	_	1	nsubj	_	_
-3	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	skeealyn	skeeal	NOUN	_	_	2	nmod	_	_
 5	cheet	cheet	NOUN	_	_	1	xcomp	_	_
 6	gy	gy	ADP	_	_	7	case	_	_
@@ -10610,7 +10610,7 @@
 # text_ga = Folmhaígí bhur ngloiní a dhaoine uaisle!
 # text_en = Drink up gentlemen!
 1	Folmee	folmee	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
-2	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	glessyn	gless	NOUN	_	_	1	obj	_	_
 4-5	eu	_	_	_	_	_	_	_	_
 4	ec	ec	ADP	_	_	5	case	_	_
@@ -10941,7 +10941,7 @@
 4	nhee	nhee	NOUN	_	_	1	nsubj	_	_
 5	gobbraghey	obbraghey	NOUN	_	_	1	xcomp	_	_
 6	noi	noi	ADP	_	_	8	case	_	_
-7	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
+7	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
 8	glaraghyn	glare	NOUN	_	_	5	obl	_	_
 9	Gaelgagh	Gaelgagh	ADJ	_	_	8	amod	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	_
@@ -11208,7 +11208,7 @@
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	obj	_	_
 3	er	er	ADP	_	_	4	case	_	_
 4	aggle	aggle	NOUN	_	_	1	obl	_	_
-5	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+5	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	6	det	_	_
 6	haggle	aggle	NOUN	_	Form=HPref	4	nmod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -11542,7 +11542,7 @@
 # text_ga = Oscail a shúile dó.
 # text_en = Disabuse him of it.
 1	Foshil	foshil	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
-2	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	sooillyn	sooill	NOUN	_	_	1	obj	_	_
 4-5	echey	_	_	_	_	_	_	_	_
 4	ec	ec	ADP	_	_	5	case	_	_
@@ -11699,7 +11699,7 @@
 # text_en = Freeze these herrings.
 1	Jean	jean	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	riojey	riojey	NOUN	_	_	1	xcomp	_	_
-3	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	skeddan	skeddan	NOUN	_	_	2	obj	_	_
 5	shoh	shoh	DET	_	_	4	det	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
@@ -11891,7 +11891,7 @@
 # text_ga = Tabhair na spoir go héadrom don chapall.
 # text_en = Give the horse a touch of the spurs.
 1	Cur	cur	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
-2	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	spuirryn	spuir	NOUN	_	_	1	obj	_	_
 4	dy	dy	PART	_	_	5	mark	_	_
 5	eddrym	eddrym	ADJ	_	_	1	advmod	_	_
@@ -12217,7 +12217,7 @@
 3	aggle	aggle	NOUN	_	_	1	nsubj	_	_
 4	magh	magh	ADV	_	_	1	advmod	_	_
 5	fud	fud	ADP	_	_	7	case	_	_
-6	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+6	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	straidyn	straid	NOUN	_	_	1	obl	_	_
 8	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	obj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	_	_
@@ -12634,7 +12634,7 @@
 1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	bochillagh	bochillagh	NOUN	_	_	1	xcomp	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	kirree	keyrrey	NOUN	_	_	3	obj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -12742,7 +12742,7 @@
 # text_en = He chalked up the drinks.
 1	Hug	cur	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
-3	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	joughinyn	jough	NOUN	_	_	1	obj	_	_
 5	er	er	ADP	_	_	7	case	_	_
 6	y	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
@@ -12767,7 +12767,7 @@
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	cappan	cappan	NOUN	_	_	1	obj	_	_
 4	jeh	jeh	ADP	_	_	6	case	_	_
-5	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+5	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	bassyn	bass	NOUN	_	_	1	obl	_	_
 7-8	echey	_	_	_	_	_	_	_	SpaceAfter=No
 7	ec	ec	ADP	_	_	8	case	_	_
@@ -12904,7 +12904,7 @@
 # text_en = He dashed their brains out.
 1	Vranse	branse	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
-3	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	henneeyn	enneeyn	NOUN	_	Form=HPref	1	obj	_	_
 5-6	oc	_	_	_	_	_	_	_	_
 5	ec	ec	ADP	_	_	6	case	_	_
@@ -13147,7 +13147,7 @@
 3	gys	gys	ADP	_	_	4	case	_	_
 4	reaghys	reaghys	NOUN	_	_	1	obl	_	_
 5	marish	marish	ADP	_	_	7	case	_	_
-6	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+6	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	dailleyderyn	dailleyder	NOUN	_	_	1	obl	_	_
 8-9	echey	_	_	_	_	_	_	_	SpaceAfter=No
 8	ec	ec	ADP	_	_	9	case	_	_
@@ -13201,7 +13201,7 @@
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	clean	clean	NOUN	_	_	1	obj	_	_
 4	jeh	jeh	ADP	_	_	6	case	_	_
-5	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+5	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	roihaghyn	roih	NOUN	_	_	1	obl	_	_
 7-8	echey	_	_	_	_	_	_	_	_
 7	ec	ec	ADP	_	_	8	case	_	_
@@ -13265,7 +13265,7 @@
 1	Hooar	fow	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	ayns	ayns	ADP	_	_	5	case	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	magglyn	maggyl	NOUN	_	_	1	obl	_	_
 6	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	obj	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
@@ -13297,7 +13297,7 @@
 # text_ga = Bhí a shúile ag dúnadh air.
 # text_en = He could not keep his eyes open.
 1	Va	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-2	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	sooillyn	sooill	NOUN	_	_	1	nsubj	_	_
 4-5	echey	_	_	_	_	_	_	_	_
 4	ec	ec	ADP	_	_	5	case	_	_
@@ -13351,7 +13351,7 @@
 # text_en = He burst his bonds.
 1	Vrish	brish	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
-3	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	geulaghyn	geuley	NOUN	_	_	1	obj	_	_
 5-7	v'er	_	_	_	_	_	_	_	SpaceAfter=No
 5	v'	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	4	acl:relcl	_	_
@@ -13379,7 +13379,7 @@
 3	stiagh	stiagh	ADV	_	_	1	advmod	_	_
 4	trooid	trooid	ADP	_	_	5	case	_	_
 5	dorrys	dorrys	NOUN	_	_	1	obl	_	_
-6	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+6	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	7	det	_	_
 7	shamyr	shamyr	NOUN	_	_	5	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -13579,7 +13579,7 @@
 1	Dyllee	yllee	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	magh	magh	ADV	_	_	1	advmod	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	henmyn	ennym	NOUN	_	Form=HPref	1	obj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -15093,7 +15093,7 @@
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	harrish	harrish	ADP	_	_	4	case	_	_
 4	broogh	broogh	NOUN	_	_	1	obl	_	_
-5	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+5	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	6	det	_	_
 6	loghey	logh	NOUN	_	_	4	nmod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -15422,7 +15422,7 @@
 1	Huitt	tuitt	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	er	er	ADP	_	_	5	case	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	glioonyn	glioon	NOUN	_	_	1	obl	_	_
 6-7	echey	_	_	_	_	_	_	_	SpaceAfter=No
 6	ec	ec	ADP	_	_	7	case	_	_
@@ -15447,7 +15447,7 @@
 1	Huitt	tuitt	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	ayns	ayns	ADP	_	_	5	case	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	dressyn	dress	NOUN	_	_	1	obl	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -15983,7 +15983,7 @@
 1	Haink	tar	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	kahngyr	kahngyr	NOUN	_	_	1	nsubj	_	_
 3	ayns	ayns	ADP	_	_	5	case	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	scowanyn	scowan	NOUN	_	_	1	obl	_	_
 6-7	echey	_	_	_	_	_	_	_	SpaceAfter=No
 6	ec	ec	ADP	_	_	7	case	_	_
@@ -16020,7 +16020,7 @@
 3	fortan	fortan	NOUN	_	_	1	obj	_	_
 4	ersooyl	ersooyl	ADV	_	_	1	advmod	_	_
 5	er	er	ADP	_	_	7	case	_	_
-6	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+6	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	gammanyn	gamman	NOUN	_	_	1	obl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -16731,7 +16731,7 @@
 # text_en = He apologised to me.
 1	Ren	jean	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
-3	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	leshtallyn	leshtal	NOUN	_	_	1	obj	_	_
 5-6	echey	_	_	_	_	_	_	_	_
 5	ec	ec	ADP	_	_	6	case	_	_
@@ -16867,7 +16867,7 @@
 # text_en = He acquitted his debts.
 1	Ghlen	glen	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
-3	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	feeaghyn	feeagh	NOUN	_	_	1	obj	_	_
 5-6	echey	_	_	_	_	_	_	_	SpaceAfter=No
 5	ec	ec	ADP	_	_	6	case	_	_
@@ -16880,7 +16880,7 @@
 # text_en = He acquitted his debts.
 1	Deeck	eeck	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
-3	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	feeaghyn	feeagh	NOUN	_	_	1	obj	_	_
 5-6	echey	_	_	_	_	_	_	_	SpaceAfter=No
 5	ec	ec	ADP	_	_	6	case	_	_
@@ -17238,7 +17238,7 @@
 1	Heid	sheid	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	er	er	ADP	_	_	5	case	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	meir	mair	NOUN	_	_	1	obl	_	_
 6-7	echey	_	_	_	_	_	_	_	SpaceAfter=No
 6	ec	ec	ADP	_	_	7	case	_	_
@@ -17341,7 +17341,7 @@
 1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	gee	ee	NOUN	_	_	1	xcomp	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	h-yngnyn	yngey	NOUN	_	_	3	obj	_	_
 6-7	echey	_	_	_	_	_	_	_	SpaceAfter=No
 6	ec	ec	ADP	_	_	7	case	_	_
@@ -17494,7 +17494,7 @@
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	raipey	raipey	NOUN	_	_	1	xcomp	_	_
 4	magh	magh	ADV	_	_	3	advmod	_	_
-5	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+5	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	hoardaghyn	oardagh	NOUN	_	Form=HPref	3	obj	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -17581,7 +17581,7 @@
 # text_en = He beat back the flames.
 1	Chast	cast	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
-3	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	lossanyn	lossan	NOUN	_	_	1	obj	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -17662,7 +17662,7 @@
 # text_ga = An bhfuil do chuid prátaí tochailte fós?
 # text_en = Have you dug your potatoes yet?
 1	Vel	bee	VERB	_	Form=Ecl|Mood=Ind|Tense=Pres	0	root	_	_
-2	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	praaseyn	praase	NOUN	_	_	1	nsubj	_	_
 4-5	ayd	_	_	_	_	_	_	_	_
 4	ec	ec	ADP	_	_	5	case	_	_
@@ -17819,7 +17819,7 @@
 # text_ga = An bhfuil na cearca Francacha cluimhrithe agat?
 # text_en = Have you plucked the turkeys?
 1	Vel	bee	VERB	_	Form=Ecl|Mood=Ind|Tense=Pres	0	root	_	_
-2	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	kiarkyn	kiark	NOUN	_	_	1	nsubj	_	_
 4	frangagh	frangagh	ADJ	_	_	3	amod	_	_
 5	speeint	speeint	PROPN	_	_	3	nmod	_	_
@@ -18164,7 +18164,7 @@
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	troggit	troggit	ADJ	_	_	1	xcomp:pred	_	_
 4	er	er	ADP	_	_	6	case	_	_
-5	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+5	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	sleityn	slieau	NOUN	_	_	3	obl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -18246,7 +18246,7 @@
 # text_en = He is an authority on Manx.
 1	She	she	AUX	_	_	2	cop	_	_
 2	ard-ynseyder	ard-ynseyder	NOUN	_	_	0	root	_	_
-3	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	4	det	_	_
 4	Gaelgey	Gaelg	PROPN	_	_	2	nmod	_	_
 5	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
@@ -18259,7 +18259,7 @@
 1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	noi	noi	ADP	_	_	5	case	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	Manninee	Manninagh	PROPN	_	_	1	xcomp:pred	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -18472,7 +18472,7 @@
 1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	giarrey	giarrey	NOUN	_	_	1	xcomp	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	feeacklyn	feeackle	NOUN	_	_	3	obj	_	_
 6-7	echey	_	_	_	_	_	_	_	SpaceAfter=No
 6	ec	ec	ADP	_	_	7	case	_	_
@@ -18751,7 +18751,7 @@
 3	dy	dy	PART	_	_	4	mark	_	_
 4	kinjagh	kinjagh	ADJ	_	_	1	advmod	_	_
 5	erskyn	erskyn	ADP	_	_	7	case	_	_
-6	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+6	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	lioaryn	lioar	NOUN	_	_	1	xcomp:pred	_	_
 8-9	echey	_	_	_	_	_	_	_	SpaceAfter=No
 8	ec	ec	ADP	_	_	9	case	_	_
@@ -18923,7 +18923,7 @@
 # text_en = He is a mine of information.
 1	Ta	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	fys	fys	NOUN	_	_	1	nsubj	_	_
-3	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	4	det	_	_
 4	cruinney	cruinney	NOUN	_	_	2	nmod	_	_
 5-6	echey	_	_	_	_	_	_	_	SpaceAfter=No
 5	ec	ec	ADP	_	_	6	case	_	_
@@ -20425,7 +20425,7 @@
 # text_en = He is in the secret.
 1	Ta	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	fys	fys	NOUN	_	_	1	nsubj	_	_
-3	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	4	det	_	_
 4	folliaght	folliaght	NOUN	_	_	2	nmod	_	_
 5-6	echey	_	_	_	_	_	_	_	SpaceAfter=No
 5	ec	ec	ADP	_	_	6	case	_	_
@@ -20440,11 +20440,11 @@
 1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	ayns	ayns	ADP	_	_	5	case	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	sleityn	slieau	NOUN	_	_	1	xcomp:pred	_	_
 6	geiyrt	eiyrt	NOUN	_	_	1	xcomp	_	_
 7	er	er	ADP	_	_	9	case	_	_
-8	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+8	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
 9	kirree	keyrrey	NOUN	_	_	6	obl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -20531,7 +20531,7 @@
 1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	ayns	ayns	ADP	_	_	5	case	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	sidooryn	sidoor	NOUN	_	_	1	xcomp:pred	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -20899,7 +20899,7 @@
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	poost	poost	ADJ	_	_	1	xcomp:pred	_	_
 4	er	er	ADP	_	_	6	case	_	_
-5	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+5	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	Kodheyryn	Kodheyr	PROPN	_	_	3	obl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -21244,7 +21244,7 @@
 1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	craa	craa	NOUN	_	_	1	xcomp	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	laueyn	laue	NOUN	_	_	3	obj	_	_
 6-7	echey	_	_	_	_	_	_	_	_
 6	ec	ec	ADP	_	_	7	case	_	_
@@ -21356,7 +21356,7 @@
 # text_ga = Tá a shúile oscailte di anois.
 # text_en = He is disenchanted with her now.
 1	Ta	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
-2	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	sooillyn	sooill	NOUN	_	_	1	nsubj	_	_
 4-5	echey	_	_	_	_	_	_	_	_
 4	ec	ec	ADP	_	_	5	case	_	_
@@ -21625,7 +21625,7 @@
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	er	er	ADP	_	_	4	case	_	_
 4	baare	baare	NOUN	_	_	1	xcomp:pred	_	_
-5	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+5	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	6	det	_	_
 6	geayee	geay	NOUN	_	_	4	nmod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -22320,7 +22320,7 @@
 # text_ga = Bhí a chosa leis an tine.
 # text_en = He had his feet to the fire.
 1	Va	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-2	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	cassyn	cass	NOUN	_	_	1	nsubj	_	_
 4-5	echey	_	_	_	_	_	_	_	_
 4	ec	ec	ADP	_	_	5	case	_	_
@@ -22521,7 +22521,7 @@
 1	Hooar	fow	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	fys	fys	NOUN	_	_	1	obj	_	_
-4	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	5	det	_	_
 5	firriney	firriney	NOUN	_	_	3	nmod	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -23151,7 +23151,7 @@
 3	argid	argid	NOUN	_	_	2	nmod	_	_
 4	cheet	cheet	NOUN	_	_	1	xcomp	_	_
 5	trooid	trooid	ADP	_	_	7	case	_	_
-6	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+6	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	laueyn	laue	NOUN	_	_	4	obl	_	_
 8-9	echey	_	_	_	_	_	_	_	SpaceAfter=No
 8	ec	ec	ADP	_	_	9	case	_	_
@@ -23583,7 +23583,7 @@
 3	da	da	ADP	_	_	4	case	_	_
 4	mee	mee	PRON	_	Number=Sing|Person=1	1	obl	_	_
 5	bun	bun	NOUN	_	_	1	obj	_	_
-6	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+6	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	7	det	_	_
 7	cooish	cooish	NOUN	_	_	5	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -23907,7 +23907,7 @@
 1	Ren	jean	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	cooilleeney	cooilleeney	NOUN	_	_	1	xcomp	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	yeearreeyn	yeearree	NOUN	_	_	3	obj	_	_
 6-7	echey	_	_	_	_	_	_	_	SpaceAfter=No
 6	ec	ec	ADP	_	_	7	case	_	_
@@ -24098,7 +24098,7 @@
 # text_en = He got into trouble with the police.
 1	Hayrn	tayrn	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
-3	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	meoiryn	meoir	NOUN	_	_	1	obj	_	_
 5	shee	shee	NOUN	_	_	4	nmod	_	_
 6-7	er	_	_	_	_	_	_	_	_
@@ -24206,7 +24206,7 @@
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	fys	fys	NOUN	_	_	1	obj	_	_
 4	er	er	ADP	_	_	6	case	_	_
-5	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+5	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	meoiryn	meoir	NOUN	_	_	1	obl	_	_
 7	shee	shee	NOUN	_	_	6	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
@@ -24632,7 +24632,7 @@
 # text_en = He has the knowledge of the ravens.
 1	Ta	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	fys	fys	NOUN	_	_	1	nsubj	_	_
-3	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	fee	feeagh	NOUN	_	_	2	nmod	_	_
 5-6	echey	_	_	_	_	_	_	_	SpaceAfter=No
 5	ec	ec	ADP	_	_	6	case	_	_
@@ -24721,7 +24721,7 @@
 # text_en = He hasn't the mental capacity to do it.
 1	Cha	cha	PART	_	_	2	mark	_	_
 2	nel	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
-3	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	henneeyn	enneeyn	NOUN	_	Form=HPref	2	nsubj	_	_
 5-6	echey	_	_	_	_	_	_	_	_
 5	ec	ec	ADP	_	_	6	case	_	_
@@ -25067,7 +25067,7 @@
 1	Ta	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	poagaghyn	poagey	NOUN	_	_	1	nsubj	_	_
 3	fo	fo	ADP	_	_	5	case	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	sooillyn	sooill	NOUN	_	_	1	xcomp:pred	_	_
 6-7	echey	_	_	_	_	_	_	_	SpaceAfter=No
 6	ec	ec	ADP	_	_	7	case	_	_
@@ -25625,7 +25625,7 @@
 # text_en = He holds the key to the question.
 1	Ta	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	feaysley	feaysley	NOUN	_	_	1	nsubj	_	_
-3	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	4	det	_	_
 4	feysht	feysht	NOUN	_	_	2	nmod	_	_
 5-6	echey	_	_	_	_	_	_	_	SpaceAfter=No
 5	ec	ec	ADP	_	_	6	case	_	_
@@ -25829,7 +25829,7 @@
 # text_ga = Tá a chosa armúrtha.
 # text_en = He has armoured legs.
 1	Ta	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
-2	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	lurgaghyn	lurgey	NOUN	_	_	1	nsubj	_	_
 4-5	echey	_	_	_	_	_	_	_	_
 4	ec	ec	ADP	_	_	5	case	_	_
@@ -25918,7 +25918,7 @@
 # text_en = He has an English accent.
 1	Ta	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	blass	blass	NOUN	_	_	1	nsubj	_	_
-3	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	4	det	_	_
 4	Baarle	Baarle	PROPN	_	_	2	nmod	_	_
 5-6	echey	_	_	_	_	_	_	_	SpaceAfter=No
 5	ec	ec	ADP	_	_	6	case	_	_
@@ -26309,7 +26309,7 @@
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	goit	goit	ADJ	_	_	1	xcomp:pred	_	_
 4	ec	ec	ADP	_	_	6	case	_	_
-5	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+5	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	thollogyn	thollog	NOUN	_	_	3	obl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -26389,7 +26389,7 @@
 3	er	er	ADP	_	_	4	case	_	_
 4	choayl	coayl	NOUN	_	Form=Len	1	xcomp	_	_
 5	lheihll	lheihll	NOUN	_	_	4	obj	_	_
-6	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+6	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	laueyn	laue	NOUN	_	_	5	nmod	_	_
 8-9	echey	_	_	_	_	_	_	_	SpaceAfter=No
 8	ec	ec	ADP	_	_	9	case	_	_
@@ -26574,7 +26574,7 @@
 1-2	S'tiark	_	_	_	_	_	_	_	_
 1	S'	she	AUX	_	_	2	cop	_	_
 2	tiark	tiark	ADJ	_	_	0	root	_	_
-3	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	caarjyn	carrey	NOUN	_	_	2	nsubj	_	_
 5-7	t'echey	_	_	_	_	_	_	_	SpaceAfter=No
 5	t'	bee	VERB	_	Mood=Ind|Tense=Pres	4	acl:relcl	_	_
@@ -27015,7 +27015,7 @@
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	lhiettrimys	lhiettrimys	NOUN	_	_	1	obj	_	_
 4	er	er	ADP	_	_	6	case	_	_
-5	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+5	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	boghtyn	boght	NOUN	_	_	1	obl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -27077,7 +27077,7 @@
 1	Dooyrt	abbyr	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	fo	fo	ADP	_	_	5	case	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	feeacklyn	feeackle	NOUN	_	_	1	obl	_	_
 6-7	echey	_	_	_	_	_	_	_	_
 6	ec	ec	ADP	_	_	7	case	_	_
@@ -27147,7 +27147,7 @@
 1	Dirree	irree	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	veih	veih	ADP	_	_	5	case	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	merriu	marroo	NOUN	_	_	1	obl	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -27169,7 +27169,7 @@
 1	Dooyrt	abbyr	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	trooid	trooid	ADP	_	_	5	case	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	feeacklyn	feeackle	NOUN	_	_	1	obl	_	_
 6-7	echey	_	_	_	_	_	_	_	_
 6	ec	ec	ADP	_	_	7	case	_	_
@@ -27267,7 +27267,7 @@
 1	Hiauill	shiauill	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	gys	gys	ADP	_	_	5	case	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	king	kione	NOUN	_	_	1	obl	_	_
 6	s'odjey	foddey	ADJ	_	Degree=Cmp,Sup	5	amod	_	_
 7	magh	magh	ADV	_	_	6	advmod	_	_
@@ -27529,7 +27529,7 @@
 1	Ren	jean	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	frappal	frappal	NOUN	_	_	1	xcomp	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	meill	meill	NOUN	_	_	3	obj	_	_
 6-7	echey	_	_	_	_	_	_	_	SpaceAfter=No
 6	ec	ec	ADP	_	_	7	case	_	_
@@ -27582,7 +27582,7 @@
 3	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
 4	eayn	eayn	NOUN	_	_	1	obj	_	_
 5	er	er	ADP	_	_	7	case	_	_
-6	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+6	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	geayltyn	geaylin	NOUN	_	_	1	obl	_	_
 8-9	echey	_	_	_	_	_	_	_	SpaceAfter=No
 8	ec	ec	ADP	_	_	9	case	_	_
@@ -28332,7 +28332,7 @@
 3	shaghey	shaghey	ADP	_	_	4	case	_	_
 4	mee	mee	PRON	_	Number=Sing|Person=1	1	obl	_	_
 5	er	er	ADP	_	_	7	case	_	_
-6	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+6	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	greeishyn	greeish	NOUN	_	_	1	obl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -28410,7 +28410,7 @@
 # text_en = He passes for a scholar.
 1	Ta	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	ennym	ennym	NOUN	_	_	1	nsubj	_	_
-3	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	4	det	_	_
 4	scoillar	scoillar	NOUN	_	_	2	nmod	_	_
 5-6	er	_	_	_	_	_	_	_	SpaceAfter=No
 5	er	er	ADP	_	_	6	case	_	_
@@ -28426,7 +28426,7 @@
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	cloie	cloie	NOUN	_	_	1	xcomp	_	_
 4	mastey	mastey	ADP	_	_	6	case	_	_
-5	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+5	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	tosheeyn	toshee	NOUN	_	_	3	obl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -28563,7 +28563,7 @@
 1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	mastey	mastey	ADP	_	_	5	case	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	fir	fer	NOUN	_	_	1	xcomp:pred	_	_
 6	share	mie	ADJ	_	Degree=Cmp,Sup	5	amod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
@@ -28717,7 +28717,7 @@
 1	Dinsh	insh	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	skeeal	skeeal	NOUN	_	_	1	obj	_	_
-4	ny	ny	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Case=Gen|Definite=Def|Number=Sing|PronType=Art	5	det	_	_
 5	cooish	cooish	NOUN	_	_	3	nmod	_	_
 6	dy	dy	PART	_	_	7	mark	_	_
 7	dowin	dowin	ADJ	_	_	1	advmod	_	SpaceAfter=No
@@ -28914,7 +28914,7 @@
 1	Ren	jean	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	crapley	crapley	NOUN	_	_	1	xcomp	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	molleeyn	mollee	NOUN	_	_	3	obj	_	_
 6-7	echey	_	_	_	_	_	_	_	SpaceAfter=No
 6	ec	ec	ADP	_	_	7	case	_	_
@@ -29028,7 +29028,7 @@
 1	Hrog	trog	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	veih	veih	ADP	_	_	5	case	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	merriu	marroo	NOUN	_	_	1	obl	_	_
 6	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	obj	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
@@ -29175,7 +29175,7 @@
 # text_en = He torpedoed the talks.
 1	Vill	mill	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
-3	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
+3	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	coloayrtyssyn	coloayrtys	NOUN	_	_	1	obj	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -29864,7 +29864,7 @@
 # text_ga = Bhí a shúile ag teacht amach as a cheann.
 # text_en = He was all eyes.
 1	Va	bee	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-2	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	sooillyn	sooill	NOUN	_	_	1	nsubj	_	_
 4-5	echey	_	_	_	_	_	_	_	_
 4	ec	ec	ADP	_	_	5	case	_	_
@@ -30152,7 +30152,7 @@
 1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	tayrn	tayrn	NOUN	_	_	1	xcomp	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	cassyn	cass	NOUN	_	_	3	obj	_	_
 6-7	echey	_	_	_	_	_	_	_	_
 6	ec	ec	ADP	_	_	7	case	_	_
@@ -30586,7 +30586,7 @@
 1	Sceilt	sceilt	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
 2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	thoyn	thoyn	NOUN	_	_	1	obj	_	_
-4	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+4	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	breechyn	breechyn	NOUN	_	_	3	nmod	_	_
 6-7	echey	_	_	_	_	_	_	_	SpaceAfter=No
 6	ec	ec	ADP	_	_	7	case	_	_
@@ -30960,7 +30960,7 @@
 6	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	4	nmod	_	_
 7	neose	neose	ADV	_	_	1	advmod	_	_
 8	er	er	ADP	_	_	10	case	_	_
-9	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
+9	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
 10	sooilley	sooill	NOUN	_	_	1	obl	_	_
 11-12	echey	_	_	_	_	_	_	_	SpaceAfter=No
 11	ec	ec	ADP	_	_	12	case	_	_
@@ -30976,7 +30976,7 @@
 3	keead	keead	NUM	_	_	4	nummod	_	_
 4	punt	punt	NOUN	_	_	1	obj	_	_
 5	ass	ass	ADP	_	_	7	case	_	_
-6	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+6	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	meihaghyn	meih	NOUN	_	_	1	obl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -31524,7 +31524,7 @@
 7	n'	ny	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	8	nmod:poss	_	_
 8	irree	irree	NOUN	_	_	4	xcomp	_	_
 9	veih	veih	ADP	_	_	11	case	_	_
-10	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
+10	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
 11	merriu	marroo	NOUN	_	_	8	obl	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -32885,7 +32885,7 @@
 # text_ga = Beidh na madraí i do mheasc, a náisiún agam.
 # text_en = The dogs will be amongst thee my nation.
 1	Bee	bee	VERB	_	Mood=Ind|Tense=Fut	0	root	_	_
-2	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	moddee	moddey	NOUN	_	_	1	nsubj	_	_
 4	ny	ny	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	nmod:poss	_	_
 5-7	mast'ayd	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33077,7 +33077,7 @@
 2	ad	ad	PRON	_	Number=Plur|Person=3	1	nsubj	_	_
 3	cloie	cloie	NOUN	_	_	1	xcomp	_	_
 4	er	er	ADP	_	_	6	case	_	_
-5	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+5	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	caartyn	caart	NOUN	_	_	3	obl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -33810,7 +33810,7 @@
 4-5	n'yarrood	_	_	_	_	_	_	_	_
 4	n'	ny	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	nmod:poss	_	_
 5	yarrood	jarrood	NOUN	_	Form=Len	1	xcomp	_	_
-6	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+6	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	mynreddyn	mynred	NOUN	_	_	5	obj	_	_
 8-9	jeh'n	_	_	_	_	_	_	_	_
 8	jeh	jeh	ADP	_	_	10	case	_	_
@@ -33827,7 +33827,7 @@
 # text_ga = Tá na pinn seo níos fearr ná iad sin atá mé tar éis ceannach.
 # text_en = These pens are better than those which I have bought.
 1	Ta	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
-2	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	pennyn	penn	NOUN	_	_	1	nsubj	_	_
 4	shoh	shoh	DET	_	_	3	det	_	_
 5	ny	ny	PART	_	_	6	mark	_	_
@@ -33962,7 +33962,7 @@
 5	n'	ny	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	6	nmod:poss	_	_
 6	aavioghey	aavioghey	NOUN	_	_	1	xcomp	_	_
 7	ooilley	ooilley	NOUN	_	_	6	obj	_	_
-8	ny	ny	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+8	ny	yn	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
 9	lossreeyn	losserey	NOUN	_	_	7	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	_
 
