@@ -47,6 +47,10 @@ Irish and Scottish Gaelic treebanks, respectively. Since all three
 Goidelic languages are grammatically very similar, I was able to
 consult their work when deciding how to resolve tricky annotation problems.
 
+## References
+
+* Scannell, Kevin P., [_Universal Dependencies for Manx Gaelic_](https://cs.slu.edu/~scannell/pub/ud-final.pdf), Proceedings of the Universal Dependencies Workshop at COLING 2020, 13 December 2020, pp. 152–157.
+
 # Changelog
 
 * 2020-11-15 v2.7
