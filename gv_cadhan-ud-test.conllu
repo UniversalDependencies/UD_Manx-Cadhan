@@ -300,7 +300,7 @@
 9	cur	cur	NOUN	_	_	5	xcomp	_	_
 10	ny	ny	PART	_	_	11	mark	_	_
 11	shlee	shlee	ADJ	_	_	16	advmod	_	_
-12	na	na	ADP	_	_	10	fixed	_	_
+12	na	na	ADP	_	_	11	fixed	_	_
 13	jeih	jeih	NUM	_	_	16	nummod	_	_
 14	as	as	CCONJ	_	_	15	cc	_	_
 15	feed	feed	NUM	_	_	13	conj	_	_
