@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Manx-Cadhan:
-commit 3f34d7c548f8cd2df5a61d814b67896e6df12547
-Merge: 7f9d87d 5b77047
+commit e4b9a540b5aac9fed6c28a46b2a352963ad6d201
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Mon Nov 6 12:39:27 2023 +0100
 Size: counted 20725 of 20725 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.06268140204272.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,8 +25,18 @@ Udapi: found 6732 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 20725 words.
 Genres: found 8 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang gv --max-err=10 UD_Manx-Cadhan/gv_cadhan-ud-test.conllu
+[Line 3413 Sent aa_254 Node 8]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 3412 Sent aa_254 Node 7]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+Warnings: 2
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang gv --max-err=10 UD_Manx-Cadhan/gv_cadhan-ud-train.conllu
+[Line 207 Sent aa_106 Node 14]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 206 Sent aa_106 Node 13]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 208 Sent aa_106 Node 15]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 206 Sent aa_106 Node 13]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 209 Sent aa_106 Node 16]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 206 Sent aa_106 Node 13]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+Warnings: 6
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.5) = 0.0384615384615385
