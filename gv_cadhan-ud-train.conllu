@@ -204,9 +204,9 @@
 11	cronnal	cronnal	ADJ	_	_	10	amod	_	_
 12	jeh	jeh	ADP	_	_	13	case	_	_
 13	Cymdeithas	Cymdeithas	PROPN	_	_	10	nmod	_	_
-14	yr	yr	PROPN	_	_	13	flat:foreign	_	_
-15	Iaith	Iaith	PROPN	_	_	13	flat:foreign	_	_
-16	Gymraeg	Gymraeg	PROPN	_	_	13	flat:foreign	_	_
+14	yr	yr	PROPN	_	_	13	flat	_	_
+15	Iaith	Iaith	PROPN	_	_	13	flat	_	_
+16	Gymraeg	Gymraeg	PROPN	_	_	13	flat	_	_
 17	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
 18	Sheshaght	sheshaght	NOUN	_	_	13	appos	_	_
 19	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	20	det	_	_
