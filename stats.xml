@@ -71,7 +71,7 @@
     <feat name="Typo" value="Yes" upos="NOUN">2</feat><!-- charrrey, okley -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="37">
+  <deps unique="36">
     <dep name="acl">34</dep>
     <dep name="acl:relcl">120</dep>
     <dep name="advcl">86</dep>
@@ -90,8 +90,7 @@
     <dep name="det">1315</dep>
     <dep name="discourse">12</dep>
     <dep name="fixed">71</dep>
-    <dep name="flat">26</dep>
-    <dep name="flat:foreign">4</dep>
+    <dep name="flat">30</dep>
     <dep name="iobj">2</dep>
     <dep name="mark">559</dep>
     <dep name="nmod">895</dep>
