@@ -80,7 +80,7 @@ consult their work when deciding how to resolve tricky annotation problems.
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.7
-License: GNU GPL 3.0
+License: CC BY-SA 4.0
 Includes text: yes
 Genre: news fiction nonfiction blog social wiki web bible
 Lemmas: manual native
