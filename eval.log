@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Manx-Cadhan:
-commit 7d595b78932e731cbad3a4ade1c9127dceda2dec
-Merge: def1a07 95472bd
+commit cc8160ae40061e4c842f0d46d9662f54f7bc5c78
+Merge: 6ef3f1a fefe4c1
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 20725 of 20725 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.06268140204272.
@@ -20,23 +20,65 @@ Features: source of annotation (from README) factor is 1.
 Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL       6732
-Udapi: found 6732 bugs.
+               TOTAL       6729
+Udapi: found 6729 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 20725 words.
-Genres: found 8 out of 17 known.
+Genres: found 8 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang gv --max-err=10 UD_Manx-Cadhan/gv_cadhan-ud-test.conllu
-*** PASSED ***
+[Line 37 Sent aa_055 Node 20]: [L3 Warning fixed-without-extpos] Fixed expression 'lurg da' does not have the 'ExtPos' feature
+[Line 211 Sent aa_043 Node 34]: [L3 Warning fixed-without-extpos] Fixed expression 'er son' does not have the 'ExtPos' feature
+[Line 302 Sent aa_067 Node 11]: [L3 Warning fixed-without-extpos] Fixed expression 'shlee na' does not have the 'ExtPos' feature
+[Line 582 Sent aa_196 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression 'lheid as' does not have the 'ExtPos' feature
+[Line 702 Sent aa_007 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Myr shoh' does not have the 'ExtPos' feature
+[Line 702 Sent aa_007 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'Myr'
+[Line 728 Sent aa_007 Node 26]: [L3 Warning fixed-without-extpos] Fixed expression 'dy chooilley' does not have the 'ExtPos' feature
+[Line 763 Sent aa_103 Node 19]: [L3 Warning fixed-without-extpos] Fixed expression 'Mean Souree' does not have the 'ExtPos' feature
+[Line 1299 Sent aa_125 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'smoo na' does not have the 'ExtPos' feature
+[Line 1470 Sent aa_044 Node 20]: [L3 Warning fixed-without-extpos] Fixed expression 'mygeayrt y mysh' does not have the 'ExtPos' feature
+[Line 1591 Sent aa_110 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Cre cho' does not have the 'ExtPos' feature
+[Line 1591 Sent aa_110 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' word 'Cre'
+...suppressing further errors regarding Warning
+[Line 1802 Sent aa_241 Node 19]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'myr'
+[Line 2333 Sent aa_168 Node 81]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'er'
+[Line 16562 Sent usage_3820 Node 7]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'myr'
+Syntax errors: 5
+Warnings: 28
+*** FAILED *** with 5 errors
+Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang gv --max-err=10 UD_Manx-Cadhan/gv_cadhan-ud-train.conllu
-*** PASSED ***
-Validity: 1
+[Line 200 Sent aa_106 Node 7]: [L3 Warning fixed-without-extpos] Fixed expression 'smoo na' does not have the 'ExtPos' feature
+[Line 539 Sent aa_028 Node 12]: [L3 Warning fixed-without-extpos] Fixed expression 'dy chooilley' does not have the 'ExtPos' feature
+[Line 1026 Sent ab_011 Node 20]: [L3 Warning fixed-without-extpos] Fixed expression 'myr shen' does not have the 'ExtPos' feature
+[Line 1026 Sent ab_011 Node 20]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'myr'
+[Line 1204 Sent aa_153 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'ou uss' does not have the 'ExtPos' feature
+[Line 1389 Sent aa_201 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Myr shen' does not have the 'ExtPos' feature
+[Line 1389 Sent aa_201 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'Myr'
+[Line 1448 Sent aa_246 Node 15]: [L3 Warning fixed-without-extpos] Fixed expression 'myr shen' does not have the 'ExtPos' feature
+[Line 1448 Sent aa_246 Node 15]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'myr'
+[Line 1471 Sent aa_022 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Myr shoh' does not have the 'ExtPos' feature
+[Line 1471 Sent aa_022 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'Myr'
+[Line 1604 Sent ab_000 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'myr shen' does not have the 'ExtPos' feature
+[Line 1604 Sent ab_000 Node 3]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'myr'
+[Line 1683 Sent ab_008 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Goll rish' does not have the 'ExtPos' feature
+[Line 1780 Sent aa_142 Node 11]: [L3 Warning fixed-without-extpos] Fixed expression 'dy chooilley' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
+[Line 2143 Sent aa_171 Node 7]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'mygeayrt'
+[Line 2238 Sent aa_220 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'Myr'
+[Line 4048 Sent alice_22 Node 11]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'myr'
+[Line 13842 Sent usage_482 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'Myr'
+Syntax errors: 9
+Warnings: 38
+*** FAILED *** with 9 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.5) = 0.0384615384615385
-(weight=0.0769230769230769) * (score{genres}=0.470588235294118) = 0.0361990950226244
+(weight=0.0769230769230769) * (score{genres}=0.444444444444444) = 0.0341880341880342
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
 (weight=0.256410256410256) * (score{size}=0.438831513074104) = 0.112520900788232
 (weight=0.0512820512820513) * (score{split}=0.67) = 0.0343589743589744
 (weight=0.0769230769230769) * (score{tags}=1) = 0.0769230769230769
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.837837837837838) = 0.0644490644490645
-(TOTAL score=0.44291265000351) * (availability=1) * (validity=1) = 0.44291265000351
-STARS = 2
-UD_Manx-Cadhan	0.44291265000351	2
+(TOTAL score=0.44090158916892) * (availability=1) * (validity=0.01) = 0.0044090158916892
+STARS = 0
+UD_Manx-Cadhan	0.0044090158916892	0
