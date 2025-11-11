@@ -82,6 +82,7 @@ consult their work when deciding how to resolve tricky annotation problems.
 Data available since: UD v2.7
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: news fiction nonfiction blog social wiki web bible
 Lemmas: manual native
 UPOS: manual native
